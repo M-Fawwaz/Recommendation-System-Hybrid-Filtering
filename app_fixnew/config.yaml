@@ -1,0 +1,290 @@
+cookie:
+  expiry_days: 30
+  key: random_key
+  name: auth_cookie
+credentials:
+  usernames:
+    '1':
+      failed_login_attempts: 0
+      logged_in: false
+      name: '1'
+      password: $2b$12$aLts1IKTOtl4UEmwsymE3unuPC6fRtt8OJxZnEof6H7HAqqhR/I62
+    '10':
+      failed_login_attempts: 0
+      logged_in: false
+      name: '10'
+      password: $2b$12$WyDxwIdL.ozLf0zmJytNoOO8Soupn6Qg9MFe9iXCIDGObdeSwhzHu
+    '11':
+      failed_login_attempts: 0
+      logged_in: false
+      name: '11'
+      password: $2b$12$u08RiJHEubVpbSODRxsCPeueSgupyU.CBKscbMsO8lFel0KMFR/zO
+    '12':
+      failed_login_attempts: 0
+      logged_in: false
+      name: '12'
+      password: $2b$12$mrvE53d0T6tuOdIr7gJADOTfzIhTPhJg36MnHei1Etzm8rKWTXtGC
+    '13':
+      failed_login_attempts: 0
+      logged_in: false
+      name: '13'
+      password: $2b$12$Jy56vhAjknJeAgDNIpE8POl0lAfy7f11rvPAdqXws2jyD.ve9GSQm
+    '14':
+      failed_login_attempts: 0
+      logged_in: false
+      name: '14'
+      password: $2b$12$5u2HeeWOpokNo8BSKEPol.kaex5sOTo7ouGb.rB0EOWUCBdwmFnWm
+    '15':
+      failed_login_attempts: 0
+      logged_in: false
+      name: '15'
+      password: $2b$12$bQ83JqjteyxACAljX7xVtuTxSVSTbcmMAYmOvydkRpyf3VlIU.M3i
+    '16':
+      failed_login_attempts: 0
+      logged_in: false
+      name: '16'
+      password: $2b$12$xR700Mq7kMjExZ3nKi5kN.KVjDDGbtBc.oL4/o7QoHHTN6891IBdO
+    '17':
+      failed_login_attempts: 0
+      logged_in: false
+      name: '17'
+      password: $2b$12$V79YahbVtpNwfxguhTPt9e3lTWRRClp9yBidv8X/LEX975e.2VTKC
+    '18':
+      failed_login_attempts: 0
+      logged_in: false
+      name: '18'
+      password: $2b$12$WI8Jq.fZmij2a89q/2e6tu7lXxNH5Oi.q2V6NiIQ7QGJ3b55tB4GS
+    '19':
+      failed_login_attempts: 0
+      logged_in: false
+      name: '19'
+      password: $2b$12$lXTxmStBb2jmG1uIv3PM..aiP5rSrGiUrhvJ0Ye4w.tpM/8L2rhiy
+    '2':
+      failed_login_attempts: 0
+      logged_in: false
+      name: '2'
+      password: $2b$12$J4Q.oLz2buv0R6ztrgGdKeekuZ./lg4BbiGywhiQa5BFO.PGEaGvW
+    '20':
+      failed_login_attempts: 0
+      logged_in: false
+      name: '20'
+      password: $2b$12$gsZuLPK42AWB.MfXoj/joOcC7EMiWVfJN/CkOK2QyFwChuwJnDvlG
+    '21':
+      failed_login_attempts: 0
+      logged_in: false
+      name: '21'
+      password: $2b$12$oU3BLJNWJ7hvEbArfpYY1OLpwxRRp6R/G370.qpenxnv.62qAVCte
+    '22':
+      failed_login_attempts: 0
+      logged_in: false
+      name: '22'
+      password: $2b$12$rOeJxFzFPaqdH.PYcuPLwO5ARvxUlZSLmRj3MvtiAuspoASLHFY.a
+    '23':
+      failed_login_attempts: 0
+      logged_in: false
+      name: '23'
+      password: $2b$12$rb0XW6Gm0GDiDsqJrZiu1emrY5o35P8atH4J.xPTvtxC9F4k4Lqyy
+    '24':
+      failed_login_attempts: 0
+      logged_in: false
+      name: '24'
+      password: $2b$12$72WEFWDyIl6HzEc4WE9SPuuLmNGp7RlXzM39TqRcKxCilHvZGKH/C
+    '25':
+      failed_login_attempts: 0
+      logged_in: false
+      name: '25'
+      password: $2b$12$TeUd7qXhq4z3JhCSrlK5YuMTMfqua.3m4Xfsjls.ZAOB5hq2areb6
+    '26':
+      failed_login_attempts: 0
+      logged_in: false
+      name: '26'
+      password: $2b$12$Hanv1PTavIiZ6qxxpjUA4OANljE33IcqbYGTUoLZ241d5CMn6KiLK
+    '27':
+      failed_login_attempts: 0
+      logged_in: false
+      name: '27'
+      password: $2b$12$VoCYh6nHwzIW2Knj/aRU2ukJjAbDqzea4sI4FoayMtUSZdjyD12JG
+    '28':
+      failed_login_attempts: 0
+      logged_in: false
+      name: '28'
+      password: $2b$12$.gGzlqrx.0VwFOvz.UF1IuhZRaxYH9VLU20G9ZsGv8QOz7sdkS6Ua
+    '29':
+      failed_login_attempts: 0
+      logged_in: false
+      name: '29'
+      password: $2b$12$GDZ5764OJE0I76aVDZlLZuhSTN32ymyvLMm1F7rFkYds2So2pnArW
+    '3':
+      failed_login_attempts: 0
+      logged_in: false
+      name: '3'
+      password: $2b$12$.iynNCTaEp97ymd7CdxP8O4CNVA2J70G.Bskv1iMf5cp12ShYTZ6G
+    '30':
+      failed_login_attempts: 0
+      logged_in: false
+      name: '30'
+      password: $2b$12$cim15jCxoq9bc/gOZrRBW.tuwq.3gb801QAs4AtKI8OvF3o8UATt2
+    '31':
+      failed_login_attempts: 0
+      logged_in: false
+      name: '31'
+      password: $2b$12$r6kOe7TgW3TJ0H.1Ft7wluRwF0QdXFuXj1MR4ft0MNOj2ZdOKMX0G
+    '32':
+      failed_login_attempts: 0
+      logged_in: false
+      name: '32'
+      password: $2b$12$.DjG.ddN2WRszbxAYxvTT.kRjVNWpfNDYDU9X1LvpAxTaDD9R4Sbe
+    '33':
+      failed_login_attempts: 0
+      logged_in: false
+      name: '33'
+      password: $2b$12$3yDFKa1V2Ng5EOzMr8buFuYpp.cd6wOOgUgFFxmGZigf823zi3iL6
+    '34':
+      failed_login_attempts: 0
+      logged_in: false
+      name: '34'
+      password: $2b$12$7726FUsOBiQlM6e7Jnn58umoBNu/lG5T5y5Qh5vpz.O8kjz5Q.e16
+    '35':
+      failed_login_attempts: 0
+      logged_in: false
+      name: '35'
+      password: $2b$12$lTGavuVxUvd34hWCXxT59uMV/mftWm/lESdqMJIoLJ/JJzPxG/Pde
+    '36':
+      failed_login_attempts: 0
+      logged_in: false
+      name: '36'
+      password: $2b$12$brD806WUe4Uffmaf3nwU6.L4CNHbGahNeVNAmAQjdaellM6RfyKZ.
+    '37':
+      failed_login_attempts: 0
+      logged_in: false
+      name: '37'
+      password: $2b$12$fv.gvn3dQXE0H.iZmmae9.i9T9rrfGzXRBPBTwdpg1DnmiblBWi96
+    '38':
+      failed_login_attempts: 0
+      logged_in: false
+      name: '38'
+      password: $2b$12$n7O8Ja.O/9/eN4C3bI5hs.TL9el1qpMnwwe01HgWpMuukYagg/lci
+    '39':
+      failed_login_attempts: 0
+      logged_in: false
+      name: '39'
+      password: $2b$12$cyLpyOojsOAjjchWUwHp8.o/oA57tV0wLV/Zwy0cHl5CSvYaoINr6
+    '4':
+      failed_login_attempts: 0
+      logged_in: false
+      name: '4'
+      password: $2b$12$VibyLFlj6a6QD5H2jz1h0eYiX.qIBCf1JInGttC5i2tWuBxm5t3I.
+    '40':
+      failed_login_attempts: 0
+      logged_in: false
+      name: '40'
+      password: $2b$12$63ryu7mLsYbHpU/dAuz/m.UV8flyTJK0oJ5WeF8.rE2z03LCSv95W
+    '41':
+      failed_login_attempts: 0
+      logged_in: false
+      name: '41'
+      password: $2b$12$oIBNlqNF57iQEO047tcxx.AXG6eKknyZE.qS2bNgDa3PkaWXVTjpG
+    '42':
+      failed_login_attempts: 0
+      logged_in: false
+      name: '42'
+      password: $2b$12$9CXWFpDY4uoYQH0e.jO8nODwh8A4Ni8vOyZqsU1i3s0lEUCaLGl7G
+    '43':
+      failed_login_attempts: 0
+      logged_in: false
+      name: '43'
+      password: $2b$12$iELrfAgDPNqUK0KXNOr6wud0A.3NqboSU2U.oouMRuPck8czKjQRK
+    '44':
+      failed_login_attempts: 0
+      logged_in: false
+      name: '44'
+      password: $2b$12$Sk0g/4GTrytqMwLEF27RAuaVtEK0Yq4mngLAvsjCIRbNgiURKyjv2
+    '45':
+      failed_login_attempts: 0
+      logged_in: false
+      name: '45'
+      password: $2b$12$kymNNk5BAcMA0CMuGJJEIu9U/afMvB1CsD1lzBOy7eKft3h50UGbK
+    '46':
+      failed_login_attempts: 0
+      logged_in: false
+      name: '46'
+      password: $2b$12$b47iRCIqjA/KxMcBQYVqr.r9fYoyIfgWWPLBOKqfIgYI6IF07tukG
+    '47':
+      failed_login_attempts: 0
+      logged_in: false
+      name: '47'
+      password: $2b$12$RrKb1osDb1Mim5x4RjbgmOrwruvX47jfRs/wS1Mvx0fwWKV8KWODe
+    '48':
+      failed_login_attempts: 0
+      logged_in: false
+      name: '48'
+      password: $2b$12$9dXYDDrKIKlObOrhD5x0rOjWSHflYFnxH5RAdTfV3XMmM1jcXPI2i
+    '49':
+      failed_login_attempts: 0
+      logged_in: false
+      name: '49'
+      password: $2b$12$/wJDFKmd5.rk/HmMi7./EeXW6sWt17tMoXE5EKDXRVjQGuGMCCsjK
+    '5':
+      failed_login_attempts: 0
+      logged_in: false
+      name: '5'
+      password: $2b$12$9RYJI3ZgT9XUZE9M3LMC7OvTlSJF8SquPfFO4gBIdDKVhBO6zDpvG
+    '50':
+      failed_login_attempts: 0
+      logged_in: false
+      name: '50'
+      password: $2b$12$ZbvCsIhj7tuodw52P0l8deKWDGJAbTJLaqZNZtW9R/RsLRi1wS8uW
+    '51':
+      failed_login_attempts: 0
+      logged_in: false
+      name: '51'
+      password: $2b$12$.oqBhOoiRdBAg648FjytHOi2b3CS21dZKWqsECJjakhjWQcbOp9l.
+    '52':
+      failed_login_attempts: 0
+      logged_in: false
+      name: '52'
+      password: $2b$12$VU6wwuf3zMPSKul6mKsE8uCkrKFSbsI/rJ/d.DZgvgiNQ5HrFBtP2
+    '53':
+      failed_login_attempts: 0
+      logged_in: false
+      name: '53'
+      password: $2b$12$eAc8pglwYaB5qyl/ZoP9oOEUUj/L5Q/noiHXmtVl.EdG3QI6zTodO
+    '54':
+      failed_login_attempts: 0
+      logged_in: false
+      name: '54'
+      password: $2b$12$NfCr5c/HIH46z6zVqDJz4e7yczB5fDvtqvZHILSon86t91t22X2HC
+    '55':
+      failed_login_attempts: 0
+      logged_in: false
+      name: '55'
+      password: $2b$12$fkFeDWt/YFYyyXxl59wme...qiFuSAQGLnlHzusEnQsTf/mo8wz..
+    '6':
+      failed_login_attempts: 0
+      logged_in: false
+      name: '6'
+      password: $2b$12$iqYwe.lGBMgmruZiHtj9PONpI1M5iYJZcL36H6SWQIysS8sLnXJh6
+    '66':
+      name: Wazzz
+      password: $2b$12$dvFYXdz51UDPefYHvCFmbOJYMGc/3fyS3Otj5Zmm8XYyoBmhA4JF6
+    '7':
+      failed_login_attempts: 0
+      logged_in: false
+      name: '7'
+      password: $2b$12$v3df9Fr7kBp9eev/O6cNxeRZtwTkFvYO/GMC1EVwhy4b.V8cvr/GW
+    '8':
+      failed_login_attempts: 0
+      logged_in: false
+      name: '8'
+      password: $2b$12$ggfJVgcGsIxJVfezmr4Yie4A.IJCWfCV2MnodY.9CPExIz/CBko52
+    '9':
+      failed_login_attempts: 0
+      logged_in: false
+      name: '9'
+      password: $2b$12$yGQXwjgFoCAFuMKisIseaewOeRxXHs/KNryd2eHFFsQContnR0BH6
+    admin:
+      failed_login_attempts: 0
+      logged_in: false
+      name: admin
+      password: $2b$12$ch8Wdmy8rX6LQta4bQ/mYuoPobeKeZpHMFilCzqPz5v8ad20JAlNy
+preauthorized: {}

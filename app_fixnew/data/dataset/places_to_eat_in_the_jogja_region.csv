@@ -1,0 +1,262 @@
+restaurant_id,Nama Restoran,Preferensi Makanan,Harga Rata-Rata Makanan di Toko (Rp),Rating Toko,Jenis Suasana,Variasi Makanan,Keramaian Restoran,Disajikan atau Ambil Sendiri,All You Can Eat atau Ala Carte
+0,"Mie Bandung Chinese Food, Ngampilan",Chinese,39000,5.0,Santai,"Bakmie, Aneka nasi, Chinese",3,Disajikan,Ala Carte
+1,"Soto Tauco Pekalongan Bu Iswi, Jalan Bimokurdo No.46, Gondokusuman, Demangan",Indonesia,19000,4.0,Santai,"Bakso & soto, Cepat saji, Minuman",2,Disajikan,Ala Carte
+2,Soto Ayam Kampung Dan Soto Daging Sapi Pak Ben,Indonesia,22000,4.0,Santai,"Bakso & soto, Minuman",2,Disajikan,Ala Carte
+3,"Legend Coffee, Yogyakarta",Western,37000,4.0,Santai,"Chicken & duck, Beverages, Pizza & pasta, Coffee, Rice, Noodles, Western",1,Disajikan,Ala Carte
+4,"Martabak Okonomiyaki BAMLY, Sonopakis",Japanese,25000,5.0,Santai,"Chicken & duck, Japanese, Martabak",3,Disajikan,Ala Carte
+5,"Nasi Goreng Gemilang, Gedongkuning",Chinese,19000,5.0,Santai,Chinese,2,Disajikan,Ala Carte
+6,"Restoran Mahkota (Tiong San), Pajeksan",Chinese,132000,5.0,Santai,"Chinese, Ayam & bebek, Aneka nasi, Bakmie",1,Disajikan,Ala Carte
+7,"Curryin, Perumnas",Japanese,42000,5.0,Santai,Japanese,1,Disajikan,Ala Carte
+8,"Marugame Udon, Hartono Mall Jogja",Japanese,68000,5.0,Formal,Japanese,1,Disajikan,Ala Carte
+9,"YOSHINOYA BEEF BOWL, Transmart Maguwoharjo",Japanese,64000,5.0,Formal,"Japanese, Fast food, Chicken & duck, Rice",3,Disajikan,Ala Carte
+10,"Sushi Battousai, Suryodiningratan",Japanese,32000,4.0,Formal,"Japanese, Snacks, Chinese",2,Disajikan,Ala Carte
+11,"Mochi Sakura, Plaza Ambarukmo",Japanese,41000,4.0,Santai,"Japanese, Snacks, Sweets",1,Disajikan,Ala Carte
+12,"Soto Pak Zaenal Barokah, Warungboto Umbulharjo",Indonesia,15000,4.0,Santai,"Minuman, Bakso & soto",2,Disajikan,Ala Carte
+13,"Warung Lawas, Prawirotaman",Western,41000,5.0,Santai,"Pizza & pasta, Chicken & duck, Western, Rice, Beverages, Snacks, Sweets, Fast food, Bakery, Bakso & soto, Noodles, Coffee",2,Disajikan,Ala Carte
+14,"Mediterranea Restaurant by Kamil, Matrijeron",Western,76000,5.0,Santai,"Pizza & pasta, Western",2,Disajikan,Ala Carte
+15,"Rustik Bistro & Bar, Hotel Harper Malioboro Yogyakarta",Western,32000,4.0,Formal,"Rice, Beverages, Western",3,Disajikan,Ala Carte
+16,"Gyudel Bowl & Nasi Goreng, Depok",Japanese,29000,5.0,Formal,"Rice, Fast food, Japanese",1,Disajikan,Ala Carte
+17,"Sushi Factory, Gejayan",Japanese,62000,5.0,Formal,"Seafood, Japanese",3,Disajikan,Ala Carte
+18,"Burgerax, Imogiri Timur",Western,38000,5.0,Santai,"Snacks, Western, Fast food",2,Disajikan,Ala Carte
+19,"Pulung Steak & Ribs, Catur Tunggal",Western,43000,5.0,Santai,Western,3,Disajikan,Ala Carte
+20,"Burger Bangor Express, Bantul",Western,40000,5.0,Santai,"Western, Fast food, Chicken & duck",1,Disajikan,Ala Carte
+21,"BurgeriOr, Tempel",Western,40000,5.0,Santai,"Western, Fast food, Snacks",2,Disajikan,Ala Carte
+22,"Mamam Food, Pringgolayan Banguntapan",Western,27000,5.0,Santai,"Western, Pizza & pasta, Rice",1,Disajikan,Ala Carte
+23,"Yamie Panda, Cokroaminoto",Chinese,28000,5.0,Santai,"Bakmie, Chinese, Bakso & soto",1,Disajikan,Ala Carte
+24,"Kedai Mie Nyinyir, Sorogenen",Indonesia,22000,5.0,Santai,"Bakso & soto, Bakmie",2,Disajikan,Ala Carte
+25,"Dudidu Dimsum, ISI",Chinese,40000,5.0,Santai,"Chinese, Japanese, Korean",2,Disajikan,Ala Carte
+26,"Kwetiau Goreng Dan Nasi Goreng Seafood Makjoss, Batikan",Chinese,25000,5.0,Santai,"Chinese, Seafood, Bakmie",3,Disajikan,Ala Carte
+27,"Double O Resto, Tegalrejo",Japanese,30000,5.0,Santai,"Coffee, Beverages, Japanese",1,Disajikan,Ala Carte
+28,"HokBen Kitchen, Godean Jogjakarta",Japanese,49000,5.0,Formal,"Fast food, Japanese",1,Disajikan,Ala Carte
+29,Salad Sehat Fd,Japanese,30000,5.0,Santai,"Fast food, Japanese, Korean",3,Disajikan,Ala Carte
+30,"Bakmi Nikmat Rasa, Demangan",Indonesia,59000,5.0,Santai,Japanese,1,Disajikan,Ala Carte
+31,"GYU KATSU, CONDONGCATUR",Japanese,32000,5.0,Formal,"Japanese, Rice",3,Disajikan,Ala Carte
+32,"Vegan Cafe Black Forest, Brontokusuman",Chinese,22000,5.0,Santai,"Minuman, Chinese, Barat",3,Disajikan,Ala Carte
+33,"Grennesia Salad Bar & Breakfast, Parangtritis",Western,22000,5.0,Formal,"Rice, Western, Snacks",3,Disajikan,Ala Carte
+34,"Chikuro Pakuwon Mall Jogja, Pakuwon Mall Lantai LG",Japanese,40000,5.0,Formal,"Snacks, Japanese",2,Disajikan,Ala Carte
+35,"Waroeng Steak And Shake, Tamansiswa",Western,40000,5.0,Santai,Western,1,Disajikan,Ala Carte
+36,"Burger King, Diponegoro",Western,57000,5.0,Santai,"Western, Fast food",2,Disajikan,Ala Carte
+37,"ViaVia Jogja, Prawirotaman",Western,75000,5.0,Santai,"Western, Indian, Pizza & pasta",1,Disajikan,Ala Carte
+38,"AMco, Parangtritis",Japanese,108000,5.0,Formal,"Western, Japanese, Pizza & pasta",1,Disajikan,Ala Carte
+39,"The Rock Burger, Melati Wetan",Western,50000,5.0,Santai,"Western, Rice, Fast food",1,Disajikan,Ala Carte
+40,"Lotek Gado-Gado Bu Ning, Tamansiswa",Indonesia,26000,5.0,Santai,"Aneka nasi, Ayam & bebek, Bakso & soto",3,Disajikan,Ala Carte
+41,"Pecel Lele Dan Bakso Mie Ayam Sakolehe, Umbulharjo",Indonesia,20000,4.0,Santai,"Aneka nasi, Ayam & bebek, Bakso & soto",2,Disajikan,Ala Carte
+42,"Pork King - Ricebox Babi, Gondokusuman",Chinese,52000,5.0,Santai,"Aneka nasi, Cepat saji, Chinese",1,Disajikan,Ala Carte
+43,"PigGoo Kitchen, Baciro",Chinese,52000,4.0,Santai,"Bakmie, Chinese, Aneka nasi",3,Disajikan,Ala Carte
+44,"Soto Sehati, Umbulharjo",Indonesia,26000,4.0,Santai,Bakso & soto,3,Disajikan,Ala Carte
+45,"Bakso Urat & Mie Ayam Rizky, Sorogenen",Indonesia,17000,5.0,Santai,"Bakso & soto, Bakmie",2,Disajikan,Ala Carte
+46,Izakaya Japanese Resto,Japanese,120000,5.0,Formal,"Beverages, Japanese, Seafood",2,Disajikan,Ala Carte
+47,Yani's Kitchen,Chinese,26000,4.0,Santai,"Chinese, Ayam & bebek, Aneka nasi, Bakmie",3,Disajikan,Ala Carte
+48,"Seafood 99, Wonocatur",Chinese,23000,5.0,Santai,"Chinese, Seafood, Aneka nasi",1,Disajikan,Ala Carte
+49,"Hotaru Ramen, Banguntapan",Japanese,36000,4.0,Santai,"Fast food, Japanese, Noodles",3,Disajikan,Ala Carte
+50,Kantin Mama Mirza,Indonesia,17000,4.0,Santai,"Jajanan, Bakso & soto, Aneka nasi",2,Disajikan,Ala Carte
+51,"Mitsuru Ramen, Foodcourt135",Japanese,35000,4.0,Santai,Japanese,2,Disajikan,Ala Carte
+52,"Warung Ramen N Katsu, Chapter 1 Menteri Supeno",Japanese,30000,5.0,Santai,Japanese,2,Disajikan,Ala Carte
+53,Deta Kitchen,Japanese,16000,4.0,Santai,"Japanese, Chinese",2,Disajikan,Ala Carte
+54,"Chicken Katsu Domreneo, Suryodiningratan",Japanese,21000,3.0,Santai,"Japanese, Rice, Chicken & duck",3,Disajikan,Ala Carte
+55,"Sushi Yay, Selokan Yogya",Japanese,82000,5.0,Santai,"Japanese, Rice, Fast food, Chicken & duck",2,Disajikan,Ala Carte
+56,Tanoshi Bedjo Homestay,Japanese,66000,4.0,Santai,"Japanese, Rice, Sate",1,Disajikan,Ala Carte
+57,Kantin Siap Saji Zupa Soup The Eifel,Western,22000,4.0,Santai,"Pizza & pasta, Rice, Western",2,Disajikan,Ala Carte
+58,Penyetan Ayam Bakar Dan Suki Tomyam Yss Food,Japanese,32000,5.0,Santai,"Rice, Chicken & duck, Japanese",3,Disajikan,Ala Carte
+59,"Bento Yay, Selokan Yogya",Japanese,58000,5.0,Formal,"Rice, Japanese, Chicken & duck",1,Disajikan,Ala Carte
+60,"Nikkou Ramen, Pakualaman",Japanese,32000,4.0,Santai,"Rice, Noodles, Japanese",3,Disajikan,Ala Carte
+61,"d'Sushi & Takoyaki, Rejodadi Sidorejo",Japanese,34000,4.0,Santai,"Rice, Snacks, Japanese",2,Disajikan,Ala Carte
+62,"Wangoen Zuppa Soup, Umbulharjo",Western,20000,5.0,Santai,"Snacks, Western",2,Disajikan,Ala Carte
+63,"Burgerax, Prawirotaman",Western,38000,5.0,Santai,"Snacks, Western, Fast food",3,Disajikan,Ala Carte
+64,"Kedai Jagoan Moy-Moy, Tamsis",Chinese,12000,5.0,Santai,"Sweets, Chinese",2,Disajikan,Ala Carte
+65,"Waroeng Steak and Shake, Demangan",Western,40000,5.0,Santai,Western,1,Disajikan,Ala Carte
+66,"Waroeng Steak and Shake, Jalan Bantul",Western,40000,5.0,Santai,Western,2,Disajikan,Ala Carte
+67,"Spark Resto And Sports Bar, Prawirotaman",Western,36000,5.0,Santai,"Western, Beverages, Sate",3,Disajikan,Ala Carte
+68,"Dapur Mamika, Jl Sisingamangaraja Gg Menur",Western,18000,4.0,Santai,"Western, Chicken & duck, Rice",1,Disajikan,Ala Carte
+69,"Burgerax, Demangan Baru",Western,38000,5.0,Santai,"Western, Snacks, Fast food",3,Disajikan,Ala Carte
+70,"Pawon Mbokdis, Mantrigawen Lor",Japanese,20000,5.0,Santai,"Aneka nasi, Bakmie, Chinese",2,Disajikan,Ala Carte
+71,"Rm & Seafood 99, Sorowajan",Chinese,22000,4.0,Santai,"Aneka nasi, Bakmie, Chinese",2,Disajikan,Ala Carte
+72,"Ayam Geprek DBC, Beskalan",Indonesia,21000,5.0,Santai,"Aneka nasi, Bakso & soto, Ayam & bebek, Minuman",1,Disajikan,Ala Carte
+73,"Nasi Goreng & Halal Chinesefood MakJoss, Rumah Pagar Biru Salon Yuli",Chinese,25000,4.0,Santai,"Aneka nasi, Chinese, Bakmie",2,Disajikan,Ala Carte
+74,"Buttersweet, Saman Utara",Western,20000,4.0,Santai,"Bakery, Beverages, Western",3,Disajikan,Ala Carte
+75,"Bakso Urat Arema Soringin, Langensari",Indonesia,19000,4.0,Santai,Bakso & soto,2,Disajikan,Ala Carte
+76,"Bakso Urat Cak Ari, Mataram",Indonesia,20000,4.0,Santai,Bakso & soto,2,Disajikan,Ala Carte
+77,"Soto Daging Lamongan Cak Ngun, Jl. Veteran No 212 Umbulharjo",Indonesia,24000,4.0,Santai,Bakso & soto,2,Disajikan,Ala Carte
+78,"Agenda Resto & Vibes, Arkadia",Western,48000,4.0,Santai,"Beverages, Pizza & pasta, Western",2,Disajikan,Ala Carte
+79,Raja Sate & Soto,Indonesia,27000,5.0,Santai,"Cepat saji, Sate, Bakso & soto",2,Disajikan,Ala Carte
+80,CHICKATS,Japanese,25000,5.0,Santai,"Chicken & duck, Rice, Japanese",1,Disajikan,Ala Carte
+81,Chinese Food / Sea Food Kondang,Chinese,31000,5.0,Santai,"Chinese, Ayam & bebek, Seafood",2,Disajikan,Ala Carte
+82,Suguhand Cafe,Western,111000,4.0,Santai,"Coffee, Western, Pizza & pasta",2,Disajikan,Ala Carte
+83,"HokBen, Kaliurang",Japanese,49000,5.0,Formal,"Fast food, Japanese",3,Disajikan,Ala Carte
+84,"Pop Mart, Laksda Adi Sucipto (Korner)",Western,22000,5.0,Santai,"Fast food, Western, Coffee",1,Disajikan,Ala Carte
+85,"HokBen Kitchen, Brontokusuman Parangtritis",Japanese,49000,5.0,Formal,"Japanese, Fast food",1,Disajikan,Ala Carte
+86,"Hakata Ikkousha, Demangan Baru",Japanese,80000,5.0,Formal,"Japanese, Noodles",3,Disajikan,Ala Carte
+87,"Tanoshii Sushi, Pogung Dalangan",Japanese,58000,5.0,Santai,"Japanese, Rice, Korean, Snacks, Fast food",2,Disajikan,Ala Carte
+88,"Pizza Hut, Sudirman",Western,119000,5.0,Formal,"Pizza & pasta, Fast food, Western",3,Disajikan,Ala Carte
+89,"Roaster and Bear, P. Mangkubumi",Western,87000,5.0,Santai,"Rice, Chicken & duck, Beverages, Snacks, Sweets, Western, Coffee, Pizza & pasta",1,Disajikan,Ala Carte
+90,"Essen Choco Pot, Gedong Kuning",Western,35000,5.0,Santai,"Rice, Western, Beverages",2,Disajikan,Ala Carte
+91,"Zona Seafood, Kotabaru",Chinese,44000,5.0,Santai,"Seafood, Chinese",3,Disajikan,Ala Carte
+92,Burgerax Demangan 2,Western,38000,4.0,Santai,"Snacks, Fast food, Western",3,Disajikan,Ala Carte
+93,"Makan Burger & Toast, Mantrirejon",Western,21000,5.0,Santai,Western,2,Disajikan,Ala Carte
+94,"Reisban Coffee Shop, Menukan",Western,25000,5.0,Santai,"Western, Coffee, Beverages",1,Disajikan,Ala Carte
+95,"Pupa Meatshop, Banguntapan",Western,47000,5.0,Santai,"Western, Japanese, Korean",2,Disajikan,Ala Carte
+96,"Pupa Meatshop, Prawirotaman",Western,47000,5.0,Santai,"Western, Japanese, Korean",1,Disajikan,Ala Carte
+97,"Pepper Lunch, Hartono Mall",Japanese,92000,5.0,Formal,"Western, Japanese, Rice, Chicken & duck",1,Disajikan,Ala Carte
+98,"King Star Kebab, Nogorojo",Western,23000,4.0,Santai,"Western, Snacks",2,Disajikan,Ala Carte
+99,"Yamie Panda, Kridosono",Chinese,28000,5.0,Santai,"Bakmie, Chinese",2,Disajikan,Ala Carte
+100,"Rumah Makan Terang Mulyo, Katamso",Chinese,42000,5.0,Santai,"Aneka nasi, Bakmie, Chinese",3,Disajikan,Ala Carte
+101,"Berkah Abadi, Pasar Kranggan",Chinese,28000,4.0,Santai,"Ayam & bebek, Chinese",2,Disajikan,Ala Carte
+102,"Mie Ayam Dan Bakso Babaran, Umbulharjo",Indonesia,17000,4.0,Santai,"Bakmie, Bakso & soto",2,Disajikan,Ala Carte
+103,Yamie Singkawang,Chinese,45000,5.0,Santai,"Bakmie, Chinese",3,Disajikan,Ala Carte
+104,"Easy Peasy Kitchen, Prawirotaman",Western,43000,5.0,Santai,"Beverages, Western",2,Disajikan,Ala Carte
+105,"Kiwae Ayam Kekinian, Nologaten",Western,30000,5.0,Santai,"Chicken & duck, Korean, Western",1,Disajikan,Ala Carte
+106,"Pepper Lunch, Plaza Ambarrukmo",Japanese,92000,5.0,Formal,"Chicken & duck, Rice, Japanese",3,Disajikan,Ala Carte
+107,Makmur Spesial B2 Food,Chinese,31000,5.0,Santai,"Chinese, Aneka nasi, Bakmie",1,Disajikan,Ala Carte
+108,"Rice&Steak, Ngipik, Potorono, Banguntapan, Bantul",Chinese,27000,4.0,Santai,"Fast food, Chinese, Western",2,Disajikan,Ala Carte
+109,"Japanese Town Snack, Matrijeron",Japanese,27000,4.0,Santai,"Fast food, Japanese, Snacks",3,Disajikan,Ala Carte
+110,"Seblak Asgar, Lowanu",Indonesia,33000,4.0,Santai,"Jajanan, Bakso & soto",2,Disajikan,Ala Carte
+111,"Tora Tora, Kaliurang",Japanese,28000,5.0,Santai,"Japanese, Rice",2,Disajikan,Ala Carte
+112,"Jajan Fast Food, Sisingamangaraja",Western,18000,4.0,Santai,"Rice, Fast food, Western",3,Disajikan,Ala Carte
+113,"Sate Taichan Hitz, Gejayan",Japanese,32000,5.0,Santai,"Snacks, Japanese, Sate",3,Disajikan,Ala Carte
+114,"Kebab Turki Babarafi, Babarsari",Western,23000,4.0,Santai,"Snacks, Western",3,Disajikan,Ala Carte
+115,"Boom Burger, Seturan",Western,37000,5.0,Santai,Western,3,Disajikan,Ala Carte
+116,"Dang! Burger, Glagah Sari",Western,29000,5.0,Santai,Western,3,Disajikan,Ala Carte
+117,"Burger Bangor Express, Taman Siswa",Western,40000,5.0,Santai,"Western, Fast food, Chicken & duck",3,Disajikan,Ala Carte
+118,"Yamie Panda, Timoho",Chinese,28000,5.0,Santai,"Bakmie, Bakso & soto, Chinese",3,Disajikan,Ala Carte
+119,"Cak No Chinese Food, Jogoyudan",Chinese,25000,5.0,Santai,"Aneka nasi, Bakmie, Chinese",1,Disajikan,Ala Carte
+120,Warung Sop Iga Dan Soto Betawi Bu Tya,Indonesia,28000,4.0,Santai,"Aneka nasi, Bakso & soto",3,Disajikan,Ala Carte
+121,"Sop Ayam Pak Min Klaten, Taman Siswa",Indonesia,20000,5.0,Santai,"Bakso & soto, Ayam & bebek, Aneka nasi",3,Disajikan,Ala Carte
+122,"DF HEALTHY KITCHEN (DF FIT CLUB), Yk",Western,76000,5.0,Santai,"Beverages, Rice, Western",1,Disajikan,Ala Carte
+123,"Ono Dimsum, Baciro",Japanese,17000,5.0,Santai,"Chinese, Jajanan",2,Disajikan,Ala Carte
+124,"Hokben Kitchen, Seturan Jogja",Japanese,49000,5.0,Formal,"Japanese, Fast food",1,Disajikan,Ala Carte
+125,"Tom Sushi, Hartono Mall Jogja",Japanese,56000,5.0,Formal,"Japanese, Fast food",1,Disajikan,Ala Carte
+126,"Banzai, Mergangsan",Japanese,45000,5.0,Formal,"Japanese, Fast food, Rice",1,Disajikan,Ala Carte
+127,"RamenYa!, Plaza Ambarrukmo",Japanese,73000,5.0,Santai,"Japanese, Rice, Noodles",3,Disajikan,Ala Carte
+128,"Pizza Hut, Adi Sucipto Jogja",Western,119000,5.0,Formal,"Pizza & pasta, Fast food, Western",1,Disajikan,Ala Carte
+129,"Pizza Hut, Sultan Agung Yogyakarta",Western,119000,5.0,Formal,"Pizza & pasta, Fast food, Western",1,Disajikan,Ala Carte
+130,"Picnic! Pata X Sausage Tamansiswa, Jl. Tamansiswa No.49 Yogya",Western,29000,4.0,Santai,"Pizza & pasta, Snacks, Western",1,Disajikan,Ala Carte
+131,"Rumah Makan Tio Asli Ciu Chinese Food & Sea Food, Jetis",Chinese,120000,4.0,Santai,"Seafood, Bakmie, Chinese",2,Disajikan,Ala Carte
+132,"Manalagi KQ 5, Ngampilan",Chinese,26000,5.0,Santai,"Seafood, Chinese",2,Disajikan,Ala Carte
+133,"Lawson Shop, Tegalrejo",Japanese,44000,4.0,Formal,"Snacks, Beverages, Japanese, Coffee, Korean",3,Disajikan,Ala Carte
+134,"Burgerax, Glagahsari",Western,38000,4.0,Santai,"Snacks, Western",3,Disajikan,Ala Carte
+135,"Ini Baru Rajanya Steak, Banguntapan",Western,35000,5.0,Formal,Western,3,Disajikan,Ala Carte
+136,"Burger Bangor Express, Janti",Western,40000,5.0,Santai,"Western, Fast food, Chicken & duck",3,Disajikan,Ala Carte
+137,"Black Kebab, Wirobrajan",Middle Eastern,23000,4.0,Santai,"Western, Middle Eastern, Snacks",1,Disajikan,Ala Carte
+138,"Twisted Noodle, Gondokusuman",Chinese,12000,5.0,Santai,"Bakmie, Chinese",2,Disajikan,Ala Carte
+139,"Yamie Panda, Demangan",Chinese,28000,5.0,Santai,"Bakmie, Chinese",2,Disajikan,Ala Carte
+140,"RM Makmur Chinese Food, Sosromenduran",Chinese,40000,5.0,Santai,"Aneka nasi, Bakmie, Chinese",3,Disajikan,Ala Carte
+141,"Brongkos Koyor dan Sop Buntut Mbak Ris, Balaikota",Indonesia,30000,5.0,Santai,"Aneka nasi, Bakso & soto, Seafood",1,Disajikan,Ala Carte
+142,"Bebek Peking dan Ayam Panggang Pak Gembul, Jl KH Ahmad Dahlan No 40",Chinese,45000,4.0,Santai,"Ayam & bebek, Chinese, Aneka nasi",2,Disajikan,Ala Carte
+143,Bakso Lapangan Tembak Senayan - Cendana,Indonesia,42000,5.0,Santai,"Bakso & soto, Aneka nasi, Bakmie",1,Disajikan,Ala Carte
+144,"Ayam Geprek & Rice Bowl Tobiko Mentai, Karangkajen",Japanese,23000,5.0,Santai,"Chicken & duck, Japanese, Beverages",3,Disajikan,Ala Carte
+145,"Funkydak, Komplek Colombo",Western,58000,5.0,Santai,"Chicken & duck, Western, Fast food",3,Disajikan,Ala Carte
+146,RM. Gajah jaya,Chinese,25000,5.0,Santai,Chinese,1,Disajikan,Ala Carte
+147,"Hore Steak Jogja, Jl. Cenderawasih 32b",Western,77000,4.0,Formal,"Fast food, Beverages, Western",3,Disajikan,Ala Carte
+148,"Ichiban Sushi, Hartono Mall",Japanese,52000,5.0,Formal,Japanese,3,Disajikan,Ala Carte
+149,"BOX MIE, Monjali",Japanese,24000,5.0,Santai,"Japanese, Noodles, Korean",2,Disajikan,Ala Carte
+150,"Warung Makan Tokyo, Titik Maps Sabi Jogja",Japanese,17000,4.0,Santai,"Rice, Japanese, Seafood",1,Disajikan,Ala Carte
+151,"East Pork - #1 Sei Babi Kupang In Jogja, Ampel",Western,30000,5.0,Santai,"Rice, Western, Sate",1,Disajikan,Ala Carte
+152,"Kebab Jawa, Sorogenen",Western,18000,4.0,Santai,Western,2,Disajikan,Ala Carte
+153,"Iten Kitchen, PazelKitchen Sudirman",Western,26000,4.0,Formal,"Western, Pizza & pasta",2,Disajikan,Ala Carte
+154,Warung Toscana,Western,69000,5.0,Santai,"Western, Pizza & pasta",1,Disajikan,Ala Carte
+155,"Kedai Zu Pa ( Zuppa Soup & Pasta ) Kotabaru, Juadi",Western,21000,5.0,Santai,"Western, Snacks, Pizza & pasta",2,Disajikan,Ala Carte
+156,NABE COFFEE Soragan,Japanese,36000,5.0,Santai,"Bakery, Japanese, Coffee",2,Disajikan,Ala Carte
+157,"Mie Jakarta Express, Galeria Mall",Chinese,48000,5.0,Santai,"Bakmie, Seafood, Chinese",3,Disajikan,Ala Carte
+158,"Sushi Tei, Komplek Colombo",Japanese,100000,5.0,Formal,"Beverages, Seafood, Japanese",3,Disajikan,Ala Carte
+159,"Bubur Ayam Kampung Hawila, Timoho",Chinese,25000,4.0,Santai,"Cepat saji, Chinese, Aneka nasi",3,Disajikan,Ala Carte
+160,"Nasi Ayam d' Katsu, Rejodadi Sidorejo",Japanese,38000,5.0,Santai,"Chicken & duck, Japanese, Rice",3,Disajikan,Ala Carte
+161,Kedai Liang Xin,Chinese,22000,5.0,Santai,"Chinese, Japanese",2,Disajikan,Ala Carte
+162,"My Kopi-O! Indonesian Bistro, Sagan",Western,51000,5.0,Santai,"Coffee, Snacks, Western",3,Disajikan,Ala Carte
+163,"Gokana Ramen & Teppan, Pakuwon Mall Jogja",Japanese,55000,4.0,Formal,"Japanese, Rice",2,Disajikan,Ala Carte
+164,"Katsukai, Selokan Mataram",Japanese,37000,4.0,Santai,"Japanese, Rice",1,Disajikan,Ala Carte
+165,"Kalluna, Kotabaru",Western,60000,5.0,Santai,"Rice, Chicken & duck, Western",2,Disajikan,Ala Carte
+166,"Daruma Donburi, Mlati, Sinduadi",Japanese,35000,4.0,Santai,"Rice, Japanese",1,Disajikan,Ala Carte
+167,"Sabi Jogja, Caturtunggal",Japanese,49000,4.0,Santai,"Sate, Rice, Japanese",2,Disajikan,Ala Carte
+168,"Brick Pastrami Burger, Kuliner Lor Tugu",Western,44000,4.0,Santai,Western,3,Disajikan,Ala Carte
+169,"Burger Bros, Mergangsan",Western,40000,5.0,Santai,Western,1,Disajikan,Ala Carte
+170,"Lawang Resto, Yellow Star Ambarrukmo Hotel",Western,28000,4.0,Santai,Western,3,Disajikan,Ala Carte
+171,"Waroeng Steak and Shake, HOS Cokroaminoto",Western,40000,5.0,Santai,Western,3,Disajikan,Ala Carte
+172,"Kebab Turki Baba Rafi, Tegalrejo",Western,38000,4.0,Santai,"Western, Middle Eastern, Snacks",2,Disajikan,Ala Carte
+173,"Madam Tan Indonesian Food, Gondokusuman",Western,30000,5.0,Santai,"Western, Pizza & pasta, Noodles, Seafood",2,Disajikan,Ala Carte
+174,"Yamie Panda, Jalan Solo",Chinese,28000,5.0,Santai,"Chinese, Bakmie",2,Disajikan,Ala Carte
+175,"Soto Bu Kamto, Umbulharjo",Indonesia,15000,4.0,Santai,"Bakso & soto, Aneka nasi, Ayam & bebek",1,Disajikan,Ala Carte
+176,Bakso Ceker Mercon dan Penyetan Mayang Sidikan,Indonesia,18000,4.0,Santai,"Bakso & soto, Aneka nasi, Korea",2,Disajikan,Ala Carte
+177,"Mie Ayam & Bakso Idolaku Pak Tikno, Tamansiswa",Indonesia,30000,5.0,Santai,"Bakso & soto, Bakmie",2,Disajikan,Ala Carte
+178,"Soto Daging Sapi Lamongan Cak Sodik, Jl Veteran,umbuhalrjo",Indonesia,22000,4.0,Santai,"Bakso & soto, Minuman, Cepat saji",2,Disajikan,Ala Carte
+179,"YOSHINOYA BEEF BOWL, Kaliurang Jogja",Japanese,64000,5.0,Formal,"Fast food, Japanese, Chicken & duck, Rice, Coffee",2,Disajikan,Ala Carte
+180,"Melt Salad Fresh n Healthy Food, Sukun Raya",Western,19000,5.0,Santai,"Fast food, Sweets, Western",2,Disajikan,Ala Carte
+181,"Nasi Bakar Lagi Dan Mendoan Jumbo ""Mbakayune"", Umbulharjo",Indonesia,20000,5.0,Santai,"Jajanan, Aneka nasi, Bakso & soto",2,Disajikan,Ala Carte
+182,"Oriyamie, Kusumanegara",Indonesia,20000,4.0,Santai,"Jajanan, Bakso & soto, Bakmie",1,Disajikan,Ala Carte
+183,"Ichiban Sushi, Plaza Malioboro",Japanese,52000,5.0,Formal,Japanese,3,Disajikan,Ala Carte
+184,"Banzai, Tegalrejo",Japanese,49000,5.0,Formal,"Japanese, Fast food, Rice",1,Disajikan,Ala Carte
+185,"Nakdang, Banguntapan",Japanese,33000,5.0,Santai,"Japanese, Rice, Chicken & duck",2,Disajikan,Ala Carte
+186,"Boga Kitchen, Selokan Yogya",Japanese,82000,5.0,Santai,"Japanese, Rice, Fast food, Chicken & duck",3,Disajikan,Ala Carte
+187,"Por Aqui Resto & IRD, Prawirotaman",Western,33000,5.0,Santai,"Rice, Beverages, Western",1,Disajikan,Ala Carte
+188,"Nasi Mangkok Uncle Dave, Depok/Caturtunggal/Seturan",Japanese,21000,5.0,Santai,"Rice, Fast food, Japanese",1,Disajikan,Ala Carte
+189,"Ramen Kanbai, Babarsari",Japanese,27000,4.0,Santai,"Sweets, Japanese, Noodles",3,Disajikan,Ala Carte
+190,"Boom Burger, Mergangsan",Western,37000,5.0,Santai,Western,3,Disajikan,Ala Carte
+191,"Burger Bros, Seturan",Western,40000,5.0,Santai,Western,1,Disajikan,Ala Carte
+192,"Monalisa Burger Sisingamangaraja, seberang BDS syariah",Western,33000,5.0,Santai,Western,3,Disajikan,Ala Carte
+193,"Choky Spaghetti Steak, Sugiyono",Western,24000,5.0,Santai,"Western, Rice",3,Disajikan,Ala Carte
+194,"Steak Box, Gondokusuman, Kotabaru",Western,27000,4.0,Santai,"Western, Rice, Fast food",2,Disajikan,Ala Carte
+195,"Ta Wan, Malioboro",Chinese,56000,5.0,Formal,"Aneka nasi, Ayam & bebek, Chinese",2,Disajikan,Ala Carte
+196,"Yamie Panda, Lippo Mall Jogja",Chinese,28000,5.0,Santai,"Bakmie, Chinese",1,Disajikan,Ala Carte
+197,"Yamie Panda, Tamansiswa",Chinese,28000,5.0,Santai,"Chinese, Bakmie",3,Disajikan,Ala Carte
+198,Pondok Damai Mbah Tin,Chinese,23000,4.0,Santai,"Aneka nasi, Bakmie, Chinese",3,Disajikan,Ala Carte
+199,"Mie Ayam Pancoran, Glagahsari",Indonesia,21000,4.0,Santai,"Bakmie, Bakso & soto",3,Disajikan,Ala Carte
+200,"Mie Kita Orang, Pasar Kranggan Lantai 2",Chinese,20000,4.0,Santai,"Bakmie, Chinese",3,Disajikan,Ala Carte
+201,"Bakso Cak Masrur, Timoho",Indonesia,43000,5.0,Santai,Bakso & soto,2,Disajikan,Ala Carte
+202,Soto Daging Sapi Lamongan Cak Lim,Indonesia,22000,5.0,Santai,"Bakso & soto, Cepat saji, Aneka nasi",3,Disajikan,Ala Carte
+203,"Etnik Kafe, Mergangsan",Chinese,23000,4.0,Santai,"Chinese, Aneka nasi, Ayam & bebek",1,Disajikan,Ala Carte
+204,Bakso Bakar Sosis Bakar Depokan,Indonesia,22000,4.0,Santai,"Jajanan, Bakso & soto, Bakmie",1,Disajikan,Ala Carte
+205,"HokBen, Malioboro Mall",Japanese,49000,5.0,Formal,Japanese,3,Disajikan,Ala Carte
+206,Silla Korean & Japanese Restaurant,Japanese,85000,5.0,Formal,"Japanese, Korean",1,Disajikan,Ala Carte
+207,"Aqori Angkringan Jepang, Kuliner Lor Tugu",Japanese,23000,4.0,Santai,"Japanese, Snacks",3,Disajikan,Ala Carte
+208,"Sun Rice Bowl, Panggungharjo",Japanese,28000,5.0,Santai,"Rice, Chicken & duck, Japanese",2,Disajikan,Ala Carte
+209,"Sate Kambing Pak Tomek, Ngentak",Indonesia,22000,4.0,Santai,"Sate, Aneka nasi, Bakso & soto",3,Disajikan,Ala Carte
+210,"Seafood 99, Sorogenen",Chinese,32000,5.0,Santai,"Seafood, Aneka nasi, Chinese",1,Disajikan,Ala Carte
+211,"Lawson Shop, Imogiri Barat",Japanese,44000,5.0,Formal,"Snacks, Beverages, Japanese, Coffee, Korean",3,Disajikan,Ala Carte
+212,"Lawson Shop, Sorowajan",Japanese,44000,5.0,Formal,"Snacks, Beverages, Japanese, Coffee, Korean",2,Disajikan,Ala Carte
+213,"Burgerax, Gedongkuning",Western,38000,4.0,Santai,"Snacks, Fast food, Western",2,Disajikan,Ala Carte
+214,"Hawker's Steak, JEC",Western,28000,4.0,Formal,Western,1,Disajikan,Ala Carte
+215,"Pizza Aroma Italia 2, Gondokusuman",Western,107000,5.0,Formal,"Western, Pizza & pasta",2,Disajikan,Ala Carte
+216,"Blengerr, Hayam Wuruk",Chinese,34000,5.0,Santai,"Aneka nasi, Ayam & bebek, Chinese",3,Disajikan,Ala Carte
+217,"Nasi Goreng dan Chinese Food Abah, Prawirotaman",Chinese,22000,5.0,Santai,"Bakmie, Chinese, Aneka nasi",1,Disajikan,Ala Carte
+218,"Soto Sapi Winong, Ngeksigondo",Indonesia,25000,5.0,Santai,Bakso & soto,2,Disajikan,Ala Carte
+219,"Mr. Teto Sate & Soto, Perintis Kemerdekaan",Indonesia,27000,5.0,Santai,"Bakso & soto, Sate",1,Disajikan,Ala Carte
+220,"Steak 36 Kusumanegara, No.222 , Kota Yogyakarta",Western,24000,4.0,Santai,"Chicken & duck, Western",3,Disajikan,Ala Carte
+221,"Petit Paris Boulangerie and Bistro, Kotabaru",Western,103000,4.0,Formal,"Chicken & duck, Western, Fast food",2,Disajikan,Ala Carte
+222,"A&M Co. Express, Jogja",Japanese,75000,5.0,Formal,"Fast food, Japanese",1,Disajikan,Ala Carte
+223,"Ayam Serundeng, Nitikan",Indonesia,21000,5.0,Santai,"Jajanan, Aneka nasi, Bakso & soto",3,Disajikan,Ala Carte
+224,"Hakata Ikkousha, Hartono Mall",Japanese,64000,5.0,Formal,Japanese,3,Disajikan,Ala Carte
+225,"Shigeru Sushi, Pakuwon Mall Yogyakarta",Japanese,50000,4.0,Formal,Japanese,1,Disajikan,Ala Carte
+226,"Kimukatsu, Hartono Mall",Japanese,67000,5.0,Formal,"Japanese, Rice, Chicken & duck",3,Disajikan,Ala Carte
+227,"Beef Mafia, Selokan Yogya",Japanese,70000,5.0,Formal,"Japanese, Rice, Fast food, Chicken & duck",1,Disajikan,Ala Carte
+228,"Genki Sushi, Plaza Ambarrukmo",Japanese,58000,5.0,Formal,"Japanese, Rice, Snacks",2,Disajikan,Ala Carte
+229,"Ganbate Kitchen, Widya Mataram",Japanese,31000,4.0,Santai,"Rice, Chicken & duck, Japanese",2,Disajikan,Ala Carte
+230,"AB Oriental Streetfood, Pedak",Japanese,32000,5.0,Santai,"Rice, Fast food, Japanese",2,Disajikan,Ala Carte
+231,"Steak Moen-Moen, Galeria Mall",Western,26000,4.0,Formal,Western,3,Disajikan,Ala Carte
+232,"Steak Up, Mlati",Western,88000,5.0,Santai,Western,1,Disajikan,Ala Carte
+233,"Kebab Burger 26, Kotagede",Western,19000,4.0,Santai,"Western, Fast food",2,Disajikan,Ala Carte
+234,"Pothz Burger, STM Pembangunan",Western,27000,5.0,Santai,"Western, Fast food",1,Disajikan,Ala Carte
+235,Warung Buto,Chinese,43000,5.0,Santai,"Aneka nasi, Chinese, Sate",1,Disajikan,Ala Carte
+236,"Mie Surabaya Pak Joko, Gedongkuning Selatan",Chinese,18000,5.0,Santai,"Bakmie, Aneka nasi, Chinese",3,Disajikan,Ala Carte
+237,"Mie Kepang Jayakarta, Kusumanegara",Indonesia,42000,5.0,Santai,"Bakmie, Jajanan, Bakso & soto",2,Disajikan,Ala Carte
+238,Warung Sop dan Tongseng Ayam Family,Indonesia,17000,4.0,Santai,"Bakso & soto, Ayam & bebek",3,Disajikan,Ala Carte
+239,"Ono Dimsum, Timoho",Indonesia,17000,5.0,Santai,"Bakso & soto, Cepat saji, Jajanan",1,Disajikan,Ala Carte
+240,Bakso Dan Seblak Asgar,Indonesia,17000,5.0,Santai,"Bakso & soto, Cepat saji, Minuman",1,Disajikan,Ala Carte
+241,"Tanamera Coffee Roastery, Yogyakarta",Western,75000,4.0,Santai,"Beverages, Coffee, Western",1,Disajikan,Ala Carte
+242,"Rembo Chick n Steak, Mantrijeron",Western,15000,3.0,Santai,"Chicken & duck, Western, Fast food",1,Disajikan,Ala Carte
+243,"Oase Cafe & Coffe, Mergangsan",Chinese,22000,5.0,Santai,"Chinese, Aneka nasi, Bakmie",2,Disajikan,Ala Carte
+244,Rumah Makan Echo Roso 1,Chinese,27000,5.0,Santai,"Chinese, Aneka nasi, Seafood",2,Disajikan,Ala Carte
+245,"Vegan Fortunate Coffee, Jogonegaran",Western,45000,5.0,Santai,"Coffee, Western, Beverages",3,Disajikan,Ala Carte
+246,"Onoki Mentai, Depok",Japanese,45000,5.0,Santai,"Fast food, Japanese, Rice",3,Disajikan,Ala Carte
+247,"Banzai!, Seturan",Japanese,49000,5.0,Formal,Japanese,1,Disajikan,Ala Carte
+248,"Ichiban Sushi, Plaza Ambarrukmo",Japanese,52000,5.0,Formal,Japanese,3,Disajikan,Ala Carte
+249,Umami House Sushi & Dry Ramen,Japanese,21000,4.0,Santai,Japanese,3,Disajikan,Ala Carte
+250,"Zutto Sushi Homemade, Elang",Japanese,30000,4.0,Santai,Japanese,1,Disajikan,Ala Carte
+251,"Marugame Udon & Tempura, Plaza Ambarrukmo",Japanese,68000,5.0,Formal,"Japanese, Noodles",3,Disajikan,Ala Carte
+252,"Warunk Sushi Condong Catur, Depok",Japanese,44000,5.0,Santai,"Rice, Fast food, Japanese",2,Disajikan,Ala Carte
+253,Takoyaki Kuliner Lor Tugu,Japanese,22000,4.0,Santai,"Snacks, Beverages, Japanese",2,Disajikan,Ala Carte
+254,"Lawson Shop, Mantrijeron",Japanese,44000,4.0,Formal,"Snacks, Beverages, Japanese, Coffee, Korean",3,Disajikan,Ala Carte
+255,"Veno'S Burger, Mergangsan",Western,40000,4.0,Santai,"Snacks, Fast food, Western",1,Disajikan,Ala Carte
+256,OMAH STEAK AND CHICKEN,Western,34000,5.0,Santai,Western,2,Disajikan,Ala Carte
+257,"Pondok Cabe Bistro, C Simanjuntak",Western,35000,4.0,Santai,"Western, Pizza & pasta, Rice, Chicken & duck, Bakso & soto",3,Disajikan,Ala Carte
+258,Waroeng Spaghetti Balapan,Western,25000,5.0,Santai,"Western, Snacks",2,Disajikan,Ala Carte
+259,"Burgerax, Patangpuluhan",Western,38000,5.0,Santai,"Western, Snacks, Fast food",3,Disajikan,Ala Carte
+260,"Shaburi & Kintan Buffet, Ambarukmo Plaza Yogya",Japanese,330000,5.0,Formal,"Japanese, Rice, Chicken & duck",2,Ambil Sendiri,All You Can Eat

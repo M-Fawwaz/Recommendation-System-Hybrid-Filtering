@@ -1,0 +1,56 @@
+user_id,Nama,Domisili,"Mediterranea Restaurant by Kamil, Matrijeron","A&M Co. Express, Jogja","Kalluna, Kotabaru ","Restoran Mahkota (Tiong San), Pajeksan","Legend Coffee, Yogyakarta ","Marugame Udon, Hartono Mall Jogja ","Pepper Lunch, Hartono Mall  ","YOSHINOYA BEEF BOWL, Kaliurang Jogja  ","Petit Paris Boulangerie and Bistro, Kotabaru","Pizza Aroma Italia 2, Gondokusuman","Shigeru Sushi, Pakuwon Mall Yogyakarta ",Hakata Ikkousha Ramen Restaurant,"Ichiban Sushi, Plaza Malioboro","Yamie Panda, Tamansiswa","Por Aqui Resto & IRD, Prawirotaman","Hawker's Steak, JEC","Pothz Burger, STM Pembangunan","Tanamera Coffee Roastery, Yogyakarta","Oase Cafe & Coffe, Mergangsan ","Shaburi & Kintan Buffet, Ambarukmo Plaza Yogya ","Chikuro Pakuwon Mall Jogja, Pakuwon Mall Lantai LG","Sushi Factory, Gejayan","Mie Bandung Chinese Food, Ngampilan","Tom Sushi, Hartono Mall Jogja""",Sushiruma - Babarsari,"Seblak Asgar, Lowanu","Pizza Hut, Adi Sucipto Jogja",Rice & Steak Yogyakarta,"Picnic! Pata X Sausage Tamansiswa, Jl. Tamansiswa No.49 Yogya","Rumah Makan Tio Asli Ciu Chinese Food & Sea Food, Jetis","Sate Taichan Hitz, Gejayan","My Kopi-O! Indonesian Bistro, Sagan","Gokana Ramen & Teppan, Pakuwon Mall Jogja","Daruma Donburi, Mlati, Sinduadi","Sushi Tei, Komplek Colombo","Kedai Zu Pa ( Zuppa Soup & Pasta ) Kotabaru, Juadi","Seafood 99, Wonocatur","Soto Daging Lamongan Cak Ngun, Jl. Veteran No 212 Umbulharjo","Madam Tan Indonesian Food, Gondokusuman","Mie Ayam & Bakso Idolaku Pak Tikno, Tamansiswa",Soto Daging Sapi Lamongan Cak Lim,"Nasi Mangkok Uncle Dave, Depok/Caturtunggal/Seturan","Bebek Peking dan Ayam Panggang Pak Gembul, Jl KH Ahmad Dahlan No 40","Soto Sapi Winong, Ngeksigondo","Monalisa Burger Sisingamangaraja, seberang BDS syariah","Rustik Bistro & Bar, Hotel Harper Malioboro Yogyakarta",Silla Korean & Japanese Restaurant,Cak No Chinese Food,"Rice&Steak, Ngipik, Potorono, Banguntapan, Bantul","Hokben Kitchen, Seturan Jogja","Ayam Geprek & Rice Bowl Tobiko Mentai, Karangkajen","Burgerax, Patangpuluhan"
+1,Raehan,Yogyakarta,4,3,3,3,3,4,3,3,3,3,3,3,4,5,5,4,2,4,4,3,3,4,4,4,,4,4,,4,4,4,4,5,5,4,4,4,3,4,4,4,3,4,4,3,3,3,4,3,3,4,4
+2,Rizky Susanto,Yogyakarta,4,4,5,2,4,1,4,5,4,4,4,5,5,4,4,4,1,4,4,4,4,4,4,4,,2,4,,4,4,5,4,5,4,4,5,4,5,4,4,4,4,5,4,,4,,1,,4,4,4
+3,Muhammad Azka Hartami,Yogyakarta,4,5,4,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,,5,5,,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5
+4,Rhyo Argasiwi ,Yogyakarta,3,3,3,3,4,4,4,4,3,3,4,3,4,4,4,4,4,4,3,3,4,3,3,5,,3,4,,3,4,3,3,3,3,4,3,4,3,3,4,4,3,3,4,3,3,3,3,3,4,4,3
+5,Nurul Adilah,Yogyakarta,4,4,4,3,5,5,4,3,4,3,5,5,5,4,4,3,3,4,4,4,3,5,4,5,,5,5,,3,3,5,4,4,5,3,3,4,5,3,3,5,3,3,4,3,3,3,4,3,3,2,5
+6,Davit Septiawan,Yogyakarta,4,5,4,3,5,5,5,4,5,4,3,5,5,4,5,4,5,5,4,5,5,5,3,5,,5,4,,4,5,5,4,5,4,5,5,5,5,4,5,3,3,4,5,5,4,5,5,4,5,3,5
+7,Faqi Himmaka Mushoffa,Yogyakarta,5,5,5,5,5,5,5,5,5,4,5,4,5,5,4,4,5,5,5,5,5,5,5,4,,4,5,,4,5,4,4,3,3,5,5,5,5,5,4,4,4,5,5,5,4,4,5,5,5,5,5
+8,Melanio Daris,Yogyakarta,1,1,1,3,3,4,4,4,4,1,4,1,4,2,2,1,2,1,4,1,4,1,4,2,,1,1,,3,5,2,4,5,2,2,2,3,4,2,2,2,4,5,3,5,5,5,2,5,2,3,2
+9,Muhammad Dzaki,Yogyakarta,3,4,4,4,3,4,4,4,4,4,4,4,4,3,3,3,3,3,3,3,3,3,4,3,,3,3,,3,4,3,3,3,3,3,3,4,3,3,3,3,3,3,3,4,,3,3,3,4,3,3
+10,Lutfi Elyas,Yogyakarta,4,4,3,4,4,3,4,4,3,5,4,4,4,3,4,3,3,3,3,4,4,4,4,3,,4,,,4,2,5,3,4,4,4,4,3,3,3,5,4,4,,3,3,4,4,,4,4,4,5
+11,Bagas Ibrahim,Yogyakarta,,,4,,3,4,4,3,,,,,,5,,,,,,,,,,4,,3,,,,,4,3,,,5,,,,,,,,,,,,,,,3,,
+12,Alfian,Yogyakarta,3,3,3,2,4,4,4,3,3,2,2,3,4,4,2,3,3,5,3,2,3,3,4,2,,3,2,,3,3,4,3,3,3,4,3,2,2,2,3,3,2,3,3,2,2,3,2,2,3,3,4
+13,nafi,Yogyakarta,4,4,4,3,4,3,3,3,3,3,3,4,3,3,3,3,3,4,3,3,5,,3,3,,3,4,,3,4,3,3,3,3,4,3,3,3,4,3,3,3,3,3,3,4,4,3,3,4,3,3
+14,Dwika Putra,Yogyakarta,3,4,4,2,5,3,4,4,3,2,3,3,3,2,2,4,3,3,4,2,3,4,2,3,,1,5,,2,4,3,3,3,3,3,3,4,4,4,2,3,2,,,,4,2,3,3,4,3,4
+15,Melvina Ruth,Yogyakarta,3,4,4,3,3,5,5,5,4,2,5,3,5,5,3,4,4,3,3,2,5,3,4,5,,4,5,,5,5,4,3,3,3,4,3,3,3,3,3,3,4,3,3,2,4,3,4,2,4,3,3
+16,Hafizh Akmal,Yogyakarta,4,5,4,4,4,5,5,5,4,4,4,5,5,5,4,4,4,4,4,4,4,4,5,4,,4,5,,4,4,4,4,4,4,4,4,4,4,4,4,4,5,5,5,4,4,,4,4,5,5,5
+17,Harvito,Yogyakarta,,,,,3,4,4,4,,,4,,3,3,,,,,,,3,,4,3,,,,,,,,,,,5,,,,,,,,,,,,,,,,,
+18,Nabilla Alya,Yogyakarta,4,4,3,3,2,5,4,4,3,3,4,4,4,2,4,3,1,3,3,4,4,3,3,5,,3,3,,3,4,4,2,5,3,5,4,4,4,3,4,4,3,3,3,3,4,4,3,3,5,5,3
+19,nud,Yogyakarta,3,3,3,3,3,3,4,2,4,2,2,2,3,4,3,2,1,5,5,5,3,4,1,2,,1,2,,3,1,1,2,2,1,4,1,1,1,3,1,1,2,1,1,1,4,4,2,1,1,1,1
+20,Ekky Ramadhan,Yogyakarta,4,5,5,3,5,5,5,5,3,2,3,4,5,5,4,3,4,5,5,5,3,3,4,3,,4,5,,5,5,4,4,3,1,5,2,4,5,5,4,5,1,1,4,2,1,1,3,2,5,2,5
+21,Arreta Maheswari Lidya Putri,Yogyakarta,4,5,4,3,2,5,4,5,3,2,3,3,4,3,2,2,2,2,1,2,2,3,2,4,,3,1,,1,4,3,2,4,2,5,2,3,3,2,2,2,4,3,2,2,4,3,2,3,4,3,5
+22,Galih Nugraha,Yogyakarta,4,5,5,4,4,2,2,3,4,5,2,2,3,5,4,2,2,4,4,4,4,4,4,4,,3,2,,4,3,2,4,4,2,4,4,2,4,4,4,4,4,2,4,2,4,4,5,2,4,2,4
+23,Muhammad Fatwa,Yogyakarta,4,5,5,4,5,5,4,4,4,4,5,5,4,4,5,5,5,5,5,4,5,4,5,5,,4,5,,4,4,5,5,5,5,4,5,5,5,4,5,5,5,5,5,5,4,4,4,5,5,5,5
+24,Mutiara,Yogyakarta,3,3,4,2,4,4,4,4,4,3,3,4,4,4,4,4,3,4,4,5,3,4,3,4,,3,3,,3,3,4,3,3,3,4,3,3,3,3,3,3,3,4,3,3,4,4,4,3,3,3,4
+25,Yoseph Daveline Nusantara ,Yogyakarta,4,5,4,3,5,3,3,3,4,4,4,3,3,4,4,4,4,3,4,4,4,3,4,3,,4,4,,4,4,3,4,4,4,4,4,4,4,4,4,3,4,5,3,3,4,5,4,4,3,5,4
+26,Affan,Yogyakarta,4,5,3,3,5,3,3,4,5,3,4,,4,4,3,3,3,5,3,3,2,2,2,3,,3,3,,2,4,5,5,3,4,4,3,3,3,4,5,3,3,3,2,3,4,5,2,3,4,3,3
+27,Tessa Festiana ,Yogyakarta,3,4,4,3,2,2,3,3,4,3,4,5,3,3,3,3,3,4,3,3,3,4,4,5,,3,3,,3,4,2,5,3,3,3,3,3,4,4,4,4,4,3,3,3,3,3,3,3,3,3,3
+28,Giandra Hasna Athaya ,Yogyakarta,4,4,4,2,3,3,2,3,3,3,3,4,3,2,4,4,2,3,3,5,3,3,3,4,,2,2,,4,3,3,4,2,2,3,3,2,3,3,3,3,3,5,3,2,3,2,3,3,3,3,2
+29,Cindy Yovita Chandra ,Yogyakarta,2,3,3,4,3,5,5,4,4,4,3,5,4,5,4,2,4,4,2,4,4,3,5,4,,3,5,,4,5,4,5,3,2,4,4,3,3,4,3,2,2,4,3,3,3,3,3,3,4,3,3
+30,Rayhan Akbar,Yogyakarta,5,5,4,4,4,5,4,4,4,5,4,3,4,3,4,4,2,3,2,,3,3,,,,4,3,,,3,2,4,4,3,3,2,2,3,4,,5,3,4,2,3,3,3,,2,4,5,5
+31,yolanda ruth polina ,Yogyakarta,4,4,4,4,4,4,4,5,4,4,4,4,4,4,4,4,4,4,4,4,5,4,4,4,,3,3,,4,4,4,4,4,4,4,4,5,4,4,4,4,4,4,4,4,5,4,4,4,5,4,4
+32,alya,Yogyakarta,5,3,4,2,3,2,3,3,3,4,3,5,4,3,3,3,3,3,2,3,5,4,5,5,,4,4,,4,4,4,4,3,3,5,3,3,2,2,3,2,2,2,2,2,2,3,3,2,4,3,3
+33,Juan,Yogyakarta,3,5,4,3,4,5,4,4,4,3,3,3,4,5,3,3,5,3,3,3,3,4,4,5,,3,4,,3,3,3,4,3,5,4,3,4,4,3,3,3,4,5,3,3,3,3,3,3,5,3,5
+34,rina,Yogyakarta,4,4,4,3,3,4,3,4,4,3,3,4,4,4,4,3,3,4,4,4,3,3,3,3,,3,3,,3,4,3,4,3,4,3,3,3,4,4,4,4,3,3,3,3,3,3,3,3,3,4,3
+35,Melani ,Yogyakarta,3,5,5,3,4,2,3,4,4,4,4,3,4,3,4,,3,3,3,,5,3,3,3,,1,1,,5,4,3,4,3,3,4,4,3,2,3,3,3,3,3,3,3,3,4,2,3,3,3,4
+36,Anastasha,Yogyakarta,4,4,4,4,4,4,5,4,4,4,4,4,3,4,3,5,4,5,4,4,5,4,4,4,,4,3,,3,4,4,3,3,3,3,3,4,3,4,5,4,4,4,3,3,3,4,4,3,4,4,3
+37,Dhia,Yogyakarta,4,3,4,3,3,4,4,4,3,3,4,4,4,5,3,4,3,5,3,5,3,3,2,3,,1,1,,4,3,1,2,3,2,3,2,3,3,2,4,1,2,1,1,3,2,2,2,2,5,2,2
+38,Majid,Yogyakarta,3,4,3,2,4,5,4,5,3,4,4,3,4,5,3,4,3,3,3,3,3,4,3,3,,4,5,,5,3,3,4,5,4,4,2,2,3,5,5,3,3,3,2,4,4,3,3,5,4,4,3
+39,Shafira,Yogyakarta,5,5,4,4,2,4,4,4,4,3,3,4,4,4,4,3,3,4,4,4,4,4,3,4,,3,4,,3,4,3,5,3,3,5,3,3,3,4,4,4,3,3,4,5,5,4,3,4,5,5,5
+40,Rizqi azhar,Yogyakarta,4,4,4,2,5,2,2,3,3,3,3,3,4,3,3,3,3,3,3,3,3,3,3,3,,2,3,,2,2,3,2,2,2,3,2,2,2,2,2,2,2,2,2,2,2,3,2,2,3,2,3
+41,febby,Yogyakarta,5,4,3,4,3,5,2,3,4,4,5,4,4,3,5,3,3,5,3,5,4,4,4,5,,3,5,,4,3,4,3,3,3,5,3,3,3,4,4,4,3,4,4,3,5,5,3,3,5,5,3
+42,M Fawwaz Firjatullah,Yogyakarta,4,5,4,,3,4,3,4,5,,2,2,4,,,4,,,,,5,,3,4,,,5,,,,,4,,,,,,,,2,,,2,1,,4,3,3,2,5,5,3
+43,Syaila Dannya,Yogyakarta,3,3,3,3,3,4,4,4,3,3,2,4,4,5,3,4,3,3,3,5,4,4,4,3,,4,5,,4,5,4,5,4,4,4,3,3,3,3,4,3,4,4,3,3,4,3,4,3,5,3,3
+44,Akhmal Dimas Pratama,Yogyakarta,3,4,4,4,3,5,4,4,5,4,5,4,5,4,3,3,3,4,4,5,3,4,3,3,,3,3,,5,3,4,4,3,3,4,3,3,4,4,4,3,3,3,3,3,3,4,3,4,5,5,5
+45,Afrien,Yogyakarta,4,4,4,3,3,5,4,4,4,4,4,5,5,4,4,4,4,5,3,5,4,4,3,5,,3,5,,5,4,4,4,4,3,5,3,3,3,4,4,4,3,3,3,4,4,4,3,3,3,3,3
+46,Hashif Hibatullah,Yogyakarta,5,4,4,4,4,5,5,5,4,3,4,4,3,3,4,3,3,4,3,5,4,3,3,4,,3,5,,2,3,3,3,3,3,4,3,4,3,4,4,4,4,4,3,3,4,4,4,3,4,3,3
+47,luna,Yogyakarta,4,5,3,3,4,4,4,4,4,4,4,4,4,5,4,4,4,5,3,4,4,3,4,5,,4,3,,3,4,4,4,4,3,4,4,4,4,4,4,4,4,4,4,4,4,4,3,4,4,4,4
+48,Maulana Arya,Yogyakarta,3,3,4,3,4,4,3,3,2,3,2,3,2,4,3,3,3,4,3,2,3,3,3,4,,2,5,,4,2,2,3,2,3,4,3,2,1,2,4,3,3,4,3,5,3,3,2,3,3,2,4
+49,Novia,Yogyakarta,5,5,5,4,3,5,5,2,3,3,1,4,4,4,4,4,4,5,4,5,5,2,4,2,,3,5,,5,5,3,4,4,3,5,1,3,3,4,3,4,3,3,4,3,5,5,4,4,5,4,4
+50,Narendra Ihza Purwanta,Yogyakarta,5,5,5,3,5,2,2,2,5,5,2,2,2,2,5,5,5,5,5,5,2,2,5,2,,2,2,,5,2,2,2,2,5,5,2,2,2,2,2,2,2,2,2,2,5,5,2,5,5,5,5
+51,Anggia,Yogyakarta,3,1,4,1,4,4,4,3,4,1,4,4,2,4,4,4,2,4,5,4,4,3,1,5,,3,2,,1,1,4,4,4,5,3,3,2,5,2,4,4,4,5,3,5,3,3,4,5,3,3,2
+52,Ayis,Yogyakarta,5,3,3,2,4,5,5,4,5,4,2,2,1,3,2,2,1,2,3,2,5,3,4,2,,2,3,,2,2,1,5,2,1,5,2,1,2,4,3,2,1,1,2,1,1,1,2,1,5,5,5
+53,Ryan Zainudin Artha,Yogyakarta,4,3,4,3,4,5,5,5,4,3,3,4,3,3,3,5,4,3,4,3,3,3,3,3,,2,5,,4,3,3,5,5,3,3,5,3,3,5,5,3,5,3,3,4,5,5,3,5,5,5,5
+54,Rakha,Yogyakarta,3,4,3,3,4,1,1,1,4,4,1,1,1,4,4,4,4,5,5,5,2,2,2,1,,1,1,,5,4,4,4,3,4,4,3,4,3,4,4,3,3,4,3,4,1,3,5,3,3,3,4
+55,Nindita Ardya,Yogyakarta,4,4,3,3,3,4,5,3,4,3,4,4,3,3,3,3,3,4,3,5,4,4,3,5,,3,3,,3,3,3,3,3,3,5,3,3,3,4,3,3,3,3,3,3,4,4,3,3,4,3,3

@@ -1,0 +1,1319 @@
+user_id,nama,domisili,Nama Restoran,restaurant_id,rating
+1,Affan,Yogyakarta,"Tanamera Coffee Roastery, Yogyakarta",241.0,5.0
+1,Affan,Yogyakarta,"Pepper Lunch, Hartono Mall",97.0,3.0
+1,Affan,Yogyakarta,"Cak No Chinese Food, Jogoyudan",119.0,2.0
+1,Affan,Yogyakarta,"Pizza Hut, Adi Sucipto Jogja",128.0,3.0
+1,Affan,Yogyakarta,"Mie Ayam & Bakso Idolaku Pak Tikno, Tamansiswa",177.0,5.0
+1,Affan,Yogyakarta,"Petit Paris Boulangerie and Bistro, Kotabaru",221.0,5.0
+1,Affan,Yogyakarta,"Chikuro Pakuwon Mall Jogja, Pakuwon Mall Lantai LG",34.0,2.0
+1,Affan,Yogyakarta,"Soto Sapi Winong, Ngeksigondo",218.0,2.0
+1,Affan,Yogyakarta,"Rustik Bistro & Bar, Hotel Harper Malioboro Yogyakarta",15.0,4.0
+1,Affan,Yogyakarta,"Legend Coffee, Yogyakarta",3.0,5.0
+1,Affan,Yogyakarta,"Rice&Steak, Ngipik, Potorono, Banguntapan, Bantul",108.0,3.0
+1,Affan,Yogyakarta,"Tom Sushi, Hartono Mall Jogja",125.0,3.0
+1,Affan,Yogyakarta,"Bebek Peking dan Ayam Panggang Pak Gembul, Jl KH Ahmad Dahlan No 40",142.0,3.0
+1,Affan,Yogyakarta,"Hawker's Steak, JEC",214.0,3.0
+1,Affan,Yogyakarta,"Mie Bandung Chinese Food, Ngampilan",0.0,2.0
+1,Affan,Yogyakarta,"Mediterranea Restaurant by Kamil, Matrijeron",14.0,4.0
+1,Affan,Yogyakarta,"Yamie Panda, Tamansiswa",197.0,4.0
+1,Affan,Yogyakarta,"Kalluna, Kotabaru",165.0,3.0
+1,Affan,Yogyakarta,"Seblak Asgar, Lowanu",110.0,3.0
+1,Affan,Yogyakarta,"Rumah Makan Tio Asli Ciu Chinese Food & Sea Food, Jetis",131.0,4.0
+1,Affan,Yogyakarta,"My Kopi-O! Indonesian Bistro, Sagan",162.0,5.0
+1,Affan,Yogyakarta,"Pizza Aroma Italia 2, Gondokusuman",215.0,3.0
+1,Affan,Yogyakarta,"Monalisa Burger Sisingamangaraja, seberang BDS syariah",192.0,3.0
+1,Affan,Yogyakarta,"Nasi Mangkok Uncle Dave, Depok/Caturtunggal/Seturan",188.0,3.0
+1,Affan,Yogyakarta,"Daruma Donburi, Mlati, Sinduadi",166.0,4.0
+1,Affan,Yogyakarta,"A&M Co. Express, Jogja",222.0,5.0
+1,Affan,Yogyakarta,"Gokana Ramen & Teppan, Pakuwon Mall Jogja",163.0,3.0
+1,Affan,Yogyakarta,"Oase Cafe & Coffe, Mergangsan",243.0,3.0
+2,Afrien,Yogyakarta,"Mie Ayam & Bakso Idolaku Pak Tikno, Tamansiswa",177.0,4.0
+2,Afrien,Yogyakarta,"Chikuro Pakuwon Mall Jogja, Pakuwon Mall Lantai LG",34.0,4.0
+2,Afrien,Yogyakarta,"Hokben Kitchen, Seturan Jogja",124.0,3.0
+2,Afrien,Yogyakarta,"Shigeru Sushi, Pakuwon Mall Yogyakarta",225.0,4.0
+2,Afrien,Yogyakarta,"Seblak Asgar, Lowanu",110.0,3.0
+2,Afrien,Yogyakarta,"Sushi Factory, Gejayan",17.0,4.0
+2,Afrien,Yogyakarta,"Legend Coffee, Yogyakarta",3.0,3.0
+2,Afrien,Yogyakarta,"Pothz Burger, STM Pembangunan",234.0,4.0
+2,Afrien,Yogyakarta,"Oase Cafe & Coffe, Mergangsan",243.0,3.0
+2,Afrien,Yogyakarta,"Tom Sushi, Hartono Mall Jogja",125.0,5.0
+2,Afrien,Yogyakarta,"Por Aqui Resto & IRD, Prawirotaman",187.0,4.0
+2,Afrien,Yogyakarta,"Pepper Lunch, Hartono Mall",97.0,4.0
+2,Afrien,Yogyakarta,"Madam Tan Indonesian Food, Gondokusuman",173.0,4.0
+2,Afrien,Yogyakarta,"Tanamera Coffee Roastery, Yogyakarta",241.0,5.0
+2,Afrien,Yogyakarta,"Sate Taichan Hitz, Gejayan",113.0,4.0
+2,Afrien,Yogyakarta,"Rustik Bistro & Bar, Hotel Harper Malioboro Yogyakarta",15.0,4.0
+2,Afrien,Yogyakarta,Silla Korean & Japanese Restaurant,206.0,4.0
+2,Afrien,Yogyakarta,"Cak No Chinese Food, Jogoyudan",119.0,3.0
+2,Afrien,Yogyakarta,"Shaburi & Kintan Buffet, Ambarukmo Plaza Yogya",260.0,5.0
+2,Afrien,Yogyakarta,"Zona Seafood, Kotabaru",90.0,3.0
+2,Afrien,Yogyakarta,"Rice&Steak, Ngipik, Potorono, Banguntapan, Bantul",108.0,3.0
+2,Afrien,Yogyakarta,"Bebek Peking dan Ayam Panggang Pak Gembul, Jl KH Ahmad Dahlan No 40",142.0,3.0
+2,Afrien,Yogyakarta,"Kedai Zu Pa ( Zuppa Soup & Pasta ) Kotabaru, Juadi",155.0,3.0
+3,Akhmal Dimas Pratama,Yogyakarta,"Rice&Steak, Ngipik, Potorono, Banguntapan, Bantul",108.0,4.0
+3,Akhmal Dimas Pratama,Yogyakarta,"Restoran Mahkota (Tiong San), Pajeksan",6.0,4.0
+3,Akhmal Dimas Pratama,Yogyakarta,"Daruma Donburi, Mlati, Sinduadi",166.0,3.0
+3,Akhmal Dimas Pratama,Yogyakarta,"Gokana Ramen & Teppan, Pakuwon Mall Jogja",163.0,3.0
+3,Akhmal Dimas Pratama,Yogyakarta,"Por Aqui Resto & IRD, Prawirotaman",187.0,3.0
+3,Akhmal Dimas Pratama,Yogyakarta,"A&M Co. Express, Jogja",222.0,4.0
+3,Akhmal Dimas Pratama,Yogyakarta,"Hakata Ikkousha, Demangan Baru",86.0,4.0
+3,Akhmal Dimas Pratama,Yogyakarta,"Rumah Makan Tio Asli Ciu Chinese Food & Sea Food, Jetis",131.0,3.0
+3,Akhmal Dimas Pratama,Yogyakarta,"Mie Ayam & Bakso Idolaku Pak Tikno, Tamansiswa",177.0,4.0
+3,Akhmal Dimas Pratama,Yogyakarta,"Sate Taichan Hitz, Gejayan",113.0,4.0
+3,Akhmal Dimas Pratama,Yogyakarta,"Tanamera Coffee Roastery, Yogyakarta",241.0,4.0
+3,Akhmal Dimas Pratama,Yogyakarta,"Picnic! Pata X Sausage Tamansiswa, Jl. Tamansiswa No.49 Yogya",130.0,5.0
+3,Akhmal Dimas Pratama,Yogyakarta,"Ayam Geprek & Rice Bowl Tobiko Mentai, Karangkajen",144.0,5.0
+3,Akhmal Dimas Pratama,Yogyakarta,"Hokben Kitchen, Seturan Jogja",124.0,5.0
+3,Akhmal Dimas Pratama,Yogyakarta,"Seafood 99, Wonocatur",48.0,3.0
+3,Akhmal Dimas Pratama,Yogyakarta,"Yamie Panda, Tamansiswa",197.0,4.0
+3,Akhmal Dimas Pratama,Yogyakarta,"Rustik Bistro & Bar, Hotel Harper Malioboro Yogyakarta",15.0,3.0
+3,Akhmal Dimas Pratama,Yogyakarta,"Pizza Hut, Adi Sucipto Jogja",128.0,3.0
+3,Akhmal Dimas Pratama,Yogyakarta,"Ichiban Sushi, Plaza Malioboro",183.0,5.0
+3,Akhmal Dimas Pratama,Yogyakarta,"Pothz Burger, STM Pembangunan",234.0,3.0
+3,Akhmal Dimas Pratama,Yogyakarta,"Shigeru Sushi, Pakuwon Mall Yogyakarta",225.0,5.0
+3,Akhmal Dimas Pratama,Yogyakarta,Silla Korean & Japanese Restaurant,206.0,4.0
+3,Akhmal Dimas Pratama,Yogyakarta,"Chikuro Pakuwon Mall Jogja, Pakuwon Mall Lantai LG",34.0,3.0
+3,Akhmal Dimas Pratama,Yogyakarta,"Zona Seafood, Kotabaru",90.0,4.0
+3,Akhmal Dimas Pratama,Yogyakarta,"My Kopi-O! Indonesian Bistro, Sagan",162.0,4.0
+3,Akhmal Dimas Pratama,Yogyakarta,"Oase Cafe & Coffe, Mergangsan",243.0,4.0
+3,Akhmal Dimas Pratama,Yogyakarta,"Hawker's Steak, JEC",214.0,3.0
+3,Akhmal Dimas Pratama,Yogyakarta,"Monalisa Burger Sisingamangaraja, seberang BDS syariah",192.0,3.0
+3,Akhmal Dimas Pratama,Yogyakarta,"Mediterranea Restaurant by Kamil, Matrijeron",14.0,3.0
+3,Akhmal Dimas Pratama,Yogyakarta,"Marugame Udon, Hartono Mall Jogja",8.0,5.0
+3,Akhmal Dimas Pratama,Yogyakarta,"Mie Bandung Chinese Food, Ngampilan",0.0,3.0
+3,Akhmal Dimas Pratama,Yogyakarta,"Cak No Chinese Food, Jogoyudan",119.0,3.0
+4,Alfian,Yogyakarta,"Hakata Ikkousha, Demangan Baru",86.0,3.0
+4,Alfian,Yogyakarta,"Tanamera Coffee Roastery, Yogyakarta",241.0,5.0
+4,Alfian,Yogyakarta,"My Kopi-O! Indonesian Bistro, Sagan",162.0,3.0
+4,Alfian,Yogyakarta,"A&M Co. Express, Jogja",222.0,3.0
+4,Alfian,Yogyakarta,Silla Korean & Japanese Restaurant,206.0,3.0
+4,Alfian,Yogyakarta,"Sushi Factory, Gejayan",17.0,3.0
+4,Alfian,Yogyakarta,"Pothz Burger, STM Pembangunan",234.0,3.0
+4,Alfian,Yogyakarta,"Mie Bandung Chinese Food, Ngampilan",0.0,4.0
+4,Alfian,Yogyakarta,"Seafood 99, Wonocatur",48.0,2.0
+4,Alfian,Yogyakarta,"Legend Coffee, Yogyakarta",3.0,4.0
+4,Alfian,Yogyakarta,"Petit Paris Boulangerie and Bistro, Kotabaru",221.0,3.0
+4,Alfian,Yogyakarta,"Sate Taichan Hitz, Gejayan",113.0,4.0
+4,Alfian,Yogyakarta,"Rustik Bistro & Bar, Hotel Harper Malioboro Yogyakarta",15.0,2.0
+4,Alfian,Yogyakarta,"Hokben Kitchen, Seturan Jogja",124.0,3.0
+4,Alfian,Yogyakarta,"Sushi Tei, Komplek Colombo",158.0,4.0
+4,Alfian,Yogyakarta,"Gokana Ramen & Teppan, Pakuwon Mall Jogja",163.0,3.0
+4,Alfian,Yogyakarta,"Chikuro Pakuwon Mall Jogja, Pakuwon Mall Lantai LG",34.0,3.0
+4,Alfian,Yogyakarta,"Tom Sushi, Hartono Mall Jogja",125.0,2.0
+4,Alfian,Yogyakarta,"Seblak Asgar, Lowanu",110.0,3.0
+4,Alfian,Yogyakarta,"Shigeru Sushi, Pakuwon Mall Yogyakarta",225.0,2.0
+4,Alfian,Yogyakarta,"Shaburi & Kintan Buffet, Ambarukmo Plaza Yogya",260.0,2.0
+4,Alfian,Yogyakarta,"Daruma Donburi, Mlati, Sinduadi",166.0,3.0
+4,Alfian,Yogyakarta,"Ayam Geprek & Rice Bowl Tobiko Mentai, Karangkajen",144.0,3.0
+4,Alfian,Yogyakarta,"Pizza Hut, Adi Sucipto Jogja",128.0,2.0
+4,Alfian,Yogyakarta,"Picnic! Pata X Sausage Tamansiswa, Jl. Tamansiswa No.49 Yogya",130.0,3.0
+4,Alfian,Yogyakarta,"Madam Tan Indonesian Food, Gondokusuman",173.0,2.0
+4,Alfian,Yogyakarta,"Restoran Mahkota (Tiong San), Pajeksan",6.0,2.0
+5,Anastasha,Yogyakarta,"Hakata Ikkousha, Demangan Baru",86.0,4.0
+5,Anastasha,Yogyakarta,"Pepper Lunch, Hartono Mall",97.0,5.0
+5,Anastasha,Yogyakarta,"Sate Taichan Hitz, Gejayan",113.0,4.0
+5,Anastasha,Yogyakarta,"Pizza Hut, Adi Sucipto Jogja",128.0,3.0
+5,Anastasha,Yogyakarta,"Burgerax, Patangpuluhan",259.0,3.0
+5,Anastasha,Yogyakarta,"Seblak Asgar, Lowanu",110.0,4.0
+5,Anastasha,Yogyakarta,"Petit Paris Boulangerie and Bistro, Kotabaru",221.0,4.0
+5,Anastasha,Yogyakarta,"Gokana Ramen & Teppan, Pakuwon Mall Jogja",163.0,3.0
+5,Anastasha,Yogyakarta,"Tom Sushi, Hartono Mall Jogja",125.0,4.0
+5,Anastasha,Yogyakarta,"Rice&Steak, Ngipik, Potorono, Banguntapan, Bantul",108.0,3.0
+5,Anastasha,Yogyakarta,"Tanamera Coffee Roastery, Yogyakarta",241.0,5.0
+5,Anastasha,Yogyakarta,"Mie Ayam & Bakso Idolaku Pak Tikno, Tamansiswa",177.0,5.0
+5,Anastasha,Yogyakarta,"Hokben Kitchen, Seturan Jogja",124.0,4.0
+5,Anastasha,Yogyakarta,"Monalisa Burger Sisingamangaraja, seberang BDS syariah",192.0,3.0
+5,Anastasha,Yogyakarta,"Soto Sapi Winong, Ngeksigondo",218.0,3.0
+5,Anastasha,Yogyakarta,"Por Aqui Resto & IRD, Prawirotaman",187.0,3.0
+5,Anastasha,Yogyakarta,"Mie Bandung Chinese Food, Ngampilan",0.0,4.0
+5,Anastasha,Yogyakarta,"Ichiban Sushi, Plaza Malioboro",183.0,3.0
+5,Anastasha,Yogyakarta,"Sushi Tei, Komplek Colombo",158.0,3.0
+5,Anastasha,Yogyakarta,Silla Korean & Japanese Restaurant,206.0,4.0
+5,Anastasha,Yogyakarta,"Bebek Peking dan Ayam Panggang Pak Gembul, Jl KH Ahmad Dahlan No 40",142.0,4.0
+5,Anastasha,Yogyakarta,"Nasi Mangkok Uncle Dave, Depok/Caturtunggal/Seturan",188.0,4.0
+5,Anastasha,Yogyakarta,"Pothz Burger, STM Pembangunan",234.0,4.0
+5,Anastasha,Yogyakarta,"Rumah Makan Tio Asli Ciu Chinese Food & Sea Food, Jetis",131.0,4.0
+5,Anastasha,Yogyakarta,"Shigeru Sushi, Pakuwon Mall Yogyakarta",225.0,4.0
+5,Anastasha,Yogyakarta,"Pizza Aroma Italia 2, Gondokusuman",215.0,4.0
+6,Anggia,Yogyakarta,"Shigeru Sushi, Pakuwon Mall Yogyakarta",225.0,4.0
+6,Anggia,Yogyakarta,"Yamie Panda, Tamansiswa",197.0,4.0
+6,Anggia,Yogyakarta,"Zona Seafood, Kotabaru",90.0,5.0
+6,Anggia,Yogyakarta,"Daruma Donburi, Mlati, Sinduadi",166.0,5.0
+6,Anggia,Yogyakarta,"Mie Ayam & Bakso Idolaku Pak Tikno, Tamansiswa",177.0,4.0
+6,Anggia,Yogyakarta,Soto Daging Sapi Lamongan Cak Lim,202.0,4.0
+6,Anggia,Yogyakarta,"Pizza Aroma Italia 2, Gondokusuman",215.0,1.0
+6,Anggia,Yogyakarta,"Ayam Geprek & Rice Bowl Tobiko Mentai, Karangkajen",144.0,3.0
+6,Anggia,Yogyakarta,"Ichiban Sushi, Plaza Malioboro",183.0,2.0
+6,Anggia,Yogyakarta,"Pepper Lunch, Hartono Mall",97.0,4.0
+6,Anggia,Yogyakarta,"Picnic! Pata X Sausage Tamansiswa, Jl. Tamansiswa No.49 Yogya",130.0,1.0
+6,Anggia,Yogyakarta,"Chikuro Pakuwon Mall Jogja, Pakuwon Mall Lantai LG",34.0,4.0
+6,Anggia,Yogyakarta,"Rice&Steak, Ngipik, Potorono, Banguntapan, Bantul",108.0,5.0
+6,Anggia,Yogyakarta,"Marugame Udon, Hartono Mall Jogja",8.0,4.0
+6,Anggia,Yogyakarta,"Hawker's Steak, JEC",214.0,4.0
+6,Anggia,Yogyakarta,"Nasi Mangkok Uncle Dave, Depok/Caturtunggal/Seturan",188.0,4.0
+6,Anggia,Yogyakarta,"Oase Cafe & Coffe, Mergangsan",243.0,5.0
+6,Anggia,Yogyakarta,"Rustik Bistro & Bar, Hotel Harper Malioboro Yogyakarta",15.0,3.0
+6,Anggia,Yogyakarta,"Sushi Factory, Gejayan",17.0,3.0
+6,Anggia,Yogyakarta,"My Kopi-O! Indonesian Bistro, Sagan",162.0,4.0
+6,Anggia,Yogyakarta,"Seafood 99, Wonocatur",48.0,2.0
+6,Anggia,Yogyakarta,"Cak No Chinese Food, Jogoyudan",119.0,4.0
+7,Arreta Maheswari Lidya Putri,Yogyakarta,"A&M Co. Express, Jogja",222.0,5.0
+7,Arreta Maheswari Lidya Putri,Yogyakarta,"Sushi Factory, Gejayan",17.0,3.0
+7,Arreta Maheswari Lidya Putri,Yogyakarta,"Soto Sapi Winong, Ngeksigondo",218.0,2.0
+7,Arreta Maheswari Lidya Putri,Yogyakarta,"Madam Tan Indonesian Food, Gondokusuman",173.0,2.0
+7,Arreta Maheswari Lidya Putri,Yogyakarta,"Hakata Ikkousha, Demangan Baru",86.0,3.0
+7,Arreta Maheswari Lidya Putri,Yogyakarta,"Rice&Steak, Ngipik, Potorono, Banguntapan, Bantul",108.0,3.0
+7,Arreta Maheswari Lidya Putri,Yogyakarta,"Gokana Ramen & Teppan, Pakuwon Mall Jogja",163.0,4.0
+7,Arreta Maheswari Lidya Putri,Yogyakarta,"Pizza Aroma Italia 2, Gondokusuman",215.0,2.0
+7,Arreta Maheswari Lidya Putri,Yogyakarta,"Marugame Udon, Hartono Mall Jogja",8.0,5.0
+7,Arreta Maheswari Lidya Putri,Yogyakarta,"Hokben Kitchen, Seturan Jogja",124.0,4.0
+7,Arreta Maheswari Lidya Putri,Yogyakarta,"Pothz Burger, STM Pembangunan",234.0,2.0
+7,Arreta Maheswari Lidya Putri,Yogyakarta,"Shaburi & Kintan Buffet, Ambarukmo Plaza Yogya",260.0,2.0
+7,Arreta Maheswari Lidya Putri,Yogyakarta,"Yamie Panda, Tamansiswa",197.0,3.0
+7,Arreta Maheswari Lidya Putri,Yogyakarta,"Mie Ayam & Bakso Idolaku Pak Tikno, Tamansiswa",177.0,2.0
+7,Arreta Maheswari Lidya Putri,Yogyakarta,Soto Daging Sapi Lamongan Cak Lim,202.0,2.0
+7,Arreta Maheswari Lidya Putri,Yogyakarta,"Kedai Zu Pa ( Zuppa Soup & Pasta ) Kotabaru, Juadi",155.0,2.0
+7,Arreta Maheswari Lidya Putri,Yogyakarta,"Zona Seafood, Kotabaru",90.0,3.0
+7,Arreta Maheswari Lidya Putri,Yogyakarta,"Kalluna, Kotabaru",165.0,4.0
+7,Arreta Maheswari Lidya Putri,Yogyakarta,"Cak No Chinese Food, Jogoyudan",119.0,2.0
+7,Arreta Maheswari Lidya Putri,Yogyakarta,"Rustik Bistro & Bar, Hotel Harper Malioboro Yogyakarta",15.0,4.0
+7,Arreta Maheswari Lidya Putri,Yogyakarta,"Seblak Asgar, Lowanu",110.0,3.0
+7,Arreta Maheswari Lidya Putri,Yogyakarta,"Picnic! Pata X Sausage Tamansiswa, Jl. Tamansiswa No.49 Yogya",130.0,1.0
+7,Arreta Maheswari Lidya Putri,Yogyakarta,"Oase Cafe & Coffe, Mergangsan",243.0,1.0
+7,Arreta Maheswari Lidya Putri,Yogyakarta,"Ayam Geprek & Rice Bowl Tobiko Mentai, Karangkajen",144.0,3.0
+7,Arreta Maheswari Lidya Putri,Yogyakarta,"My Kopi-O! Indonesian Bistro, Sagan",162.0,2.0
+8,Ayis,Yogyakarta,"Oase Cafe & Coffe, Mergangsan",243.0,3.0
+8,Ayis,Yogyakarta,"Hakata Ikkousha, Demangan Baru",86.0,2.0
+8,Ayis,Yogyakarta,"Kedai Zu Pa ( Zuppa Soup & Pasta ) Kotabaru, Juadi",155.0,2.0
+8,Ayis,Yogyakarta,"Pizza Hut, Adi Sucipto Jogja",128.0,3.0
+8,Ayis,Yogyakarta,"Sate Taichan Hitz, Gejayan",113.0,1.0
+8,Ayis,Yogyakarta,"Seafood 99, Wonocatur",48.0,1.0
+8,Ayis,Yogyakarta,"Burgerax, Patangpuluhan",259.0,5.0
+8,Ayis,Yogyakarta,"Ayam Geprek & Rice Bowl Tobiko Mentai, Karangkajen",144.0,5.0
+8,Ayis,Yogyakarta,"Hokben Kitchen, Seturan Jogja",124.0,5.0
+8,Ayis,Yogyakarta,"Legend Coffee, Yogyakarta",3.0,4.0
+8,Ayis,Yogyakarta,"Bebek Peking dan Ayam Panggang Pak Gembul, Jl KH Ahmad Dahlan No 40",142.0,1.0
+8,Ayis,Yogyakarta,"Nasi Mangkok Uncle Dave, Depok/Caturtunggal/Seturan",188.0,1.0
+8,Ayis,Yogyakarta,"Sushi Factory, Gejayan",17.0,3.0
+8,Ayis,Yogyakarta,"Rumah Makan Tio Asli Ciu Chinese Food & Sea Food, Jetis",131.0,2.0
+8,Ayis,Yogyakarta,"Por Aqui Resto & IRD, Prawirotaman",187.0,2.0
+8,Ayis,Yogyakarta,"Marugame Udon, Hartono Mall Jogja",8.0,5.0
+8,Ayis,Yogyakarta,"Hawker's Steak, JEC",214.0,2.0
+8,Ayis,Yogyakarta,"Rustik Bistro & Bar, Hotel Harper Malioboro Yogyakarta",15.0,1.0
+8,Ayis,Yogyakarta,"Mie Bandung Chinese Food, Ngampilan",0.0,4.0
+8,Ayis,Yogyakarta,"Mediterranea Restaurant by Kamil, Matrijeron",14.0,5.0
+8,Ayis,Yogyakarta,"Seblak Asgar, Lowanu",110.0,2.0
+8,Ayis,Yogyakarta,"Shaburi & Kintan Buffet, Ambarukmo Plaza Yogya",260.0,2.0
+8,Ayis,Yogyakarta,"A&M Co. Express, Jogja",222.0,3.0
+8,Ayis,Yogyakarta,"Pothz Burger, STM Pembangunan",234.0,1.0
+8,Ayis,Yogyakarta,"Yamie Panda, Tamansiswa",197.0,3.0
+8,Ayis,Yogyakarta,"Monalisa Burger Sisingamangaraja, seberang BDS syariah",192.0,1.0
+8,Ayis,Yogyakarta,"Tom Sushi, Hartono Mall Jogja",125.0,2.0
+9,Bagas Ibrahim,Yogyakarta,"My Kopi-O! Indonesian Bistro, Sagan",162.0,3.0
+9,Bagas Ibrahim,Yogyakarta,"Sate Taichan Hitz, Gejayan",113.0,4.0
+9,Bagas Ibrahim,Yogyakarta,"Hokben Kitchen, Seturan Jogja",124.0,3.0
+9,Bagas Ibrahim,Yogyakarta,"Kalluna, Kotabaru",165.0,4.0
+9,Bagas Ibrahim,Yogyakarta,"Marugame Udon, Hartono Mall Jogja",8.0,4.0
+10,Cindy Yovita Chandra ,Yogyakarta,"Marugame Udon, Hartono Mall Jogja",8.0,5.0
+10,Cindy Yovita Chandra ,Yogyakarta,"Mie Bandung Chinese Food, Ngampilan",0.0,5.0
+10,Cindy Yovita Chandra ,Yogyakarta,"Gokana Ramen & Teppan, Pakuwon Mall Jogja",163.0,3.0
+10,Cindy Yovita Chandra ,Yogyakarta,"Sushi Tei, Komplek Colombo",158.0,4.0
+10,Cindy Yovita Chandra ,Yogyakarta,"Cak No Chinese Food, Jogoyudan",119.0,3.0
+10,Cindy Yovita Chandra ,Yogyakarta,"Sate Taichan Hitz, Gejayan",113.0,4.0
+10,Cindy Yovita Chandra ,Yogyakarta,"Ichiban Sushi, Plaza Malioboro",183.0,4.0
+10,Cindy Yovita Chandra ,Yogyakarta,"My Kopi-O! Indonesian Bistro, Sagan",162.0,5.0
+10,Cindy Yovita Chandra ,Yogyakarta,"Legend Coffee, Yogyakarta",3.0,3.0
+10,Cindy Yovita Chandra ,Yogyakarta,"Tanamera Coffee Roastery, Yogyakarta",241.0,4.0
+10,Cindy Yovita Chandra ,Yogyakarta,Silla Korean & Japanese Restaurant,206.0,3.0
+10,Cindy Yovita Chandra ,Yogyakarta,"Kedai Zu Pa ( Zuppa Soup & Pasta ) Kotabaru, Juadi",155.0,4.0
+10,Cindy Yovita Chandra ,Yogyakarta,"Burgerax, Patangpuluhan",259.0,3.0
+10,Cindy Yovita Chandra ,Yogyakarta,"Pizza Aroma Italia 2, Gondokusuman",215.0,4.0
+10,Cindy Yovita Chandra ,Yogyakarta,"Seblak Asgar, Lowanu",110.0,3.0
+10,Cindy Yovita Chandra ,Yogyakarta,"Pepper Lunch, Hartono Mall",97.0,5.0
+10,Cindy Yovita Chandra ,Yogyakarta,"Mediterranea Restaurant by Kamil, Matrijeron",14.0,2.0
+10,Cindy Yovita Chandra ,Yogyakarta,"Nasi Mangkok Uncle Dave, Depok/Caturtunggal/Seturan",188.0,2.0
+10,Cindy Yovita Chandra ,Yogyakarta,"Madam Tan Indonesian Food, Gondokusuman",173.0,4.0
+11,Davit Septiawan,Yogyakarta,"Cak No Chinese Food, Jogoyudan",119.0,5.0
+11,Davit Septiawan,Yogyakarta,"Gokana Ramen & Teppan, Pakuwon Mall Jogja",163.0,5.0
+11,Davit Septiawan,Yogyakarta,"Seblak Asgar, Lowanu",110.0,5.0
+11,Davit Septiawan,Yogyakarta,"Ayam Geprek & Rice Bowl Tobiko Mentai, Karangkajen",144.0,3.0
+11,Davit Septiawan,Yogyakarta,"Legend Coffee, Yogyakarta",3.0,5.0
+11,Davit Septiawan,Yogyakarta,"Mie Bandung Chinese Food, Ngampilan",0.0,3.0
+11,Davit Septiawan,Yogyakarta,"Hakata Ikkousha, Demangan Baru",86.0,5.0
+11,Davit Septiawan,Yogyakarta,"Nasi Mangkok Uncle Dave, Depok/Caturtunggal/Seturan",188.0,3.0
+11,Davit Septiawan,Yogyakarta,"A&M Co. Express, Jogja",222.0,5.0
+11,Davit Septiawan,Yogyakarta,"Yamie Panda, Tamansiswa",197.0,4.0
+11,Davit Septiawan,Yogyakarta,"Soto Sapi Winong, Ngeksigondo",218.0,5.0
+11,Davit Septiawan,Yogyakarta,"Burgerax, Patangpuluhan",259.0,5.0
+11,Davit Septiawan,Yogyakarta,"Ichiban Sushi, Plaza Malioboro",183.0,5.0
+11,Davit Septiawan,Yogyakarta,"Hawker's Steak, JEC",214.0,4.0
+11,Davit Septiawan,Yogyakarta,Silla Korean & Japanese Restaurant,206.0,5.0
+11,Davit Septiawan,Yogyakarta,"Petit Paris Boulangerie and Bistro, Kotabaru",221.0,5.0
+11,Davit Septiawan,Yogyakarta,"Shaburi & Kintan Buffet, Ambarukmo Plaza Yogya",260.0,5.0
+11,Davit Septiawan,Yogyakarta,"Picnic! Pata X Sausage Tamansiswa, Jl. Tamansiswa No.49 Yogya",130.0,4.0
+11,Davit Septiawan,Yogyakarta,"Bebek Peking dan Ayam Panggang Pak Gembul, Jl KH Ahmad Dahlan No 40",142.0,4.0
+11,Davit Septiawan,Yogyakarta,"My Kopi-O! Indonesian Bistro, Sagan",162.0,4.0
+11,Davit Septiawan,Yogyakarta,"Shigeru Sushi, Pakuwon Mall Yogyakarta",225.0,3.0
+11,Davit Septiawan,Yogyakarta,"Seafood 99, Wonocatur",48.0,5.0
+11,Davit Septiawan,Yogyakarta,"Madam Tan Indonesian Food, Gondokusuman",173.0,4.0
+11,Davit Septiawan,Yogyakarta,"Oase Cafe & Coffe, Mergangsan",243.0,4.0
+11,Davit Septiawan,Yogyakarta,"Mie Ayam & Bakso Idolaku Pak Tikno, Tamansiswa",177.0,5.0
+11,Davit Septiawan,Yogyakarta,"Sushi Tei, Komplek Colombo",158.0,5.0
+11,Davit Septiawan,Yogyakarta,Soto Daging Sapi Lamongan Cak Lim,202.0,3.0
+12,Dhia,Yogyakarta,"Kalluna, Kotabaru",165.0,4.0
+12,Dhia,Yogyakarta,"Burgerax, Patangpuluhan",259.0,2.0
+12,Dhia,Yogyakarta,"Hokben Kitchen, Seturan Jogja",124.0,5.0
+12,Dhia,Yogyakarta,"Monalisa Burger Sisingamangaraja, seberang BDS syariah",192.0,3.0
+12,Dhia,Yogyakarta,"Ichiban Sushi, Plaza Malioboro",183.0,4.0
+12,Dhia,Yogyakarta,"Restoran Mahkota (Tiong San), Pajeksan",6.0,3.0
+12,Dhia,Yogyakarta,"A&M Co. Express, Jogja",222.0,3.0
+12,Dhia,Yogyakarta,"Oase Cafe & Coffe, Mergangsan",243.0,3.0
+12,Dhia,Yogyakarta,"Picnic! Pata X Sausage Tamansiswa, Jl. Tamansiswa No.49 Yogya",130.0,4.0
+12,Dhia,Yogyakarta,"Madam Tan Indonesian Food, Gondokusuman",173.0,2.0
+12,Dhia,Yogyakarta,"Shaburi & Kintan Buffet, Ambarukmo Plaza Yogya",260.0,5.0
+12,Dhia,Yogyakarta,Silla Korean & Japanese Restaurant,206.0,2.0
+12,Dhia,Yogyakarta,"Rumah Makan Tio Asli Ciu Chinese Food & Sea Food, Jetis",131.0,3.0
+12,Dhia,Yogyakarta,"Zona Seafood, Kotabaru",90.0,3.0
+12,Dhia,Yogyakarta,"Marugame Udon, Hartono Mall Jogja",8.0,4.0
+12,Dhia,Yogyakarta,"Ayam Geprek & Rice Bowl Tobiko Mentai, Karangkajen",144.0,2.0
+12,Dhia,Yogyakarta,"Soto Sapi Winong, Ngeksigondo",218.0,1.0
+12,Dhia,Yogyakarta,"Mie Bandung Chinese Food, Ngampilan",0.0,2.0
+12,Dhia,Yogyakarta,"Petit Paris Boulangerie and Bistro, Kotabaru",221.0,3.0
+12,Dhia,Yogyakarta,"Legend Coffee, Yogyakarta",3.0,3.0
+12,Dhia,Yogyakarta,"Kedai Zu Pa ( Zuppa Soup & Pasta ) Kotabaru, Juadi",155.0,2.0
+12,Dhia,Yogyakarta,"Sate Taichan Hitz, Gejayan",113.0,1.0
+12,Dhia,Yogyakarta,"Seblak Asgar, Lowanu",110.0,1.0
+12,Dhia,Yogyakarta,"Por Aqui Resto & IRD, Prawirotaman",187.0,3.0
+12,Dhia,Yogyakarta,Soto Daging Sapi Lamongan Cak Lim,202.0,1.0
+13,Dwika Putra,Yogyakarta,"Por Aqui Resto & IRD, Prawirotaman",187.0,2.0
+13,Dwika Putra,Yogyakarta,"Sushi Factory, Gejayan",17.0,4.0
+13,Dwika Putra,Yogyakarta,"Cak No Chinese Food, Jogoyudan",119.0,3.0
+13,Dwika Putra,Yogyakarta,"Rice&Steak, Ngipik, Potorono, Banguntapan, Bantul",108.0,3.0
+13,Dwika Putra,Yogyakarta,"Kedai Zu Pa ( Zuppa Soup & Pasta ) Kotabaru, Juadi",155.0,3.0
+13,Dwika Putra,Yogyakarta,"Chikuro Pakuwon Mall Jogja, Pakuwon Mall Lantai LG",34.0,3.0
+13,Dwika Putra,Yogyakarta,"Nasi Mangkok Uncle Dave, Depok/Caturtunggal/Seturan",188.0,2.0
+13,Dwika Putra,Yogyakarta,"Pothz Burger, STM Pembangunan",234.0,3.0
+13,Dwika Putra,Yogyakarta,"Gokana Ramen & Teppan, Pakuwon Mall Jogja",163.0,3.0
+13,Dwika Putra,Yogyakarta,"Pizza Aroma Italia 2, Gondokusuman",215.0,2.0
+13,Dwika Putra,Yogyakarta,"Madam Tan Indonesian Food, Gondokusuman",173.0,4.0
+13,Dwika Putra,Yogyakarta,"Hakata Ikkousha, Demangan Baru",86.0,3.0
+13,Dwika Putra,Yogyakarta,"Tom Sushi, Hartono Mall Jogja",125.0,3.0
+13,Dwika Putra,Yogyakarta,"Picnic! Pata X Sausage Tamansiswa, Jl. Tamansiswa No.49 Yogya",130.0,2.0
+13,Dwika Putra,Yogyakarta,"Kalluna, Kotabaru",165.0,4.0
+13,Dwika Putra,Yogyakarta,"Restoran Mahkota (Tiong San), Pajeksan",6.0,2.0
+13,Dwika Putra,Yogyakarta,"Hokben Kitchen, Seturan Jogja",124.0,4.0
+13,Dwika Putra,Yogyakarta,"Seafood 99, Wonocatur",48.0,4.0
+13,Dwika Putra,Yogyakarta,"Ichiban Sushi, Plaza Malioboro",183.0,3.0
+13,Dwika Putra,Yogyakarta,"Mie Ayam & Bakso Idolaku Pak Tikno, Tamansiswa",177.0,2.0
+14,Ekky Ramadhan,Yogyakarta,"Legend Coffee, Yogyakarta",3.0,5.0
+14,Ekky Ramadhan,Yogyakarta,"Ichiban Sushi, Plaza Malioboro",183.0,5.0
+14,Ekky Ramadhan,Yogyakarta,"Sate Taichan Hitz, Gejayan",113.0,4.0
+14,Ekky Ramadhan,Yogyakarta,"Por Aqui Resto & IRD, Prawirotaman",187.0,4.0
+14,Ekky Ramadhan,Yogyakarta,"My Kopi-O! Indonesian Bistro, Sagan",162.0,4.0
+14,Ekky Ramadhan,Yogyakarta,"Pizza Hut, Adi Sucipto Jogja",128.0,5.0
+14,Ekky Ramadhan,Yogyakarta,Silla Korean & Japanese Restaurant,206.0,1.0
+14,Ekky Ramadhan,Yogyakarta,"Seafood 99, Wonocatur",48.0,4.0
+14,Ekky Ramadhan,Yogyakarta,"Soto Sapi Winong, Ngeksigondo",218.0,4.0
+14,Ekky Ramadhan,Yogyakarta,"Mediterranea Restaurant by Kamil, Matrijeron",14.0,4.0
+14,Ekky Ramadhan,Yogyakarta,"Sushi Factory, Gejayan",17.0,3.0
+14,Ekky Ramadhan,Yogyakarta,"Mie Bandung Chinese Food, Ngampilan",0.0,4.0
+14,Ekky Ramadhan,Yogyakarta,"Marugame Udon, Hartono Mall Jogja",8.0,5.0
+14,Ekky Ramadhan,Yogyakarta,"Hokben Kitchen, Seturan Jogja",124.0,5.0
+14,Ekky Ramadhan,Yogyakarta,"Shaburi & Kintan Buffet, Ambarukmo Plaza Yogya",260.0,5.0
+14,Ekky Ramadhan,Yogyakarta,"Shigeru Sushi, Pakuwon Mall Yogyakarta",225.0,3.0
+14,Ekky Ramadhan,Yogyakarta,"Pothz Burger, STM Pembangunan",234.0,4.0
+14,Ekky Ramadhan,Yogyakarta,"Chikuro Pakuwon Mall Jogja, Pakuwon Mall Lantai LG",34.0,3.0
+14,Ekky Ramadhan,Yogyakarta,"Rumah Makan Tio Asli Ciu Chinese Food & Sea Food, Jetis",131.0,5.0
+14,Ekky Ramadhan,Yogyakarta,"Monalisa Burger Sisingamangaraja, seberang BDS syariah",192.0,2.0
+14,Ekky Ramadhan,Yogyakarta,"Daruma Donburi, Mlati, Sinduadi",166.0,1.0
+14,Ekky Ramadhan,Yogyakarta,"A&M Co. Express, Jogja",222.0,5.0
+14,Ekky Ramadhan,Yogyakarta,"Kalluna, Kotabaru",165.0,5.0
+14,Ekky Ramadhan,Yogyakarta,"Rice&Steak, Ngipik, Potorono, Banguntapan, Bantul",108.0,2.0
+14,Ekky Ramadhan,Yogyakarta,"Pizza Aroma Italia 2, Gondokusuman",215.0,2.0
+14,Ekky Ramadhan,Yogyakarta,"Hawker's Steak, JEC",214.0,3.0
+14,Ekky Ramadhan,Yogyakarta,"Tanamera Coffee Roastery, Yogyakarta",241.0,5.0
+14,Ekky Ramadhan,Yogyakarta,Soto Daging Sapi Lamongan Cak Lim,202.0,5.0
+15,Faqi Himmaka Mushoffa,Yogyakarta,"Marugame Udon, Hartono Mall Jogja",8.0,5.0
+15,Faqi Himmaka Mushoffa,Yogyakarta,"Sushi Factory, Gejayan",17.0,5.0
+15,Faqi Himmaka Mushoffa,Yogyakarta,"Mie Bandung Chinese Food, Ngampilan",0.0,5.0
+15,Faqi Himmaka Mushoffa,Yogyakarta,"Soto Sapi Winong, Ngeksigondo",218.0,5.0
+15,Faqi Himmaka Mushoffa,Yogyakarta,"Shaburi & Kintan Buffet, Ambarukmo Plaza Yogya",260.0,5.0
+15,Faqi Himmaka Mushoffa,Yogyakarta,"Petit Paris Boulangerie and Bistro, Kotabaru",221.0,5.0
+15,Faqi Himmaka Mushoffa,Yogyakarta,"My Kopi-O! Indonesian Bistro, Sagan",162.0,4.0
+15,Faqi Himmaka Mushoffa,Yogyakarta,"Rustik Bistro & Bar, Hotel Harper Malioboro Yogyakarta",15.0,4.0
+15,Faqi Himmaka Mushoffa,Yogyakarta,"Seblak Asgar, Lowanu",110.0,4.0
+15,Faqi Himmaka Mushoffa,Yogyakarta,"Daruma Donburi, Mlati, Sinduadi",166.0,3.0
+15,Faqi Himmaka Mushoffa,Yogyakarta,"Pizza Aroma Italia 2, Gondokusuman",215.0,4.0
+15,Faqi Himmaka Mushoffa,Yogyakarta,"Legend Coffee, Yogyakarta",3.0,5.0
+15,Faqi Himmaka Mushoffa,Yogyakarta,"Sushi Tei, Komplek Colombo",158.0,5.0
+15,Faqi Himmaka Mushoffa,Yogyakarta,"Mediterranea Restaurant by Kamil, Matrijeron",14.0,5.0
+15,Faqi Himmaka Mushoffa,Yogyakarta,"Hawker's Steak, JEC",214.0,4.0
+15,Faqi Himmaka Mushoffa,Yogyakarta,"Shigeru Sushi, Pakuwon Mall Yogyakarta",225.0,5.0
+15,Faqi Himmaka Mushoffa,Yogyakarta,"Tom Sushi, Hartono Mall Jogja",125.0,4.0
+15,Faqi Himmaka Mushoffa,Yogyakarta,"Mie Ayam & Bakso Idolaku Pak Tikno, Tamansiswa",177.0,4.0
+15,Faqi Himmaka Mushoffa,Yogyakarta,"Pothz Burger, STM Pembangunan",234.0,5.0
+15,Faqi Himmaka Mushoffa,Yogyakarta,"Nasi Mangkok Uncle Dave, Depok/Caturtunggal/Seturan",188.0,4.0
+15,Faqi Himmaka Mushoffa,Yogyakarta,"Madam Tan Indonesian Food, Gondokusuman",173.0,5.0
+15,Faqi Himmaka Mushoffa,Yogyakarta,"Oase Cafe & Coffe, Mergangsan",243.0,5.0
+16,Galih Nugraha,Yogyakarta,"Daruma Donburi, Mlati, Sinduadi",166.0,2.0
+16,Galih Nugraha,Yogyakarta,"Pepper Lunch, Hartono Mall",97.0,2.0
+16,Galih Nugraha,Yogyakarta,"Seblak Asgar, Lowanu",110.0,3.0
+16,Galih Nugraha,Yogyakarta,"Petit Paris Boulangerie and Bistro, Kotabaru",221.0,4.0
+16,Galih Nugraha,Yogyakarta,"Restoran Mahkota (Tiong San), Pajeksan",6.0,4.0
+16,Galih Nugraha,Yogyakarta,"My Kopi-O! Indonesian Bistro, Sagan",162.0,4.0
+16,Galih Nugraha,Yogyakarta,"Oase Cafe & Coffe, Mergangsan",243.0,4.0
+16,Galih Nugraha,Yogyakarta,"Cak No Chinese Food, Jogoyudan",119.0,5.0
+16,Galih Nugraha,Yogyakarta,Soto Daging Sapi Lamongan Cak Lim,202.0,4.0
+16,Galih Nugraha,Yogyakarta,"Mie Ayam & Bakso Idolaku Pak Tikno, Tamansiswa",177.0,4.0
+16,Galih Nugraha,Yogyakarta,"Ayam Geprek & Rice Bowl Tobiko Mentai, Karangkajen",144.0,2.0
+16,Galih Nugraha,Yogyakarta,"Pothz Burger, STM Pembangunan",234.0,2.0
+16,Galih Nugraha,Yogyakarta,"Rumah Makan Tio Asli Ciu Chinese Food & Sea Food, Jetis",131.0,3.0
+16,Galih Nugraha,Yogyakarta,"Pizza Aroma Italia 2, Gondokusuman",215.0,5.0
+16,Galih Nugraha,Yogyakarta,"Tanamera Coffee Roastery, Yogyakarta",241.0,4.0
+16,Galih Nugraha,Yogyakarta,"Madam Tan Indonesian Food, Gondokusuman",173.0,4.0
+16,Galih Nugraha,Yogyakarta,"Burgerax, Patangpuluhan",259.0,4.0
+16,Galih Nugraha,Yogyakarta,"Pizza Hut, Adi Sucipto Jogja",128.0,2.0
+16,Galih Nugraha,Yogyakarta,"Bebek Peking dan Ayam Panggang Pak Gembul, Jl KH Ahmad Dahlan No 40",142.0,2.0
+16,Galih Nugraha,Yogyakarta,"A&M Co. Express, Jogja",222.0,5.0
+16,Galih Nugraha,Yogyakarta,"Shigeru Sushi, Pakuwon Mall Yogyakarta",225.0,2.0
+16,Galih Nugraha,Yogyakarta,Silla Korean & Japanese Restaurant,206.0,4.0
+16,Galih Nugraha,Yogyakarta,"Tom Sushi, Hartono Mall Jogja",125.0,4.0
+16,Galih Nugraha,Yogyakarta,"Kedai Zu Pa ( Zuppa Soup & Pasta ) Kotabaru, Juadi",155.0,4.0
+17,Giandra Hasna Athaya ,Yogyakarta,"Pizza Hut, Adi Sucipto Jogja",128.0,2.0
+17,Giandra Hasna Athaya ,Yogyakarta,"Seafood 99, Wonocatur",48.0,2.0
+17,Giandra Hasna Athaya ,Yogyakarta,"Zona Seafood, Kotabaru",90.0,3.0
+17,Giandra Hasna Athaya ,Yogyakarta,"Ichiban Sushi, Plaza Malioboro",183.0,3.0
+17,Giandra Hasna Athaya ,Yogyakarta,"Ayam Geprek & Rice Bowl Tobiko Mentai, Karangkajen",144.0,3.0
+17,Giandra Hasna Athaya ,Yogyakarta,"Burgerax, Patangpuluhan",259.0,2.0
+17,Giandra Hasna Athaya ,Yogyakarta,"Soto Sapi Winong, Ngeksigondo",218.0,3.0
+17,Giandra Hasna Athaya ,Yogyakarta,Soto Daging Sapi Lamongan Cak Lim,202.0,3.0
+17,Giandra Hasna Athaya ,Yogyakarta,"My Kopi-O! Indonesian Bistro, Sagan",162.0,4.0
+17,Giandra Hasna Athaya ,Yogyakarta,"Pothz Burger, STM Pembangunan",234.0,2.0
+17,Giandra Hasna Athaya ,Yogyakarta,"Monalisa Burger Sisingamangaraja, seberang BDS syariah",192.0,2.0
+17,Giandra Hasna Athaya ,Yogyakarta,"Hakata Ikkousha, Demangan Baru",86.0,4.0
+17,Giandra Hasna Athaya ,Yogyakarta,"Pizza Aroma Italia 2, Gondokusuman",215.0,3.0
+17,Giandra Hasna Athaya ,Yogyakarta,"Picnic! Pata X Sausage Tamansiswa, Jl. Tamansiswa No.49 Yogya",130.0,4.0
+17,Giandra Hasna Athaya ,Yogyakarta,"Madam Tan Indonesian Food, Gondokusuman",173.0,3.0
+17,Giandra Hasna Athaya ,Yogyakarta,"Restoran Mahkota (Tiong San), Pajeksan",6.0,2.0
+17,Giandra Hasna Athaya ,Yogyakarta,"Por Aqui Resto & IRD, Prawirotaman",187.0,4.0
+17,Giandra Hasna Athaya ,Yogyakarta,"Chikuro Pakuwon Mall Jogja, Pakuwon Mall Lantai LG",34.0,3.0
+17,Giandra Hasna Athaya ,Yogyakarta,"Hawker's Steak, JEC",214.0,4.0
+17,Giandra Hasna Athaya ,Yogyakarta,"Gokana Ramen & Teppan, Pakuwon Mall Jogja",163.0,2.0
+17,Giandra Hasna Athaya ,Yogyakarta,"Seblak Asgar, Lowanu",110.0,2.0
+18,Hafizh Akmal,Yogyakarta,"Sushi Tei, Komplek Colombo",158.0,4.0
+18,Hafizh Akmal,Yogyakarta,Soto Daging Sapi Lamongan Cak Lim,202.0,4.0
+18,Hafizh Akmal,Yogyakarta,"Rice&Steak, Ngipik, Potorono, Banguntapan, Bantul",108.0,4.0
+18,Hafizh Akmal,Yogyakarta,"Madam Tan Indonesian Food, Gondokusuman",173.0,4.0
+18,Hafizh Akmal,Yogyakarta,"Seblak Asgar, Lowanu",110.0,4.0
+18,Hafizh Akmal,Yogyakarta,"Monalisa Burger Sisingamangaraja, seberang BDS syariah",192.0,4.0
+18,Hafizh Akmal,Yogyakarta,"Shaburi & Kintan Buffet, Ambarukmo Plaza Yogya",260.0,4.0
+18,Hafizh Akmal,Yogyakarta,"Zona Seafood, Kotabaru",90.0,4.0
+18,Hafizh Akmal,Yogyakarta,"Burgerax, Patangpuluhan",259.0,5.0
+18,Hafizh Akmal,Yogyakarta,"Hawker's Steak, JEC",214.0,4.0
+18,Hafizh Akmal,Yogyakarta,"Oase Cafe & Coffe, Mergangsan",243.0,4.0
+18,Hafizh Akmal,Yogyakarta,"Legend Coffee, Yogyakarta",3.0,4.0
+18,Hafizh Akmal,Yogyakarta,"Rustik Bistro & Bar, Hotel Harper Malioboro Yogyakarta",15.0,4.0
+18,Hafizh Akmal,Yogyakarta,"Cak No Chinese Food, Jogoyudan",119.0,4.0
+18,Hafizh Akmal,Yogyakarta,"Pizza Aroma Italia 2, Gondokusuman",215.0,4.0
+18,Hafizh Akmal,Yogyakarta,"Picnic! Pata X Sausage Tamansiswa, Jl. Tamansiswa No.49 Yogya",130.0,4.0
+18,Hafizh Akmal,Yogyakarta,"Chikuro Pakuwon Mall Jogja, Pakuwon Mall Lantai LG",34.0,4.0
+18,Hafizh Akmal,Yogyakarta,"Hokben Kitchen, Seturan Jogja",124.0,5.0
+18,Hafizh Akmal,Yogyakarta,"Nasi Mangkok Uncle Dave, Depok/Caturtunggal/Seturan",188.0,5.0
+18,Hafizh Akmal,Yogyakarta,"Pepper Lunch, Hartono Mall",97.0,5.0
+18,Hafizh Akmal,Yogyakarta,"Sushi Factory, Gejayan",17.0,4.0
+18,Hafizh Akmal,Yogyakarta,"Hakata Ikkousha, Demangan Baru",86.0,5.0
+18,Hafizh Akmal,Yogyakarta,"Kedai Zu Pa ( Zuppa Soup & Pasta ) Kotabaru, Juadi",155.0,4.0
+18,Hafizh Akmal,Yogyakarta,"My Kopi-O! Indonesian Bistro, Sagan",162.0,4.0
+18,Hafizh Akmal,Yogyakarta,"Tanamera Coffee Roastery, Yogyakarta",241.0,4.0
+18,Hafizh Akmal,Yogyakarta,"Shigeru Sushi, Pakuwon Mall Yogyakarta",225.0,4.0
+18,Hafizh Akmal,Yogyakarta,"Por Aqui Resto & IRD, Prawirotaman",187.0,4.0
+18,Hafizh Akmal,Yogyakarta,"Ichiban Sushi, Plaza Malioboro",183.0,5.0
+18,Hafizh Akmal,Yogyakarta,"Rumah Makan Tio Asli Ciu Chinese Food & Sea Food, Jetis",131.0,4.0
+18,Hafizh Akmal,Yogyakarta,"Pizza Hut, Adi Sucipto Jogja",128.0,5.0
+18,Hafizh Akmal,Yogyakarta,"Seafood 99, Wonocatur",48.0,4.0
+18,Hafizh Akmal,Yogyakarta,"Soto Sapi Winong, Ngeksigondo",218.0,5.0
+19,Harvito,Yogyakarta,"Shigeru Sushi, Pakuwon Mall Yogyakarta",225.0,4.0
+19,Harvito,Yogyakarta,"Pepper Lunch, Hartono Mall",97.0,4.0
+19,Harvito,Yogyakarta,"Chikuro Pakuwon Mall Jogja, Pakuwon Mall Lantai LG",34.0,3.0
+19,Harvito,Yogyakarta,"Mie Bandung Chinese Food, Ngampilan",0.0,4.0
+19,Harvito,Yogyakarta,"Sushi Tei, Komplek Colombo",158.0,5.0
+19,Harvito,Yogyakarta,"Yamie Panda, Tamansiswa",197.0,3.0
+20,Hashif Hibatullah,Yogyakarta,"Shaburi & Kintan Buffet, Ambarukmo Plaza Yogya",260.0,5.0
+20,Hashif Hibatullah,Yogyakarta,"Hawker's Steak, JEC",214.0,3.0
+20,Hashif Hibatullah,Yogyakarta,"Pizza Aroma Italia 2, Gondokusuman",215.0,3.0
+20,Hashif Hibatullah,Yogyakarta,"Pepper Lunch, Hartono Mall",97.0,5.0
+20,Hashif Hibatullah,Yogyakarta,"Nasi Mangkok Uncle Dave, Depok/Caturtunggal/Seturan",188.0,4.0
+20,Hashif Hibatullah,Yogyakarta,"Restoran Mahkota (Tiong San), Pajeksan",6.0,4.0
+20,Hashif Hibatullah,Yogyakarta,"Soto Sapi Winong, Ngeksigondo",218.0,3.0
+20,Hashif Hibatullah,Yogyakarta,"Seblak Asgar, Lowanu",110.0,3.0
+20,Hashif Hibatullah,Yogyakarta,"Picnic! Pata X Sausage Tamansiswa, Jl. Tamansiswa No.49 Yogya",130.0,2.0
+20,Hashif Hibatullah,Yogyakarta,Soto Daging Sapi Lamongan Cak Lim,202.0,4.0
+20,Hashif Hibatullah,Yogyakarta,"Marugame Udon, Hartono Mall Jogja",8.0,5.0
+20,Hashif Hibatullah,Yogyakarta,"Seafood 99, Wonocatur",48.0,4.0
+20,Hashif Hibatullah,Yogyakarta,"Chikuro Pakuwon Mall Jogja, Pakuwon Mall Lantai LG",34.0,4.0
+20,Hashif Hibatullah,Yogyakarta,"Rustik Bistro & Bar, Hotel Harper Malioboro Yogyakarta",15.0,4.0
+20,Hashif Hibatullah,Yogyakarta,"Ichiban Sushi, Plaza Malioboro",183.0,3.0
+20,Hashif Hibatullah,Yogyakarta,"Shigeru Sushi, Pakuwon Mall Yogyakarta",225.0,4.0
+20,Hashif Hibatullah,Yogyakarta,"Mie Bandung Chinese Food, Ngampilan",0.0,3.0
+20,Hashif Hibatullah,Yogyakarta,"Daruma Donburi, Mlati, Sinduadi",166.0,3.0
+20,Hashif Hibatullah,Yogyakarta,"Madam Tan Indonesian Food, Gondokusuman",173.0,4.0
+20,Hashif Hibatullah,Yogyakarta,"Sushi Factory, Gejayan",17.0,3.0
+20,Hashif Hibatullah,Yogyakarta,"Legend Coffee, Yogyakarta",3.0,4.0
+20,Hashif Hibatullah,Yogyakarta,"A&M Co. Express, Jogja",222.0,4.0
+20,Hashif Hibatullah,Yogyakarta,"My Kopi-O! Indonesian Bistro, Sagan",162.0,3.0
+20,Hashif Hibatullah,Yogyakarta,"Hokben Kitchen, Seturan Jogja",124.0,4.0
+20,Hashif Hibatullah,Yogyakarta,"Tanamera Coffee Roastery, Yogyakarta",241.0,4.0
+20,Hashif Hibatullah,Yogyakarta,"Kalluna, Kotabaru",165.0,4.0
+20,Hashif Hibatullah,Yogyakarta,"Bebek Peking dan Ayam Panggang Pak Gembul, Jl KH Ahmad Dahlan No 40",142.0,4.0
+20,Hashif Hibatullah,Yogyakarta,"Pizza Hut, Adi Sucipto Jogja",128.0,5.0
+20,Hashif Hibatullah,Yogyakarta,"Mie Ayam & Bakso Idolaku Pak Tikno, Tamansiswa",177.0,4.0
+20,Hashif Hibatullah,Yogyakarta,"Hakata Ikkousha, Demangan Baru",86.0,4.0
+21,Juan,Yogyakarta,"Pizza Aroma Italia 2, Gondokusuman",215.0,3.0
+21,Juan,Yogyakarta,"Marugame Udon, Hartono Mall Jogja",8.0,5.0
+21,Juan,Yogyakarta,"Shaburi & Kintan Buffet, Ambarukmo Plaza Yogya",260.0,3.0
+21,Juan,Yogyakarta,"Daruma Donburi, Mlati, Sinduadi",166.0,5.0
+21,Juan,Yogyakarta,"Seafood 99, Wonocatur",48.0,4.0
+21,Juan,Yogyakarta,"Nasi Mangkok Uncle Dave, Depok/Caturtunggal/Seturan",188.0,4.0
+21,Juan,Yogyakarta,"Por Aqui Resto & IRD, Prawirotaman",187.0,3.0
+21,Juan,Yogyakarta,"Seblak Asgar, Lowanu",110.0,3.0
+21,Juan,Yogyakarta,Silla Korean & Japanese Restaurant,206.0,3.0
+21,Juan,Yogyakarta,"A&M Co. Express, Jogja",222.0,5.0
+21,Juan,Yogyakarta,"Pepper Lunch, Hartono Mall",97.0,4.0
+21,Juan,Yogyakarta,"Restoran Mahkota (Tiong San), Pajeksan",6.0,3.0
+21,Juan,Yogyakarta,"Sushi Tei, Komplek Colombo",158.0,4.0
+21,Juan,Yogyakarta,"Hakata Ikkousha, Demangan Baru",86.0,3.0
+21,Juan,Yogyakarta,"Zona Seafood, Kotabaru",90.0,4.0
+21,Juan,Yogyakarta,"Yamie Panda, Tamansiswa",197.0,5.0
+21,Juan,Yogyakarta,"Ichiban Sushi, Plaza Malioboro",183.0,4.0
+21,Juan,Yogyakarta,"Sate Taichan Hitz, Gejayan",113.0,3.0
+21,Juan,Yogyakarta,"Mediterranea Restaurant by Kamil, Matrijeron",14.0,3.0
+21,Juan,Yogyakarta,"Gokana Ramen & Teppan, Pakuwon Mall Jogja",163.0,3.0
+21,Juan,Yogyakarta,"Pothz Burger, STM Pembangunan",234.0,5.0
+21,Juan,Yogyakarta,Soto Daging Sapi Lamongan Cak Lim,202.0,3.0
+21,Juan,Yogyakarta,"Picnic! Pata X Sausage Tamansiswa, Jl. Tamansiswa No.49 Yogya",130.0,3.0
+21,Juan,Yogyakarta,"Petit Paris Boulangerie and Bistro, Kotabaru",221.0,4.0
+21,Juan,Yogyakarta,"Mie Bandung Chinese Food, Ngampilan",0.0,4.0
+21,Juan,Yogyakarta,"Ayam Geprek & Rice Bowl Tobiko Mentai, Karangkajen",144.0,3.0
+22,Lutfi Elyas,Yogyakarta,"Picnic! Pata X Sausage Tamansiswa, Jl. Tamansiswa No.49 Yogya",130.0,4.0
+22,Lutfi Elyas,Yogyakarta,"Mie Bandung Chinese Food, Ngampilan",0.0,4.0
+22,Lutfi Elyas,Yogyakarta,"Shaburi & Kintan Buffet, Ambarukmo Plaza Yogya",260.0,4.0
+22,Lutfi Elyas,Yogyakarta,"Sushi Factory, Gejayan",17.0,4.0
+22,Lutfi Elyas,Yogyakarta,"Nasi Mangkok Uncle Dave, Depok/Caturtunggal/Seturan",188.0,4.0
+22,Lutfi Elyas,Yogyakarta,"A&M Co. Express, Jogja",222.0,4.0
+22,Lutfi Elyas,Yogyakarta,"Rumah Makan Tio Asli Ciu Chinese Food & Sea Food, Jetis",131.0,2.0
+22,Lutfi Elyas,Yogyakarta,"Marugame Udon, Hartono Mall Jogja",8.0,3.0
+22,Lutfi Elyas,Yogyakarta,"Kalluna, Kotabaru",165.0,3.0
+22,Lutfi Elyas,Yogyakarta,"Sushi Tei, Komplek Colombo",158.0,4.0
+22,Lutfi Elyas,Yogyakarta,"My Kopi-O! Indonesian Bistro, Sagan",162.0,3.0
+22,Lutfi Elyas,Yogyakarta,"Restoran Mahkota (Tiong San), Pajeksan",6.0,4.0
+22,Lutfi Elyas,Yogyakarta,"Pizza Aroma Italia 2, Gondokusuman",215.0,5.0
+22,Lutfi Elyas,Yogyakarta,"Rice&Steak, Ngipik, Potorono, Banguntapan, Bantul",108.0,4.0
+22,Lutfi Elyas,Yogyakarta,"Pothz Burger, STM Pembangunan",234.0,3.0
+22,Lutfi Elyas,Yogyakarta,"Legend Coffee, Yogyakarta",3.0,4.0
+22,Lutfi Elyas,Yogyakarta,"Petit Paris Boulangerie and Bistro, Kotabaru",221.0,3.0
+22,Lutfi Elyas,Yogyakarta,"Por Aqui Resto & IRD, Prawirotaman",187.0,4.0
+22,Lutfi Elyas,Yogyakarta,"Hawker's Steak, JEC",214.0,3.0
+22,Lutfi Elyas,Yogyakarta,"Seblak Asgar, Lowanu",110.0,4.0
+22,Lutfi Elyas,Yogyakarta,"Mie Ayam & Bakso Idolaku Pak Tikno, Tamansiswa",177.0,5.0
+22,Lutfi Elyas,Yogyakarta,"Mediterranea Restaurant by Kamil, Matrijeron",14.0,4.0
+23,M Fawwaz Firjatullah,Yogyakarta,"Bebek Peking dan Ayam Panggang Pak Gembul, Jl KH Ahmad Dahlan No 40",142.0,2.0
+23,M Fawwaz Firjatullah,Yogyakarta,"My Kopi-O! Indonesian Bistro, Sagan",162.0,4.0
+23,M Fawwaz Firjatullah,Yogyakarta,"Rustik Bistro & Bar, Hotel Harper Malioboro Yogyakarta",15.0,4.0
+23,M Fawwaz Firjatullah,Yogyakarta,Silla Korean & Japanese Restaurant,206.0,3.0
+23,M Fawwaz Firjatullah,Yogyakarta,"Ichiban Sushi, Plaza Malioboro",183.0,4.0
+23,M Fawwaz Firjatullah,Yogyakarta,"Hawker's Steak, JEC",214.0,4.0
+23,M Fawwaz Firjatullah,Yogyakarta,"Legend Coffee, Yogyakarta",3.0,3.0
+23,M Fawwaz Firjatullah,Yogyakarta,"Ayam Geprek & Rice Bowl Tobiko Mentai, Karangkajen",144.0,5.0
+23,M Fawwaz Firjatullah,Yogyakarta,"Pizza Hut, Adi Sucipto Jogja",128.0,5.0
+23,M Fawwaz Firjatullah,Yogyakarta,"Cak No Chinese Food, Jogoyudan",119.0,3.0
+23,M Fawwaz Firjatullah,Yogyakarta,"Mediterranea Restaurant by Kamil, Matrijeron",14.0,4.0
+23,M Fawwaz Firjatullah,Yogyakarta,"A&M Co. Express, Jogja",222.0,5.0
+24,Majid,Yogyakarta,"Chikuro Pakuwon Mall Jogja, Pakuwon Mall Lantai LG",34.0,3.0
+24,Majid,Yogyakarta,"Soto Sapi Winong, Ngeksigondo",218.0,2.0
+24,Majid,Yogyakarta,"Petit Paris Boulangerie and Bistro, Kotabaru",221.0,3.0
+24,Majid,Yogyakarta,"Rumah Makan Tio Asli Ciu Chinese Food & Sea Food, Jetis",131.0,3.0
+24,Majid,Yogyakarta,"Kedai Zu Pa ( Zuppa Soup & Pasta ) Kotabaru, Juadi",155.0,2.0
+24,Majid,Yogyakarta,"Mediterranea Restaurant by Kamil, Matrijeron",14.0,3.0
+24,Majid,Yogyakarta,"Seblak Asgar, Lowanu",110.0,4.0
+24,Majid,Yogyakarta,"Oase Cafe & Coffe, Mergangsan",243.0,3.0
+24,Majid,Yogyakarta,"Kalluna, Kotabaru",165.0,3.0
+24,Majid,Yogyakarta,"Cak No Chinese Food, Jogoyudan",119.0,3.0
+24,Majid,Yogyakarta,Silla Korean & Japanese Restaurant,206.0,3.0
+24,Majid,Yogyakarta,"Hawker's Steak, JEC",214.0,4.0
+24,Majid,Yogyakarta,"Sate Taichan Hitz, Gejayan",113.0,3.0
+24,Majid,Yogyakarta,"Zona Seafood, Kotabaru",90.0,3.0
+24,Majid,Yogyakarta,"Marugame Udon, Hartono Mall Jogja",8.0,5.0
+24,Majid,Yogyakarta,"Pepper Lunch, Hartono Mall",97.0,4.0
+24,Majid,Yogyakarta,"A&M Co. Express, Jogja",222.0,4.0
+24,Majid,Yogyakarta,"Ayam Geprek & Rice Bowl Tobiko Mentai, Karangkajen",144.0,4.0
+24,Majid,Yogyakarta,"Ichiban Sushi, Plaza Malioboro",183.0,4.0
+24,Majid,Yogyakarta,"My Kopi-O! Indonesian Bistro, Sagan",162.0,4.0
+24,Majid,Yogyakarta,"Pizza Aroma Italia 2, Gondokusuman",215.0,4.0
+24,Majid,Yogyakarta,"Mie Bandung Chinese Food, Ngampilan",0.0,3.0
+24,Majid,Yogyakarta,"Burgerax, Patangpuluhan",259.0,3.0
+24,Majid,Yogyakarta,"Seafood 99, Wonocatur",48.0,2.0
+24,Majid,Yogyakarta,"Picnic! Pata X Sausage Tamansiswa, Jl. Tamansiswa No.49 Yogya",130.0,5.0
+24,Majid,Yogyakarta,"Yamie Panda, Tamansiswa",197.0,5.0
+25,Maulana Arya,Yogyakarta,"Shigeru Sushi, Pakuwon Mall Yogyakarta",225.0,2.0
+25,Maulana Arya,Yogyakarta,"Pepper Lunch, Hartono Mall",97.0,3.0
+25,Maulana Arya,Yogyakarta,"Chikuro Pakuwon Mall Jogja, Pakuwon Mall Lantai LG",34.0,3.0
+25,Maulana Arya,Yogyakarta,"Cak No Chinese Food, Jogoyudan",119.0,2.0
+25,Maulana Arya,Yogyakarta,Silla Korean & Japanese Restaurant,206.0,3.0
+25,Maulana Arya,Yogyakarta,"Sushi Factory, Gejayan",17.0,3.0
+25,Maulana Arya,Yogyakarta,"Tom Sushi, Hartono Mall Jogja",125.0,4.0
+25,Maulana Arya,Yogyakarta,"Restoran Mahkota (Tiong San), Pajeksan",6.0,3.0
+25,Maulana Arya,Yogyakarta,"Soto Sapi Winong, Ngeksigondo",218.0,3.0
+25,Maulana Arya,Yogyakarta,"Pizza Aroma Italia 2, Gondokusuman",215.0,3.0
+25,Maulana Arya,Yogyakarta,"Bebek Peking dan Ayam Panggang Pak Gembul, Jl KH Ahmad Dahlan No 40",142.0,4.0
+25,Maulana Arya,Yogyakarta,"Mie Bandung Chinese Food, Ngampilan",0.0,3.0
+25,Maulana Arya,Yogyakarta,Soto Daging Sapi Lamongan Cak Lim,202.0,3.0
+25,Maulana Arya,Yogyakarta,"Marugame Udon, Hartono Mall Jogja",8.0,4.0
+25,Maulana Arya,Yogyakarta,"Mediterranea Restaurant by Kamil, Matrijeron",14.0,3.0
+25,Maulana Arya,Yogyakarta,"Rice&Steak, Ngipik, Potorono, Banguntapan, Bantul",108.0,3.0
+25,Maulana Arya,Yogyakarta,"Zona Seafood, Kotabaru",90.0,1.0
+25,Maulana Arya,Yogyakarta,"Kalluna, Kotabaru",165.0,4.0
+25,Maulana Arya,Yogyakarta,"Kedai Zu Pa ( Zuppa Soup & Pasta ) Kotabaru, Juadi",155.0,3.0
+25,Maulana Arya,Yogyakarta,"Rustik Bistro & Bar, Hotel Harper Malioboro Yogyakarta",15.0,3.0
+25,Maulana Arya,Yogyakarta,"A&M Co. Express, Jogja",222.0,3.0
+25,Maulana Arya,Yogyakarta,"Mie Ayam & Bakso Idolaku Pak Tikno, Tamansiswa",177.0,4.0
+25,Maulana Arya,Yogyakarta,"Ichiban Sushi, Plaza Malioboro",183.0,2.0
+25,Maulana Arya,Yogyakarta,"Madam Tan Indonesian Food, Gondokusuman",173.0,2.0
+25,Maulana Arya,Yogyakarta,"Seafood 99, Wonocatur",48.0,2.0
+26,Melani ,Yogyakarta,"Daruma Donburi, Mlati, Sinduadi",166.0,3.0
+26,Melani ,Yogyakarta,"Sushi Tei, Komplek Colombo",158.0,4.0
+26,Melani ,Yogyakarta,"Monalisa Burger Sisingamangaraja, seberang BDS syariah",192.0,3.0
+26,Melani ,Yogyakarta,"Picnic! Pata X Sausage Tamansiswa, Jl. Tamansiswa No.49 Yogya",130.0,5.0
+26,Melani ,Yogyakarta,"Ayam Geprek & Rice Bowl Tobiko Mentai, Karangkajen",144.0,3.0
+26,Melani ,Yogyakarta,"Tom Sushi, Hartono Mall Jogja",125.0,3.0
+26,Melani ,Yogyakarta,"Por Aqui Resto & IRD, Prawirotaman",187.0,4.0
+26,Melani ,Yogyakarta,"Shigeru Sushi, Pakuwon Mall Yogyakarta",225.0,4.0
+26,Melani ,Yogyakarta,"Kedai Zu Pa ( Zuppa Soup & Pasta ) Kotabaru, Juadi",155.0,4.0
+26,Melani ,Yogyakarta,"Mediterranea Restaurant by Kamil, Matrijeron",14.0,3.0
+26,Melani ,Yogyakarta,"Marugame Udon, Hartono Mall Jogja",8.0,2.0
+26,Melani ,Yogyakarta,Silla Korean & Japanese Restaurant,206.0,4.0
+26,Melani ,Yogyakarta,"Madam Tan Indonesian Food, Gondokusuman",173.0,3.0
+26,Melani ,Yogyakarta,"Nasi Mangkok Uncle Dave, Depok/Caturtunggal/Seturan",188.0,3.0
+26,Melani ,Yogyakarta,Soto Daging Sapi Lamongan Cak Lim,202.0,3.0
+26,Melani ,Yogyakarta,"Zona Seafood, Kotabaru",90.0,2.0
+26,Melani ,Yogyakarta,"Pothz Burger, STM Pembangunan",234.0,3.0
+26,Melani ,Yogyakarta,"Hakata Ikkousha, Demangan Baru",86.0,3.0
+26,Melani ,Yogyakarta,"Legend Coffee, Yogyakarta",3.0,4.0
+26,Melani ,Yogyakarta,"Mie Ayam & Bakso Idolaku Pak Tikno, Tamansiswa",177.0,3.0
+26,Melani ,Yogyakarta,"Mie Bandung Chinese Food, Ngampilan",0.0,3.0
+26,Melani ,Yogyakarta,"Rustik Bistro & Bar, Hotel Harper Malioboro Yogyakarta",15.0,3.0
+26,Melani ,Yogyakarta,"Cak No Chinese Food, Jogoyudan",119.0,2.0
+26,Melani ,Yogyakarta,"Chikuro Pakuwon Mall Jogja, Pakuwon Mall Lantai LG",34.0,5.0
+26,Melani ,Yogyakarta,"Pepper Lunch, Hartono Mall",97.0,3.0
+26,Melani ,Yogyakarta,"Restoran Mahkota (Tiong San), Pajeksan",6.0,3.0
+26,Melani ,Yogyakarta,"Seafood 99, Wonocatur",48.0,3.0
+27,Melanio Daris,Yogyakarta,"Daruma Donburi, Mlati, Sinduadi",166.0,2.0
+27,Melanio Daris,Yogyakarta,"Sushi Tei, Komplek Colombo",158.0,2.0
+27,Melanio Daris,Yogyakarta,"Burgerax, Patangpuluhan",259.0,2.0
+27,Melanio Daris,Yogyakarta,"Cak No Chinese Food, Jogoyudan",119.0,2.0
+27,Melanio Daris,Yogyakarta,"Legend Coffee, Yogyakarta",3.0,3.0
+27,Melanio Daris,Yogyakarta,"Tom Sushi, Hartono Mall Jogja",125.0,2.0
+27,Melanio Daris,Yogyakarta,"Rustik Bistro & Bar, Hotel Harper Malioboro Yogyakarta",15.0,5.0
+27,Melanio Daris,Yogyakarta,"Shigeru Sushi, Pakuwon Mall Yogyakarta",225.0,4.0
+27,Melanio Daris,Yogyakarta,"Pepper Lunch, Hartono Mall",97.0,4.0
+27,Melanio Daris,Yogyakarta,"Picnic! Pata X Sausage Tamansiswa, Jl. Tamansiswa No.49 Yogya",130.0,3.0
+27,Melanio Daris,Yogyakarta,"Rumah Makan Tio Asli Ciu Chinese Food & Sea Food, Jetis",131.0,5.0
+27,Melanio Daris,Yogyakarta,"Ichiban Sushi, Plaza Malioboro",183.0,4.0
+27,Melanio Daris,Yogyakarta,"Monalisa Burger Sisingamangaraja, seberang BDS syariah",192.0,5.0
+27,Melanio Daris,Yogyakarta,Soto Daging Sapi Lamongan Cak Lim,202.0,2.0
+27,Melanio Daris,Yogyakarta,"Mediterranea Restaurant by Kamil, Matrijeron",14.0,1.0
+27,Melanio Daris,Yogyakarta,"Chikuro Pakuwon Mall Jogja, Pakuwon Mall Lantai LG",34.0,4.0
+27,Melanio Daris,Yogyakarta,"Restoran Mahkota (Tiong San), Pajeksan",6.0,3.0
+27,Melanio Daris,Yogyakarta,"Seblak Asgar, Lowanu",110.0,1.0
+27,Melanio Daris,Yogyakarta,"Kalluna, Kotabaru",165.0,1.0
+27,Melanio Daris,Yogyakarta,"Por Aqui Resto & IRD, Prawirotaman",187.0,2.0
+27,Melanio Daris,Yogyakarta,"Nasi Mangkok Uncle Dave, Depok/Caturtunggal/Seturan",188.0,4.0
+27,Melanio Daris,Yogyakarta,"Rice&Steak, Ngipik, Potorono, Banguntapan, Bantul",108.0,5.0
+27,Melanio Daris,Yogyakarta,"Sushi Factory, Gejayan",17.0,1.0
+27,Melanio Daris,Yogyakarta,"Yamie Panda, Tamansiswa",197.0,2.0
+27,Melanio Daris,Yogyakarta,"Hokben Kitchen, Seturan Jogja",124.0,2.0
+27,Melanio Daris,Yogyakarta,"Pothz Burger, STM Pembangunan",234.0,2.0
+28,Melvina Ruth,Yogyakarta,"Pizza Aroma Italia 2, Gondokusuman",215.0,2.0
+28,Melvina Ruth,Yogyakarta,"Mediterranea Restaurant by Kamil, Matrijeron",14.0,3.0
+28,Melvina Ruth,Yogyakarta,"Hakata Ikkousha, Demangan Baru",86.0,3.0
+28,Melvina Ruth,Yogyakarta,"Sushi Tei, Komplek Colombo",158.0,4.0
+28,Melvina Ruth,Yogyakarta,"Seblak Asgar, Lowanu",110.0,4.0
+28,Melvina Ruth,Yogyakarta,"Yamie Panda, Tamansiswa",197.0,5.0
+28,Melvina Ruth,Yogyakarta,"Nasi Mangkok Uncle Dave, Depok/Caturtunggal/Seturan",188.0,4.0
+28,Melvina Ruth,Yogyakarta,"Mie Bandung Chinese Food, Ngampilan",0.0,4.0
+28,Melvina Ruth,Yogyakarta,"Rumah Makan Tio Asli Ciu Chinese Food & Sea Food, Jetis",131.0,5.0
+28,Melvina Ruth,Yogyakarta,"Monalisa Burger Sisingamangaraja, seberang BDS syariah",192.0,2.0
+28,Melvina Ruth,Yogyakarta,"Bebek Peking dan Ayam Panggang Pak Gembul, Jl KH Ahmad Dahlan No 40",142.0,3.0
+28,Melvina Ruth,Yogyakarta,"Tom Sushi, Hartono Mall Jogja",125.0,5.0
+28,Melvina Ruth,Yogyakarta,"Picnic! Pata X Sausage Tamansiswa, Jl. Tamansiswa No.49 Yogya",130.0,5.0
+28,Melvina Ruth,Yogyakarta,"Rustik Bistro & Bar, Hotel Harper Malioboro Yogyakarta",15.0,4.0
+28,Melvina Ruth,Yogyakarta,"Sushi Factory, Gejayan",17.0,3.0
+28,Melvina Ruth,Yogyakarta,"Zona Seafood, Kotabaru",90.0,3.0
+28,Melvina Ruth,Yogyakarta,"My Kopi-O! Indonesian Bistro, Sagan",162.0,3.0
+28,Melvina Ruth,Yogyakarta,"Shigeru Sushi, Pakuwon Mall Yogyakarta",225.0,5.0
+28,Melvina Ruth,Yogyakarta,"Por Aqui Resto & IRD, Prawirotaman",187.0,3.0
+28,Melvina Ruth,Yogyakarta,"Marugame Udon, Hartono Mall Jogja",8.0,5.0
+28,Melvina Ruth,Yogyakarta,"Mie Ayam & Bakso Idolaku Pak Tikno, Tamansiswa",177.0,3.0
+28,Melvina Ruth,Yogyakarta,"Cak No Chinese Food, Jogoyudan",119.0,4.0
+29,Muhammad Azka Hartami,Yogyakarta,"Mediterranea Restaurant by Kamil, Matrijeron",14.0,4.0
+29,Muhammad Azka Hartami,Yogyakarta,"Petit Paris Boulangerie and Bistro, Kotabaru",221.0,5.0
+29,Muhammad Azka Hartami,Yogyakarta,"Picnic! Pata X Sausage Tamansiswa, Jl. Tamansiswa No.49 Yogya",130.0,5.0
+29,Muhammad Azka Hartami,Yogyakarta,"Monalisa Burger Sisingamangaraja, seberang BDS syariah",192.0,5.0
+29,Muhammad Azka Hartami,Yogyakarta,"Shaburi & Kintan Buffet, Ambarukmo Plaza Yogya",260.0,5.0
+29,Muhammad Azka Hartami,Yogyakarta,"Oase Cafe & Coffe, Mergangsan",243.0,5.0
+29,Muhammad Azka Hartami,Yogyakarta,"Shigeru Sushi, Pakuwon Mall Yogyakarta",225.0,5.0
+29,Muhammad Azka Hartami,Yogyakarta,Soto Daging Sapi Lamongan Cak Lim,202.0,5.0
+29,Muhammad Azka Hartami,Yogyakarta,"Yamie Panda, Tamansiswa",197.0,5.0
+29,Muhammad Azka Hartami,Yogyakarta,"Gokana Ramen & Teppan, Pakuwon Mall Jogja",163.0,5.0
+29,Muhammad Azka Hartami,Yogyakarta,"Hakata Ikkousha, Demangan Baru",86.0,5.0
+29,Muhammad Azka Hartami,Yogyakarta,"A&M Co. Express, Jogja",222.0,5.0
+29,Muhammad Azka Hartami,Yogyakarta,"Legend Coffee, Yogyakarta",3.0,5.0
+29,Muhammad Azka Hartami,Yogyakarta,"Rumah Makan Tio Asli Ciu Chinese Food & Sea Food, Jetis",131.0,5.0
+29,Muhammad Azka Hartami,Yogyakarta,"Kedai Zu Pa ( Zuppa Soup & Pasta ) Kotabaru, Juadi",155.0,5.0
+29,Muhammad Azka Hartami,Yogyakarta,"Burgerax, Patangpuluhan",259.0,5.0
+29,Muhammad Azka Hartami,Yogyakarta,"Mie Ayam & Bakso Idolaku Pak Tikno, Tamansiswa",177.0,5.0
+29,Muhammad Azka Hartami,Yogyakarta,"Chikuro Pakuwon Mall Jogja, Pakuwon Mall Lantai LG",34.0,5.0
+29,Muhammad Azka Hartami,Yogyakarta,"Pizza Hut, Adi Sucipto Jogja",128.0,5.0
+29,Muhammad Azka Hartami,Yogyakarta,"Kalluna, Kotabaru",165.0,4.0
+29,Muhammad Azka Hartami,Yogyakarta,"Madam Tan Indonesian Food, Gondokusuman",173.0,5.0
+29,Muhammad Azka Hartami,Yogyakarta,"Rice&Steak, Ngipik, Potorono, Banguntapan, Bantul",108.0,5.0
+29,Muhammad Azka Hartami,Yogyakarta,"Por Aqui Resto & IRD, Prawirotaman",187.0,5.0
+29,Muhammad Azka Hartami,Yogyakarta,"Seafood 99, Wonocatur",48.0,5.0
+29,Muhammad Azka Hartami,Yogyakarta,"Ichiban Sushi, Plaza Malioboro",183.0,5.0
+29,Muhammad Azka Hartami,Yogyakarta,"Nasi Mangkok Uncle Dave, Depok/Caturtunggal/Seturan",188.0,5.0
+30,Muhammad Dzaki,Yogyakarta,"Ayam Geprek & Rice Bowl Tobiko Mentai, Karangkajen",144.0,3.0
+30,Muhammad Dzaki,Yogyakarta,"Cak No Chinese Food, Jogoyudan",119.0,3.0
+30,Muhammad Dzaki,Yogyakarta,"Mie Bandung Chinese Food, Ngampilan",0.0,4.0
+30,Muhammad Dzaki,Yogyakarta,"Rumah Makan Tio Asli Ciu Chinese Food & Sea Food, Jetis",131.0,4.0
+30,Muhammad Dzaki,Yogyakarta,"Soto Sapi Winong, Ngeksigondo",218.0,3.0
+30,Muhammad Dzaki,Yogyakarta,"Kedai Zu Pa ( Zuppa Soup & Pasta ) Kotabaru, Juadi",155.0,3.0
+30,Muhammad Dzaki,Yogyakarta,"Restoran Mahkota (Tiong San), Pajeksan",6.0,4.0
+30,Muhammad Dzaki,Yogyakarta,"Rice&Steak, Ngipik, Potorono, Banguntapan, Bantul",108.0,3.0
+30,Muhammad Dzaki,Yogyakarta,"Marugame Udon, Hartono Mall Jogja",8.0,4.0
+30,Muhammad Dzaki,Yogyakarta,"Zona Seafood, Kotabaru",90.0,3.0
+30,Muhammad Dzaki,Yogyakarta,"Oase Cafe & Coffe, Mergangsan",243.0,3.0
+30,Muhammad Dzaki,Yogyakarta,"Pepper Lunch, Hartono Mall",97.0,4.0
+30,Muhammad Dzaki,Yogyakarta,"Sushi Tei, Komplek Colombo",158.0,3.0
+30,Muhammad Dzaki,Yogyakarta,"Chikuro Pakuwon Mall Jogja, Pakuwon Mall Lantai LG",34.0,3.0
+30,Muhammad Dzaki,Yogyakarta,"Shigeru Sushi, Pakuwon Mall Yogyakarta",225.0,4.0
+30,Muhammad Dzaki,Yogyakarta,"Hokben Kitchen, Seturan Jogja",124.0,4.0
+30,Muhammad Dzaki,Yogyakarta,"Pizza Hut, Adi Sucipto Jogja",128.0,3.0
+30,Muhammad Dzaki,Yogyakarta,"Bebek Peking dan Ayam Panggang Pak Gembul, Jl KH Ahmad Dahlan No 40",142.0,3.0
+30,Muhammad Dzaki,Yogyakarta,"Gokana Ramen & Teppan, Pakuwon Mall Jogja",163.0,3.0
+30,Muhammad Dzaki,Yogyakarta,"Yamie Panda, Tamansiswa",197.0,3.0
+30,Muhammad Dzaki,Yogyakarta,"Legend Coffee, Yogyakarta",3.0,3.0
+30,Muhammad Dzaki,Yogyakarta,"Sushi Factory, Gejayan",17.0,3.0
+30,Muhammad Dzaki,Yogyakarta,"My Kopi-O! Indonesian Bistro, Sagan",162.0,3.0
+30,Muhammad Dzaki,Yogyakarta,"Ichiban Sushi, Plaza Malioboro",183.0,4.0
+30,Muhammad Dzaki,Yogyakarta,"Shaburi & Kintan Buffet, Ambarukmo Plaza Yogya",260.0,3.0
+30,Muhammad Dzaki,Yogyakarta,"Burgerax, Patangpuluhan",259.0,3.0
+30,Muhammad Dzaki,Yogyakarta,"Pothz Burger, STM Pembangunan",234.0,3.0
+30,Muhammad Dzaki,Yogyakarta,"Madam Tan Indonesian Food, Gondokusuman",173.0,3.0
+30,Muhammad Dzaki,Yogyakarta,"Daruma Donburi, Mlati, Sinduadi",166.0,3.0
+30,Muhammad Dzaki,Yogyakarta,"Hawker's Steak, JEC",214.0,3.0
+30,Muhammad Dzaki,Yogyakarta,Soto Daging Sapi Lamongan Cak Lim,202.0,3.0
+31,Muhammad Fatwa,Yogyakarta,"A&M Co. Express, Jogja",222.0,5.0
+31,Muhammad Fatwa,Yogyakarta,"Oase Cafe & Coffe, Mergangsan",243.0,5.0
+31,Muhammad Fatwa,Yogyakarta,"Mie Bandung Chinese Food, Ngampilan",0.0,5.0
+31,Muhammad Fatwa,Yogyakarta,"Hawker's Steak, JEC",214.0,5.0
+31,Muhammad Fatwa,Yogyakarta,"Picnic! Pata X Sausage Tamansiswa, Jl. Tamansiswa No.49 Yogya",130.0,4.0
+31,Muhammad Fatwa,Yogyakarta,"Rustik Bistro & Bar, Hotel Harper Malioboro Yogyakarta",15.0,4.0
+31,Muhammad Fatwa,Yogyakarta,"Zona Seafood, Kotabaru",90.0,5.0
+31,Muhammad Fatwa,Yogyakarta,"Kalluna, Kotabaru",165.0,5.0
+31,Muhammad Fatwa,Yogyakarta,"Rice&Steak, Ngipik, Potorono, Banguntapan, Bantul",108.0,5.0
+31,Muhammad Fatwa,Yogyakarta,"Legend Coffee, Yogyakarta",3.0,5.0
+31,Muhammad Fatwa,Yogyakarta,"Shigeru Sushi, Pakuwon Mall Yogyakarta",225.0,5.0
+31,Muhammad Fatwa,Yogyakarta,"Petit Paris Boulangerie and Bistro, Kotabaru",221.0,4.0
+31,Muhammad Fatwa,Yogyakarta,"Bebek Peking dan Ayam Panggang Pak Gembul, Jl KH Ahmad Dahlan No 40",142.0,5.0
+31,Muhammad Fatwa,Yogyakarta,"Marugame Udon, Hartono Mall Jogja",8.0,5.0
+31,Muhammad Fatwa,Yogyakarta,"Rumah Makan Tio Asli Ciu Chinese Food & Sea Food, Jetis",131.0,4.0
+31,Muhammad Fatwa,Yogyakarta,"Soto Sapi Winong, Ngeksigondo",218.0,5.0
+31,Muhammad Fatwa,Yogyakarta,"Ichiban Sushi, Plaza Malioboro",183.0,4.0
+31,Muhammad Fatwa,Yogyakarta,"Por Aqui Resto & IRD, Prawirotaman",187.0,5.0
+31,Muhammad Fatwa,Yogyakarta,"Hakata Ikkousha, Demangan Baru",86.0,5.0
+31,Muhammad Fatwa,Yogyakarta,"Cak No Chinese Food, Jogoyudan",119.0,4.0
+31,Muhammad Fatwa,Yogyakarta,"Restoran Mahkota (Tiong San), Pajeksan",6.0,4.0
+31,Muhammad Fatwa,Yogyakarta,"Pepper Lunch, Hartono Mall",97.0,4.0
+31,Muhammad Fatwa,Yogyakarta,"Tanamera Coffee Roastery, Yogyakarta",241.0,5.0
+31,Muhammad Fatwa,Yogyakarta,"Mie Ayam & Bakso Idolaku Pak Tikno, Tamansiswa",177.0,5.0
+31,Muhammad Fatwa,Yogyakarta,"Seblak Asgar, Lowanu",110.0,4.0
+32,Mutiara,Yogyakarta,"Sate Taichan Hitz, Gejayan",113.0,4.0
+32,Mutiara,Yogyakarta,"Rustik Bistro & Bar, Hotel Harper Malioboro Yogyakarta",15.0,4.0
+32,Mutiara,Yogyakarta,"Seblak Asgar, Lowanu",110.0,3.0
+32,Mutiara,Yogyakarta,"Pizza Hut, Adi Sucipto Jogja",128.0,3.0
+32,Mutiara,Yogyakarta,"Nasi Mangkok Uncle Dave, Depok/Caturtunggal/Seturan",188.0,3.0
+32,Mutiara,Yogyakarta,"Rumah Makan Tio Asli Ciu Chinese Food & Sea Food, Jetis",131.0,3.0
+32,Mutiara,Yogyakarta,"Marugame Udon, Hartono Mall Jogja",8.0,4.0
+32,Mutiara,Yogyakarta,"Monalisa Burger Sisingamangaraja, seberang BDS syariah",192.0,3.0
+32,Mutiara,Yogyakarta,"Pothz Burger, STM Pembangunan",234.0,3.0
+32,Mutiara,Yogyakarta,"Restoran Mahkota (Tiong San), Pajeksan",6.0,2.0
+32,Mutiara,Yogyakarta,"Tom Sushi, Hartono Mall Jogja",125.0,4.0
+32,Mutiara,Yogyakarta,"Pizza Aroma Italia 2, Gondokusuman",215.0,3.0
+32,Mutiara,Yogyakarta,"Mie Bandung Chinese Food, Ngampilan",0.0,3.0
+32,Mutiara,Yogyakarta,Soto Daging Sapi Lamongan Cak Lim,202.0,3.0
+32,Mutiara,Yogyakarta,"Mediterranea Restaurant by Kamil, Matrijeron",14.0,3.0
+32,Mutiara,Yogyakarta,"Daruma Donburi, Mlati, Sinduadi",166.0,3.0
+32,Mutiara,Yogyakarta,"Zona Seafood, Kotabaru",90.0,3.0
+32,Mutiara,Yogyakarta,"Gokana Ramen & Teppan, Pakuwon Mall Jogja",163.0,3.0
+32,Mutiara,Yogyakarta,"Tanamera Coffee Roastery, Yogyakarta",241.0,4.0
+32,Mutiara,Yogyakarta,"Shigeru Sushi, Pakuwon Mall Yogyakarta",225.0,3.0
+32,Mutiara,Yogyakarta,"Hokben Kitchen, Seturan Jogja",124.0,3.0
+32,Mutiara,Yogyakarta,"Ayam Geprek & Rice Bowl Tobiko Mentai, Karangkajen",144.0,3.0
+33,Nabilla Alya,Yogyakarta,"Kedai Zu Pa ( Zuppa Soup & Pasta ) Kotabaru, Juadi",155.0,4.0
+33,Nabilla Alya,Yogyakarta,"Nasi Mangkok Uncle Dave, Depok/Caturtunggal/Seturan",188.0,3.0
+33,Nabilla Alya,Yogyakarta,"Marugame Udon, Hartono Mall Jogja",8.0,5.0
+33,Nabilla Alya,Yogyakarta,Silla Korean & Japanese Restaurant,206.0,4.0
+33,Nabilla Alya,Yogyakarta,"Seafood 99, Wonocatur",48.0,4.0
+33,Nabilla Alya,Yogyakarta,"Ayam Geprek & Rice Bowl Tobiko Mentai, Karangkajen",144.0,5.0
+33,Nabilla Alya,Yogyakarta,"Mie Ayam & Bakso Idolaku Pak Tikno, Tamansiswa",177.0,4.0
+33,Nabilla Alya,Yogyakarta,"Por Aqui Resto & IRD, Prawirotaman",187.0,4.0
+33,Nabilla Alya,Yogyakarta,"Madam Tan Indonesian Food, Gondokusuman",173.0,3.0
+33,Nabilla Alya,Yogyakarta,"Oase Cafe & Coffe, Mergangsan",243.0,3.0
+33,Nabilla Alya,Yogyakarta,"Restoran Mahkota (Tiong San), Pajeksan",6.0,3.0
+33,Nabilla Alya,Yogyakarta,"Gokana Ramen & Teppan, Pakuwon Mall Jogja",163.0,5.0
+33,Nabilla Alya,Yogyakarta,"Pizza Aroma Italia 2, Gondokusuman",215.0,3.0
+33,Nabilla Alya,Yogyakarta,"Pepper Lunch, Hartono Mall",97.0,4.0
+33,Nabilla Alya,Yogyakarta,"Hawker's Steak, JEC",214.0,3.0
+33,Nabilla Alya,Yogyakarta,"Chikuro Pakuwon Mall Jogja, Pakuwon Mall Lantai LG",34.0,4.0
+33,Nabilla Alya,Yogyakarta,"Kalluna, Kotabaru",165.0,3.0
+33,Nabilla Alya,Yogyakarta,"A&M Co. Express, Jogja",222.0,4.0
+33,Nabilla Alya,Yogyakarta,"Daruma Donburi, Mlati, Sinduadi",166.0,3.0
+33,Nabilla Alya,Yogyakarta,"Mie Bandung Chinese Food, Ngampilan",0.0,3.0
+33,Nabilla Alya,Yogyakarta,"Burgerax, Patangpuluhan",259.0,3.0
+33,Nabilla Alya,Yogyakarta,"Legend Coffee, Yogyakarta",3.0,2.0
+33,Nabilla Alya,Yogyakarta,"Shigeru Sushi, Pakuwon Mall Yogyakarta",225.0,4.0
+33,Nabilla Alya,Yogyakarta,"Pizza Hut, Adi Sucipto Jogja",128.0,3.0
+33,Nabilla Alya,Yogyakarta,"Cak No Chinese Food, Jogoyudan",119.0,3.0
+34,Narendra Ihza Purwanta,Yogyakarta,"Mie Ayam & Bakso Idolaku Pak Tikno, Tamansiswa",177.0,2.0
+34,Narendra Ihza Purwanta,Yogyakarta,"My Kopi-O! Indonesian Bistro, Sagan",162.0,2.0
+34,Narendra Ihza Purwanta,Yogyakarta,"Bebek Peking dan Ayam Panggang Pak Gembul, Jl KH Ahmad Dahlan No 40",142.0,2.0
+34,Narendra Ihza Purwanta,Yogyakarta,"Tom Sushi, Hartono Mall Jogja",125.0,2.0
+34,Narendra Ihza Purwanta,Yogyakarta,"Pizza Hut, Adi Sucipto Jogja",128.0,2.0
+34,Narendra Ihza Purwanta,Yogyakarta,"Shigeru Sushi, Pakuwon Mall Yogyakarta",225.0,2.0
+34,Narendra Ihza Purwanta,Yogyakarta,"Petit Paris Boulangerie and Bistro, Kotabaru",221.0,5.0
+34,Narendra Ihza Purwanta,Yogyakarta,"Chikuro Pakuwon Mall Jogja, Pakuwon Mall Lantai LG",34.0,2.0
+34,Narendra Ihza Purwanta,Yogyakarta,"Hawker's Steak, JEC",214.0,5.0
+34,Narendra Ihza Purwanta,Yogyakarta,"Madam Tan Indonesian Food, Gondokusuman",173.0,2.0
+34,Narendra Ihza Purwanta,Yogyakarta,"Rustik Bistro & Bar, Hotel Harper Malioboro Yogyakarta",15.0,5.0
+34,Narendra Ihza Purwanta,Yogyakarta,"Marugame Udon, Hartono Mall Jogja",8.0,2.0
+34,Narendra Ihza Purwanta,Yogyakarta,"Monalisa Burger Sisingamangaraja, seberang BDS syariah",192.0,2.0
+34,Narendra Ihza Purwanta,Yogyakarta,"Oase Cafe & Coffe, Mergangsan",243.0,5.0
+34,Narendra Ihza Purwanta,Yogyakarta,"Yamie Panda, Tamansiswa",197.0,2.0
+34,Narendra Ihza Purwanta,Yogyakarta,"Ayam Geprek & Rice Bowl Tobiko Mentai, Karangkajen",144.0,5.0
+34,Narendra Ihza Purwanta,Yogyakarta,"Mediterranea Restaurant by Kamil, Matrijeron",14.0,5.0
+34,Narendra Ihza Purwanta,Yogyakarta,Silla Korean & Japanese Restaurant,206.0,5.0
+34,Narendra Ihza Purwanta,Yogyakarta,"Shaburi & Kintan Buffet, Ambarukmo Plaza Yogya",260.0,5.0
+34,Narendra Ihza Purwanta,Yogyakarta,"Picnic! Pata X Sausage Tamansiswa, Jl. Tamansiswa No.49 Yogya",130.0,5.0
+34,Narendra Ihza Purwanta,Yogyakarta,"Hakata Ikkousha, Demangan Baru",86.0,2.0
+34,Narendra Ihza Purwanta,Yogyakarta,"Kalluna, Kotabaru",165.0,5.0
+34,Narendra Ihza Purwanta,Yogyakarta,"Nasi Mangkok Uncle Dave, Depok/Caturtunggal/Seturan",188.0,2.0
+34,Narendra Ihza Purwanta,Yogyakarta,"Pothz Burger, STM Pembangunan",234.0,5.0
+34,Narendra Ihza Purwanta,Yogyakarta,"Sate Taichan Hitz, Gejayan",113.0,2.0
+34,Narendra Ihza Purwanta,Yogyakarta,"Kedai Zu Pa ( Zuppa Soup & Pasta ) Kotabaru, Juadi",155.0,2.0
+35,Nindita Ardya,Yogyakarta,"Gokana Ramen & Teppan, Pakuwon Mall Jogja",163.0,3.0
+35,Nindita Ardya,Yogyakarta,"Hawker's Steak, JEC",214.0,3.0
+35,Nindita Ardya,Yogyakarta,"Burgerax, Patangpuluhan",259.0,3.0
+35,Nindita Ardya,Yogyakarta,"Pizza Hut, Adi Sucipto Jogja",128.0,3.0
+35,Nindita Ardya,Yogyakarta,"Shigeru Sushi, Pakuwon Mall Yogyakarta",225.0,4.0
+35,Nindita Ardya,Yogyakarta,"Daruma Donburi, Mlati, Sinduadi",166.0,3.0
+35,Nindita Ardya,Yogyakarta,"Kalluna, Kotabaru",165.0,3.0
+35,Nindita Ardya,Yogyakarta,Soto Daging Sapi Lamongan Cak Lim,202.0,3.0
+35,Nindita Ardya,Yogyakarta,"Nasi Mangkok Uncle Dave, Depok/Caturtunggal/Seturan",188.0,3.0
+35,Nindita Ardya,Yogyakarta,"Yamie Panda, Tamansiswa",197.0,3.0
+35,Nindita Ardya,Yogyakarta,"Chikuro Pakuwon Mall Jogja, Pakuwon Mall Lantai LG",34.0,4.0
+35,Nindita Ardya,Yogyakarta,"A&M Co. Express, Jogja",222.0,4.0
+35,Nindita Ardya,Yogyakarta,"Zona Seafood, Kotabaru",90.0,3.0
+35,Nindita Ardya,Yogyakarta,"Kedai Zu Pa ( Zuppa Soup & Pasta ) Kotabaru, Juadi",155.0,3.0
+35,Nindita Ardya,Yogyakarta,"Pothz Burger, STM Pembangunan",234.0,3.0
+35,Nindita Ardya,Yogyakarta,"Legend Coffee, Yogyakarta",3.0,3.0
+35,Nindita Ardya,Yogyakarta,"Pepper Lunch, Hartono Mall",97.0,5.0
+35,Nindita Ardya,Yogyakarta,"Mie Bandung Chinese Food, Ngampilan",0.0,3.0
+35,Nindita Ardya,Yogyakarta,"Restoran Mahkota (Tiong San), Pajeksan",6.0,3.0
+35,Nindita Ardya,Yogyakarta,"Oase Cafe & Coffe, Mergangsan",243.0,3.0
+35,Nindita Ardya,Yogyakarta,"Monalisa Burger Sisingamangaraja, seberang BDS syariah",192.0,3.0
+35,Nindita Ardya,Yogyakarta,"Seblak Asgar, Lowanu",110.0,3.0
+35,Nindita Ardya,Yogyakarta,Silla Korean & Japanese Restaurant,206.0,4.0
+35,Nindita Ardya,Yogyakarta,"Mie Ayam & Bakso Idolaku Pak Tikno, Tamansiswa",177.0,3.0
+36,Novia,Yogyakarta,"Nasi Mangkok Uncle Dave, Depok/Caturtunggal/Seturan",188.0,3.0
+36,Novia,Yogyakarta,"Tanamera Coffee Roastery, Yogyakarta",241.0,5.0
+36,Novia,Yogyakarta,"Rumah Makan Tio Asli Ciu Chinese Food & Sea Food, Jetis",131.0,5.0
+36,Novia,Yogyakarta,"Ichiban Sushi, Plaza Malioboro",183.0,4.0
+36,Novia,Yogyakarta,"A&M Co. Express, Jogja",222.0,5.0
+36,Novia,Yogyakarta,"Legend Coffee, Yogyakarta",3.0,3.0
+36,Novia,Yogyakarta,"Por Aqui Resto & IRD, Prawirotaman",187.0,4.0
+36,Novia,Yogyakarta,"Rice&Steak, Ngipik, Potorono, Banguntapan, Bantul",108.0,4.0
+36,Novia,Yogyakarta,"Hakata Ikkousha, Demangan Baru",86.0,4.0
+36,Novia,Yogyakarta,"Monalisa Burger Sisingamangaraja, seberang BDS syariah",192.0,3.0
+36,Novia,Yogyakarta,"Mie Ayam & Bakso Idolaku Pak Tikno, Tamansiswa",177.0,3.0
+36,Novia,Yogyakarta,"Rustik Bistro & Bar, Hotel Harper Malioboro Yogyakarta",15.0,5.0
+36,Novia,Yogyakarta,"Restoran Mahkota (Tiong San), Pajeksan",6.0,4.0
+36,Novia,Yogyakarta,"Pepper Lunch, Hartono Mall",97.0,5.0
+36,Novia,Yogyakarta,"Hawker's Steak, JEC",214.0,4.0
+36,Novia,Yogyakarta,"Pothz Burger, STM Pembangunan",234.0,4.0
+36,Novia,Yogyakarta,"Mediterranea Restaurant by Kamil, Matrijeron",14.0,5.0
+36,Novia,Yogyakarta,"Sushi Factory, Gejayan",17.0,2.0
+36,Novia,Yogyakarta,"Picnic! Pata X Sausage Tamansiswa, Jl. Tamansiswa No.49 Yogya",130.0,5.0
+36,Novia,Yogyakarta,"Sushi Tei, Komplek Colombo",158.0,5.0
+36,Novia,Yogyakarta,"Petit Paris Boulangerie and Bistro, Kotabaru",221.0,3.0
+36,Novia,Yogyakarta,"Kalluna, Kotabaru",165.0,5.0
+36,Novia,Yogyakarta,"Burgerax, Patangpuluhan",259.0,4.0
+36,Novia,Yogyakarta,"Chikuro Pakuwon Mall Jogja, Pakuwon Mall Lantai LG",34.0,5.0
+37,Nurul Adilah,Yogyakarta,"Hokben Kitchen, Seturan Jogja",124.0,3.0
+37,Nurul Adilah,Yogyakarta,"Ichiban Sushi, Plaza Malioboro",183.0,5.0
+37,Nurul Adilah,Yogyakarta,"Tom Sushi, Hartono Mall Jogja",125.0,5.0
+37,Nurul Adilah,Yogyakarta,"Pothz Burger, STM Pembangunan",234.0,3.0
+37,Nurul Adilah,Yogyakarta,"Seblak Asgar, Lowanu",110.0,5.0
+37,Nurul Adilah,Yogyakarta,"Chikuro Pakuwon Mall Jogja, Pakuwon Mall Lantai LG",34.0,3.0
+37,Nurul Adilah,Yogyakarta,"Hakata Ikkousha, Demangan Baru",86.0,5.0
+37,Nurul Adilah,Yogyakarta,"Bebek Peking dan Ayam Panggang Pak Gembul, Jl KH Ahmad Dahlan No 40",142.0,3.0
+37,Nurul Adilah,Yogyakarta,"Rustik Bistro & Bar, Hotel Harper Malioboro Yogyakarta",15.0,3.0
+37,Nurul Adilah,Yogyakarta,"Rice&Steak, Ngipik, Potorono, Banguntapan, Bantul",108.0,3.0
+37,Nurul Adilah,Yogyakarta,"Tanamera Coffee Roastery, Yogyakarta",241.0,4.0
+37,Nurul Adilah,Yogyakarta,"Shaburi & Kintan Buffet, Ambarukmo Plaza Yogya",260.0,4.0
+37,Nurul Adilah,Yogyakarta,"Zona Seafood, Kotabaru",90.0,5.0
+37,Nurul Adilah,Yogyakarta,"Mie Ayam & Bakso Idolaku Pak Tikno, Tamansiswa",177.0,3.0
+37,Nurul Adilah,Yogyakarta,"Pizza Aroma Italia 2, Gondokusuman",215.0,3.0
+37,Nurul Adilah,Yogyakarta,"Gokana Ramen & Teppan, Pakuwon Mall Jogja",163.0,4.0
+37,Nurul Adilah,Yogyakarta,"Mediterranea Restaurant by Kamil, Matrijeron",14.0,4.0
+37,Nurul Adilah,Yogyakarta,"Picnic! Pata X Sausage Tamansiswa, Jl. Tamansiswa No.49 Yogya",130.0,3.0
+37,Nurul Adilah,Yogyakarta,"Kedai Zu Pa ( Zuppa Soup & Pasta ) Kotabaru, Juadi",155.0,3.0
+37,Nurul Adilah,Yogyakarta,"Daruma Donburi, Mlati, Sinduadi",166.0,5.0
+37,Nurul Adilah,Yogyakarta,"Soto Sapi Winong, Ngeksigondo",218.0,4.0
+37,Nurul Adilah,Yogyakarta,"Petit Paris Boulangerie and Bistro, Kotabaru",221.0,4.0
+37,Nurul Adilah,Yogyakarta,"Nasi Mangkok Uncle Dave, Depok/Caturtunggal/Seturan",188.0,3.0
+37,Nurul Adilah,Yogyakarta,"Por Aqui Resto & IRD, Prawirotaman",187.0,4.0
+37,Nurul Adilah,Yogyakarta,"Sushi Tei, Komplek Colombo",158.0,3.0
+38,Raehan,Yogyakarta,"Sushi Tei, Komplek Colombo",158.0,4.0
+38,Raehan,Yogyakarta,"Rustik Bistro & Bar, Hotel Harper Malioboro Yogyakarta",15.0,3.0
+38,Raehan,Yogyakarta,"A&M Co. Express, Jogja",222.0,3.0
+38,Raehan,Yogyakarta,"Daruma Donburi, Mlati, Sinduadi",166.0,5.0
+38,Raehan,Yogyakarta,"Zona Seafood, Kotabaru",90.0,3.0
+38,Raehan,Yogyakarta,"Restoran Mahkota (Tiong San), Pajeksan",6.0,3.0
+38,Raehan,Yogyakarta,Silla Korean & Japanese Restaurant,206.0,3.0
+38,Raehan,Yogyakarta,"Seblak Asgar, Lowanu",110.0,4.0
+38,Raehan,Yogyakarta,"Pothz Burger, STM Pembangunan",234.0,2.0
+38,Raehan,Yogyakarta,"Tanamera Coffee Roastery, Yogyakarta",241.0,4.0
+38,Raehan,Yogyakarta,"Mie Bandung Chinese Food, Ngampilan",0.0,4.0
+38,Raehan,Yogyakarta,"Kalluna, Kotabaru",165.0,3.0
+38,Raehan,Yogyakarta,"Hawker's Steak, JEC",214.0,4.0
+38,Raehan,Yogyakarta,"Mediterranea Restaurant by Kamil, Matrijeron",14.0,4.0
+38,Raehan,Yogyakarta,"Pepper Lunch, Hartono Mall",97.0,3.0
+38,Raehan,Yogyakarta,"Shigeru Sushi, Pakuwon Mall Yogyakarta",225.0,3.0
+38,Raehan,Yogyakarta,"Sushi Factory, Gejayan",17.0,4.0
+38,Raehan,Yogyakarta,"Seafood 99, Wonocatur",48.0,4.0
+38,Raehan,Yogyakarta,"Shaburi & Kintan Buffet, Ambarukmo Plaza Yogya",260.0,3.0
+38,Raehan,Yogyakarta,"Monalisa Burger Sisingamangaraja, seberang BDS syariah",192.0,3.0
+38,Raehan,Yogyakarta,"Nasi Mangkok Uncle Dave, Depok/Caturtunggal/Seturan",188.0,3.0
+38,Raehan,Yogyakarta,"Ayam Geprek & Rice Bowl Tobiko Mentai, Karangkajen",144.0,4.0
+39,Rakha,Yogyakarta,"Monalisa Burger Sisingamangaraja, seberang BDS syariah",192.0,4.0
+39,Rakha,Yogyakarta,"Mediterranea Restaurant by Kamil, Matrijeron",14.0,3.0
+39,Rakha,Yogyakarta,"Por Aqui Resto & IRD, Prawirotaman",187.0,4.0
+39,Rakha,Yogyakarta,"Nasi Mangkok Uncle Dave, Depok/Caturtunggal/Seturan",188.0,3.0
+39,Rakha,Yogyakarta,"Mie Ayam & Bakso Idolaku Pak Tikno, Tamansiswa",177.0,4.0
+39,Rakha,Yogyakarta,"Marugame Udon, Hartono Mall Jogja",8.0,1.0
+39,Rakha,Yogyakarta,"Gokana Ramen & Teppan, Pakuwon Mall Jogja",163.0,3.0
+39,Rakha,Yogyakarta,"Shigeru Sushi, Pakuwon Mall Yogyakarta",225.0,1.0
+39,Rakha,Yogyakarta,"Sushi Tei, Komplek Colombo",158.0,4.0
+39,Rakha,Yogyakarta,"Seafood 99, Wonocatur",48.0,4.0
+39,Rakha,Yogyakarta,"Petit Paris Boulangerie and Bistro, Kotabaru",221.0,4.0
+39,Rakha,Yogyakarta,"Tom Sushi, Hartono Mall Jogja",125.0,1.0
+39,Rakha,Yogyakarta,"Ayam Geprek & Rice Bowl Tobiko Mentai, Karangkajen",144.0,3.0
+39,Rakha,Yogyakarta,"Chikuro Pakuwon Mall Jogja, Pakuwon Mall Lantai LG",34.0,2.0
+39,Rakha,Yogyakarta,"My Kopi-O! Indonesian Bistro, Sagan",162.0,4.0
+39,Rakha,Yogyakarta,"Oase Cafe & Coffe, Mergangsan",243.0,5.0
+39,Rakha,Yogyakarta,"Restoran Mahkota (Tiong San), Pajeksan",6.0,3.0
+39,Rakha,Yogyakarta,"Ichiban Sushi, Plaza Malioboro",183.0,1.0
+39,Rakha,Yogyakarta,"A&M Co. Express, Jogja",222.0,4.0
+39,Rakha,Yogyakarta,"Madam Tan Indonesian Food, Gondokusuman",173.0,4.0
+39,Rakha,Yogyakarta,"Legend Coffee, Yogyakarta",3.0,4.0
+39,Rakha,Yogyakarta,"Shaburi & Kintan Buffet, Ambarukmo Plaza Yogya",260.0,5.0
+39,Rakha,Yogyakarta,"Pepper Lunch, Hartono Mall",97.0,1.0
+39,Rakha,Yogyakarta,"Hakata Ikkousha, Demangan Baru",86.0,1.0
+39,Rakha,Yogyakarta,"Soto Sapi Winong, Ngeksigondo",218.0,3.0
+39,Rakha,Yogyakarta,"Daruma Donburi, Mlati, Sinduadi",166.0,4.0
+39,Rakha,Yogyakarta,"Sushi Factory, Gejayan",17.0,2.0
+39,Rakha,Yogyakarta,Silla Korean & Japanese Restaurant,206.0,3.0
+39,Rakha,Yogyakarta,"Rustik Bistro & Bar, Hotel Harper Malioboro Yogyakarta",15.0,1.0
+40,Rayhan Akbar,Yogyakarta,"Pizza Hut, Adi Sucipto Jogja",128.0,3.0
+40,Rayhan Akbar,Yogyakarta,"My Kopi-O! Indonesian Bistro, Sagan",162.0,4.0
+40,Rayhan Akbar,Yogyakarta,"Rustik Bistro & Bar, Hotel Harper Malioboro Yogyakarta",15.0,3.0
+40,Rayhan Akbar,Yogyakarta,"Chikuro Pakuwon Mall Jogja, Pakuwon Mall Lantai LG",34.0,3.0
+40,Rayhan Akbar,Yogyakarta,"Tanamera Coffee Roastery, Yogyakarta",241.0,3.0
+40,Rayhan Akbar,Yogyakarta,"Hokben Kitchen, Seturan Jogja",124.0,4.0
+40,Rayhan Akbar,Yogyakarta,"Rice&Steak, Ngipik, Potorono, Banguntapan, Bantul",108.0,2.0
+40,Rayhan Akbar,Yogyakarta,"Seblak Asgar, Lowanu",110.0,4.0
+40,Rayhan Akbar,Yogyakarta,"Por Aqui Resto & IRD, Prawirotaman",187.0,4.0
+40,Rayhan Akbar,Yogyakarta,"Daruma Donburi, Mlati, Sinduadi",166.0,3.0
+40,Rayhan Akbar,Yogyakarta,"Seafood 99, Wonocatur",48.0,2.0
+40,Rayhan Akbar,Yogyakarta,"Rumah Makan Tio Asli Ciu Chinese Food & Sea Food, Jetis",131.0,3.0
+40,Rayhan Akbar,Yogyakarta,"Marugame Udon, Hartono Mall Jogja",8.0,5.0
+40,Rayhan Akbar,Yogyakarta,"Pizza Aroma Italia 2, Gondokusuman",215.0,5.0
+40,Rayhan Akbar,Yogyakarta,"Nasi Mangkok Uncle Dave, Depok/Caturtunggal/Seturan",188.0,3.0
+40,Rayhan Akbar,Yogyakarta,Soto Daging Sapi Lamongan Cak Lim,202.0,5.0
+41,Rhyo Argasiwi ,Yogyakarta,"Pothz Burger, STM Pembangunan",234.0,4.0
+41,Rhyo Argasiwi ,Yogyakarta,"Mie Ayam & Bakso Idolaku Pak Tikno, Tamansiswa",177.0,4.0
+41,Rhyo Argasiwi ,Yogyakarta,"Mediterranea Restaurant by Kamil, Matrijeron",14.0,3.0
+41,Rhyo Argasiwi ,Yogyakarta,"Tom Sushi, Hartono Mall Jogja",125.0,5.0
+41,Rhyo Argasiwi ,Yogyakarta,"Monalisa Burger Sisingamangaraja, seberang BDS syariah",192.0,3.0
+41,Rhyo Argasiwi ,Yogyakarta,"Hawker's Steak, JEC",214.0,4.0
+41,Rhyo Argasiwi ,Yogyakarta,"Kedai Zu Pa ( Zuppa Soup & Pasta ) Kotabaru, Juadi",155.0,3.0
+41,Rhyo Argasiwi ,Yogyakarta,"Cak No Chinese Food, Jogoyudan",119.0,3.0
+41,Rhyo Argasiwi ,Yogyakarta,"Por Aqui Resto & IRD, Prawirotaman",187.0,4.0
+41,Rhyo Argasiwi ,Yogyakarta,"Shaburi & Kintan Buffet, Ambarukmo Plaza Yogya",260.0,3.0
+41,Rhyo Argasiwi ,Yogyakarta,"Rustik Bistro & Bar, Hotel Harper Malioboro Yogyakarta",15.0,3.0
+41,Rhyo Argasiwi ,Yogyakarta,"Soto Sapi Winong, Ngeksigondo",218.0,4.0
+41,Rhyo Argasiwi ,Yogyakarta,"Bebek Peking dan Ayam Panggang Pak Gembul, Jl KH Ahmad Dahlan No 40",142.0,3.0
+41,Rhyo Argasiwi ,Yogyakarta,"Madam Tan Indonesian Food, Gondokusuman",173.0,3.0
+41,Rhyo Argasiwi ,Yogyakarta,"Yamie Panda, Tamansiswa",197.0,4.0
+41,Rhyo Argasiwi ,Yogyakarta,Silla Korean & Japanese Restaurant,206.0,3.0
+41,Rhyo Argasiwi ,Yogyakarta,"Gokana Ramen & Teppan, Pakuwon Mall Jogja",163.0,3.0
+41,Rhyo Argasiwi ,Yogyakarta,"Seblak Asgar, Lowanu",110.0,3.0
+41,Rhyo Argasiwi ,Yogyakarta,"Picnic! Pata X Sausage Tamansiswa, Jl. Tamansiswa No.49 Yogya",130.0,3.0
+41,Rhyo Argasiwi ,Yogyakarta,"My Kopi-O! Indonesian Bistro, Sagan",162.0,3.0
+41,Rhyo Argasiwi ,Yogyakarta,"Rice&Steak, Ngipik, Potorono, Banguntapan, Bantul",108.0,3.0
+41,Rhyo Argasiwi ,Yogyakarta,"Hokben Kitchen, Seturan Jogja",124.0,4.0
+41,Rhyo Argasiwi ,Yogyakarta,"Ichiban Sushi, Plaza Malioboro",183.0,4.0
+41,Rhyo Argasiwi ,Yogyakarta,"Shigeru Sushi, Pakuwon Mall Yogyakarta",225.0,4.0
+42,Rizky Susanto,Yogyakarta,"Sate Taichan Hitz, Gejayan",113.0,5.0
+42,Rizky Susanto,Yogyakarta,"Hokben Kitchen, Seturan Jogja",124.0,4.0
+42,Rizky Susanto,Yogyakarta,"Chikuro Pakuwon Mall Jogja, Pakuwon Mall Lantai LG",34.0,4.0
+42,Rizky Susanto,Yogyakarta,"Restoran Mahkota (Tiong San), Pajeksan",6.0,2.0
+42,Rizky Susanto,Yogyakarta,"Bebek Peking dan Ayam Panggang Pak Gembul, Jl KH Ahmad Dahlan No 40",142.0,5.0
+42,Rizky Susanto,Yogyakarta,"Daruma Donburi, Mlati, Sinduadi",166.0,4.0
+42,Rizky Susanto,Yogyakarta,"Shaburi & Kintan Buffet, Ambarukmo Plaza Yogya",260.0,4.0
+42,Rizky Susanto,Yogyakarta,"Zona Seafood, Kotabaru",90.0,5.0
+42,Rizky Susanto,Yogyakarta,"Tom Sushi, Hartono Mall Jogja",125.0,4.0
+42,Rizky Susanto,Yogyakarta,"Rustik Bistro & Bar, Hotel Harper Malioboro Yogyakarta",15.0,4.0
+42,Rizky Susanto,Yogyakarta,"Rumah Makan Tio Asli Ciu Chinese Food & Sea Food, Jetis",131.0,4.0
+42,Rizky Susanto,Yogyakarta,"Pizza Aroma Italia 2, Gondokusuman",215.0,4.0
+42,Rizky Susanto,Yogyakarta,"Yamie Panda, Tamansiswa",197.0,4.0
+42,Rizky Susanto,Yogyakarta,"Mie Ayam & Bakso Idolaku Pak Tikno, Tamansiswa",177.0,4.0
+42,Rizky Susanto,Yogyakarta,"Hakata Ikkousha, Demangan Baru",86.0,5.0
+42,Rizky Susanto,Yogyakarta,"Hawker's Steak, JEC",214.0,4.0
+42,Rizky Susanto,Yogyakarta,"Legend Coffee, Yogyakarta",3.0,4.0
+42,Rizky Susanto,Yogyakarta,Soto Daging Sapi Lamongan Cak Lim,202.0,4.0
+42,Rizky Susanto,Yogyakarta,"A&M Co. Express, Jogja",222.0,4.0
+42,Rizky Susanto,Yogyakarta,"Pizza Hut, Adi Sucipto Jogja",128.0,4.0
+42,Rizky Susanto,Yogyakarta,"Kalluna, Kotabaru",165.0,5.0
+43,Rizqi azhar,Yogyakarta,"Legend Coffee, Yogyakarta",3.0,5.0
+43,Rizqi azhar,Yogyakarta,"Bebek Peking dan Ayam Panggang Pak Gembul, Jl KH Ahmad Dahlan No 40",142.0,2.0
+43,Rizqi azhar,Yogyakarta,"Pizza Hut, Adi Sucipto Jogja",128.0,3.0
+43,Rizqi azhar,Yogyakarta,"Sate Taichan Hitz, Gejayan",113.0,3.0
+43,Rizqi azhar,Yogyakarta,"Oase Cafe & Coffe, Mergangsan",243.0,3.0
+43,Rizqi azhar,Yogyakarta,"Por Aqui Resto & IRD, Prawirotaman",187.0,3.0
+43,Rizqi azhar,Yogyakarta,"Pepper Lunch, Hartono Mall",97.0,2.0
+43,Rizqi azhar,Yogyakarta,"Ichiban Sushi, Plaza Malioboro",183.0,4.0
+43,Rizqi azhar,Yogyakarta,"Burgerax, Patangpuluhan",259.0,3.0
+43,Rizqi azhar,Yogyakarta,"Soto Sapi Winong, Ngeksigondo",218.0,2.0
+43,Rizqi azhar,Yogyakarta,"Cak No Chinese Food, Jogoyudan",119.0,2.0
+43,Rizqi azhar,Yogyakarta,"Yamie Panda, Tamansiswa",197.0,3.0
+43,Rizqi azhar,Yogyakarta,"Sushi Tei, Komplek Colombo",158.0,3.0
+43,Rizqi azhar,Yogyakarta,"Seblak Asgar, Lowanu",110.0,2.0
+43,Rizqi azhar,Yogyakarta,"Picnic! Pata X Sausage Tamansiswa, Jl. Tamansiswa No.49 Yogya",130.0,2.0
+43,Rizqi azhar,Yogyakarta,"Ayam Geprek & Rice Bowl Tobiko Mentai, Karangkajen",144.0,2.0
+43,Rizqi azhar,Yogyakarta,"My Kopi-O! Indonesian Bistro, Sagan",162.0,2.0
+43,Rizqi azhar,Yogyakarta,"Chikuro Pakuwon Mall Jogja, Pakuwon Mall Lantai LG",34.0,3.0
+43,Rizqi azhar,Yogyakarta,"Madam Tan Indonesian Food, Gondokusuman",173.0,2.0
+43,Rizqi azhar,Yogyakarta,"Sushi Factory, Gejayan",17.0,3.0
+43,Rizqi azhar,Yogyakarta,"Rustik Bistro & Bar, Hotel Harper Malioboro Yogyakarta",15.0,2.0
+43,Rizqi azhar,Yogyakarta,"Mie Bandung Chinese Food, Ngampilan",0.0,3.0
+43,Rizqi azhar,Yogyakarta,"Hakata Ikkousha, Demangan Baru",86.0,3.0
+43,Rizqi azhar,Yogyakarta,Soto Daging Sapi Lamongan Cak Lim,202.0,2.0
+43,Rizqi azhar,Yogyakarta,"Petit Paris Boulangerie and Bistro, Kotabaru",221.0,3.0
+43,Rizqi azhar,Yogyakarta,"Monalisa Burger Sisingamangaraja, seberang BDS syariah",192.0,2.0
+43,Rizqi azhar,Yogyakarta,"Rumah Makan Tio Asli Ciu Chinese Food & Sea Food, Jetis",131.0,2.0
+43,Rizqi azhar,Yogyakarta,"Rice&Steak, Ngipik, Potorono, Banguntapan, Bantul",108.0,2.0
+44,Ryan Zainudin Artha,Yogyakarta,"Soto Sapi Winong, Ngeksigondo",218.0,3.0
+44,Ryan Zainudin Artha,Yogyakarta,"Restoran Mahkota (Tiong San), Pajeksan",6.0,3.0
+44,Ryan Zainudin Artha,Yogyakarta,"Burgerax, Patangpuluhan",259.0,5.0
+44,Ryan Zainudin Artha,Yogyakarta,"Legend Coffee, Yogyakarta",3.0,4.0
+44,Ryan Zainudin Artha,Yogyakarta,"Zona Seafood, Kotabaru",90.0,3.0
+44,Ryan Zainudin Artha,Yogyakarta,"Mie Ayam & Bakso Idolaku Pak Tikno, Tamansiswa",177.0,5.0
+44,Ryan Zainudin Artha,Yogyakarta,Soto Daging Sapi Lamongan Cak Lim,202.0,3.0
+44,Ryan Zainudin Artha,Yogyakarta,"A&M Co. Express, Jogja",222.0,3.0
+44,Ryan Zainudin Artha,Yogyakarta,"Kalluna, Kotabaru",165.0,4.0
+44,Ryan Zainudin Artha,Yogyakarta,"Mie Bandung Chinese Food, Ngampilan",0.0,3.0
+44,Ryan Zainudin Artha,Yogyakarta,"Nasi Mangkok Uncle Dave, Depok/Caturtunggal/Seturan",188.0,5.0
+44,Ryan Zainudin Artha,Yogyakarta,"Pothz Burger, STM Pembangunan",234.0,4.0
+44,Ryan Zainudin Artha,Yogyakarta,"Shaburi & Kintan Buffet, Ambarukmo Plaza Yogya",260.0,3.0
+44,Ryan Zainudin Artha,Yogyakarta,"Tom Sushi, Hartono Mall Jogja",125.0,3.0
+44,Ryan Zainudin Artha,Yogyakarta,"Tanamera Coffee Roastery, Yogyakarta",241.0,3.0
+44,Ryan Zainudin Artha,Yogyakarta,"Sushi Tei, Komplek Colombo",158.0,3.0
+44,Ryan Zainudin Artha,Yogyakarta,"Ayam Geprek & Rice Bowl Tobiko Mentai, Karangkajen",144.0,5.0
+44,Ryan Zainudin Artha,Yogyakarta,"Monalisa Burger Sisingamangaraja, seberang BDS syariah",192.0,4.0
+44,Ryan Zainudin Artha,Yogyakarta,"Pizza Aroma Italia 2, Gondokusuman",215.0,3.0
+44,Ryan Zainudin Artha,Yogyakarta,Silla Korean & Japanese Restaurant,206.0,5.0
+44,Ryan Zainudin Artha,Yogyakarta,"Picnic! Pata X Sausage Tamansiswa, Jl. Tamansiswa No.49 Yogya",130.0,4.0
+44,Ryan Zainudin Artha,Yogyakarta,"Pepper Lunch, Hartono Mall",97.0,5.0
+44,Ryan Zainudin Artha,Yogyakarta,"Sate Taichan Hitz, Gejayan",113.0,3.0
+44,Ryan Zainudin Artha,Yogyakarta,"Pizza Hut, Adi Sucipto Jogja",128.0,5.0
+44,Ryan Zainudin Artha,Yogyakarta,"Bebek Peking dan Ayam Panggang Pak Gembul, Jl KH Ahmad Dahlan No 40",142.0,3.0
+44,Ryan Zainudin Artha,Yogyakarta,"Yamie Panda, Tamansiswa",197.0,3.0
+45,Shafira,Yogyakarta,"Oase Cafe & Coffe, Mergangsan",243.0,4.0
+45,Shafira,Yogyakarta,"Ayam Geprek & Rice Bowl Tobiko Mentai, Karangkajen",144.0,5.0
+45,Shafira,Yogyakarta,"Kedai Zu Pa ( Zuppa Soup & Pasta ) Kotabaru, Juadi",155.0,3.0
+45,Shafira,Yogyakarta,"Nasi Mangkok Uncle Dave, Depok/Caturtunggal/Seturan",188.0,3.0
+45,Shafira,Yogyakarta,"Tom Sushi, Hartono Mall Jogja",125.0,4.0
+45,Shafira,Yogyakarta,"Shaburi & Kintan Buffet, Ambarukmo Plaza Yogya",260.0,4.0
+45,Shafira,Yogyakarta,"My Kopi-O! Indonesian Bistro, Sagan",162.0,5.0
+45,Shafira,Yogyakarta,"Seafood 99, Wonocatur",48.0,3.0
+45,Shafira,Yogyakarta,"Marugame Udon, Hartono Mall Jogja",8.0,4.0
+45,Shafira,Yogyakarta,"Kalluna, Kotabaru",165.0,4.0
+45,Shafira,Yogyakarta,"Rice&Steak, Ngipik, Potorono, Banguntapan, Bantul",108.0,4.0
+45,Shafira,Yogyakarta,"Mediterranea Restaurant by Kamil, Matrijeron",14.0,5.0
+45,Shafira,Yogyakarta,"Hawker's Steak, JEC",214.0,3.0
+45,Shafira,Yogyakarta,"Burgerax, Patangpuluhan",259.0,5.0
+45,Shafira,Yogyakarta,"Cak No Chinese Food, Jogoyudan",119.0,3.0
+45,Shafira,Yogyakarta,"Picnic! Pata X Sausage Tamansiswa, Jl. Tamansiswa No.49 Yogya",130.0,3.0
+45,Shafira,Yogyakarta,"Zona Seafood, Kotabaru",90.0,3.0
+45,Shafira,Yogyakarta,"Chikuro Pakuwon Mall Jogja, Pakuwon Mall Lantai LG",34.0,4.0
+45,Shafira,Yogyakarta,"Tanamera Coffee Roastery, Yogyakarta",241.0,4.0
+45,Shafira,Yogyakarta,"Hokben Kitchen, Seturan Jogja",124.0,5.0
+45,Shafira,Yogyakarta,"Ichiban Sushi, Plaza Malioboro",183.0,4.0
+45,Shafira,Yogyakarta,"Mie Bandung Chinese Food, Ngampilan",0.0,3.0
+45,Shafira,Yogyakarta,"Restoran Mahkota (Tiong San), Pajeksan",6.0,4.0
+45,Shafira,Yogyakarta,"Hakata Ikkousha, Demangan Baru",86.0,4.0
+45,Shafira,Yogyakarta,"Monalisa Burger Sisingamangaraja, seberang BDS syariah",192.0,5.0
+45,Shafira,Yogyakarta,"Por Aqui Resto & IRD, Prawirotaman",187.0,4.0
+45,Shafira,Yogyakarta,"Soto Sapi Winong, Ngeksigondo",218.0,4.0
+46,Syaila Dannya,Yogyakarta,"Hokben Kitchen, Seturan Jogja",124.0,5.0
+46,Syaila Dannya,Yogyakarta,"Petit Paris Boulangerie and Bistro, Kotabaru",221.0,3.0
+46,Syaila Dannya,Yogyakarta,"Pepper Lunch, Hartono Mall",97.0,4.0
+46,Syaila Dannya,Yogyakarta,"Chikuro Pakuwon Mall Jogja, Pakuwon Mall Lantai LG",34.0,4.0
+46,Syaila Dannya,Yogyakarta,"Rustik Bistro & Bar, Hotel Harper Malioboro Yogyakarta",15.0,4.0
+46,Syaila Dannya,Yogyakarta,"Rice&Steak, Ngipik, Potorono, Banguntapan, Bantul",108.0,3.0
+46,Syaila Dannya,Yogyakarta,"Restoran Mahkota (Tiong San), Pajeksan",6.0,3.0
+46,Syaila Dannya,Yogyakarta,"Sushi Tei, Komplek Colombo",158.0,4.0
+46,Syaila Dannya,Yogyakarta,"Pizza Hut, Adi Sucipto Jogja",128.0,5.0
+46,Syaila Dannya,Yogyakarta,"Zona Seafood, Kotabaru",90.0,3.0
+46,Syaila Dannya,Yogyakarta,Soto Daging Sapi Lamongan Cak Lim,202.0,3.0
+46,Syaila Dannya,Yogyakarta,"Yamie Panda, Tamansiswa",197.0,5.0
+46,Syaila Dannya,Yogyakarta,"Legend Coffee, Yogyakarta",3.0,3.0
+46,Syaila Dannya,Yogyakarta,"Sushi Factory, Gejayan",17.0,4.0
+46,Syaila Dannya,Yogyakarta,"Mie Bandung Chinese Food, Ngampilan",0.0,4.0
+46,Syaila Dannya,Yogyakarta,"Pothz Burger, STM Pembangunan",234.0,3.0
+46,Syaila Dannya,Yogyakarta,"Ayam Geprek & Rice Bowl Tobiko Mentai, Karangkajen",144.0,3.0
+46,Syaila Dannya,Yogyakarta,"Shigeru Sushi, Pakuwon Mall Yogyakarta",225.0,2.0
+46,Syaila Dannya,Yogyakarta,"Rumah Makan Tio Asli Ciu Chinese Food & Sea Food, Jetis",131.0,5.0
+46,Syaila Dannya,Yogyakarta,"Daruma Donburi, Mlati, Sinduadi",166.0,4.0
+46,Syaila Dannya,Yogyakarta,"Mediterranea Restaurant by Kamil, Matrijeron",14.0,3.0
+46,Syaila Dannya,Yogyakarta,"Bebek Peking dan Ayam Panggang Pak Gembul, Jl KH Ahmad Dahlan No 40",142.0,4.0
+46,Syaila Dannya,Yogyakarta,"Gokana Ramen & Teppan, Pakuwon Mall Jogja",163.0,4.0
+47,Tessa Festiana ,Yogyakarta,"Soto Sapi Winong, Ngeksigondo",218.0,3.0
+47,Tessa Festiana ,Yogyakarta,"Yamie Panda, Tamansiswa",197.0,3.0
+47,Tessa Festiana ,Yogyakarta,"Shaburi & Kintan Buffet, Ambarukmo Plaza Yogya",260.0,3.0
+47,Tessa Festiana ,Yogyakarta,"Pizza Aroma Italia 2, Gondokusuman",215.0,3.0
+47,Tessa Festiana ,Yogyakarta,"Ichiban Sushi, Plaza Malioboro",183.0,3.0
+47,Tessa Festiana ,Yogyakarta,"Por Aqui Resto & IRD, Prawirotaman",187.0,3.0
+47,Tessa Festiana ,Yogyakarta,"Bebek Peking dan Ayam Panggang Pak Gembul, Jl KH Ahmad Dahlan No 40",142.0,3.0
+47,Tessa Festiana ,Yogyakarta,"Pizza Hut, Adi Sucipto Jogja",128.0,3.0
+47,Tessa Festiana ,Yogyakarta,"Sushi Factory, Gejayan",17.0,4.0
+47,Tessa Festiana ,Yogyakarta,"Oase Cafe & Coffe, Mergangsan",243.0,3.0
+47,Tessa Festiana ,Yogyakarta,Soto Daging Sapi Lamongan Cak Lim,202.0,4.0
+47,Tessa Festiana ,Yogyakarta,"Cak No Chinese Food, Jogoyudan",119.0,3.0
+47,Tessa Festiana ,Yogyakarta,"A&M Co. Express, Jogja",222.0,4.0
+47,Tessa Festiana ,Yogyakarta,"Kalluna, Kotabaru",165.0,4.0
+47,Tessa Festiana ,Yogyakarta,"Seafood 99, Wonocatur",48.0,3.0
+47,Tessa Festiana ,Yogyakarta,"Hokben Kitchen, Seturan Jogja",124.0,3.0
+47,Tessa Festiana ,Yogyakarta,"Mediterranea Restaurant by Kamil, Matrijeron",14.0,3.0
+47,Tessa Festiana ,Yogyakarta,"Ayam Geprek & Rice Bowl Tobiko Mentai, Karangkajen",144.0,3.0
+47,Tessa Festiana ,Yogyakarta,"Sate Taichan Hitz, Gejayan",113.0,2.0
+47,Tessa Festiana ,Yogyakarta,"Daruma Donburi, Mlati, Sinduadi",166.0,3.0
+47,Tessa Festiana ,Yogyakarta,"Madam Tan Indonesian Food, Gondokusuman",173.0,4.0
+47,Tessa Festiana ,Yogyakarta,"Rice&Steak, Ngipik, Potorono, Banguntapan, Bantul",108.0,3.0
+47,Tessa Festiana ,Yogyakarta,"Chikuro Pakuwon Mall Jogja, Pakuwon Mall Lantai LG",34.0,3.0
+48,Yoseph Daveline Nusantara ,Yogyakarta,"Mediterranea Restaurant by Kamil, Matrijeron",14.0,4.0
+48,Yoseph Daveline Nusantara ,Yogyakarta,"Gokana Ramen & Teppan, Pakuwon Mall Jogja",163.0,4.0
+48,Yoseph Daveline Nusantara ,Yogyakarta,"Shigeru Sushi, Pakuwon Mall Yogyakarta",225.0,4.0
+48,Yoseph Daveline Nusantara ,Yogyakarta,"Ichiban Sushi, Plaza Malioboro",183.0,3.0
+48,Yoseph Daveline Nusantara ,Yogyakarta,"Restoran Mahkota (Tiong San), Pajeksan",6.0,3.0
+48,Yoseph Daveline Nusantara ,Yogyakarta,"Daruma Donburi, Mlati, Sinduadi",166.0,4.0
+48,Yoseph Daveline Nusantara ,Yogyakarta,"Madam Tan Indonesian Food, Gondokusuman",173.0,4.0
+48,Yoseph Daveline Nusantara ,Yogyakarta,"Monalisa Burger Sisingamangaraja, seberang BDS syariah",192.0,3.0
+48,Yoseph Daveline Nusantara ,Yogyakarta,"Hawker's Steak, JEC",214.0,4.0
+48,Yoseph Daveline Nusantara ,Yogyakarta,"Chikuro Pakuwon Mall Jogja, Pakuwon Mall Lantai LG",34.0,4.0
+48,Yoseph Daveline Nusantara ,Yogyakarta,"Ayam Geprek & Rice Bowl Tobiko Mentai, Karangkajen",144.0,5.0
+48,Yoseph Daveline Nusantara ,Yogyakarta,"Rice&Steak, Ngipik, Potorono, Banguntapan, Bantul",108.0,4.0
+48,Yoseph Daveline Nusantara ,Yogyakarta,"Soto Sapi Winong, Ngeksigondo",218.0,3.0
+48,Yoseph Daveline Nusantara ,Yogyakarta,"Pepper Lunch, Hartono Mall",97.0,3.0
+48,Yoseph Daveline Nusantara ,Yogyakarta,"Marugame Udon, Hartono Mall Jogja",8.0,3.0
+48,Yoseph Daveline Nusantara ,Yogyakarta,"Hakata Ikkousha, Demangan Baru",86.0,3.0
+48,Yoseph Daveline Nusantara ,Yogyakarta,"Tom Sushi, Hartono Mall Jogja",125.0,3.0
+48,Yoseph Daveline Nusantara ,Yogyakarta,"Bebek Peking dan Ayam Panggang Pak Gembul, Jl KH Ahmad Dahlan No 40",142.0,5.0
+49,alya,Yogyakarta,"Petit Paris Boulangerie and Bistro, Kotabaru",221.0,3.0
+49,alya,Yogyakarta,"Sate Taichan Hitz, Gejayan",113.0,4.0
+49,alya,Yogyakarta,"Zona Seafood, Kotabaru",90.0,2.0
+49,alya,Yogyakarta,"Sushi Factory, Gejayan",17.0,4.0
+49,alya,Yogyakarta,"Seafood 99, Wonocatur",48.0,3.0
+49,alya,Yogyakarta,"Mediterranea Restaurant by Kamil, Matrijeron",14.0,5.0
+49,alya,Yogyakarta,"Hokben Kitchen, Seturan Jogja",124.0,4.0
+49,alya,Yogyakarta,"Rustik Bistro & Bar, Hotel Harper Malioboro Yogyakarta",15.0,2.0
+49,alya,Yogyakarta,"Hawker's Steak, JEC",214.0,3.0
+49,alya,Yogyakarta,"Daruma Donburi, Mlati, Sinduadi",166.0,3.0
+49,alya,Yogyakarta,"Marugame Udon, Hartono Mall Jogja",8.0,2.0
+49,alya,Yogyakarta,"Rumah Makan Tio Asli Ciu Chinese Food & Sea Food, Jetis",131.0,4.0
+49,alya,Yogyakarta,"Pothz Burger, STM Pembangunan",234.0,3.0
+49,alya,Yogyakarta,"Legend Coffee, Yogyakarta",3.0,3.0
+49,alya,Yogyakarta,"Pizza Hut, Adi Sucipto Jogja",128.0,4.0
+49,alya,Yogyakarta,"Shaburi & Kintan Buffet, Ambarukmo Plaza Yogya",260.0,3.0
+49,alya,Yogyakarta,Silla Korean & Japanese Restaurant,206.0,3.0
+49,alya,Yogyakarta,"Restoran Mahkota (Tiong San), Pajeksan",6.0,2.0
+49,alya,Yogyakarta,Soto Daging Sapi Lamongan Cak Lim,202.0,2.0
+49,alya,Yogyakarta,"Gokana Ramen & Teppan, Pakuwon Mall Jogja",163.0,3.0
+49,alya,Yogyakarta,"Cak No Chinese Food, Jogoyudan",119.0,3.0
+49,alya,Yogyakarta,"A&M Co. Express, Jogja",222.0,3.0
+49,alya,Yogyakarta,"Kalluna, Kotabaru",165.0,4.0
+49,alya,Yogyakarta,"Pepper Lunch, Hartono Mall",97.0,3.0
+49,alya,Yogyakarta,"Tanamera Coffee Roastery, Yogyakarta",241.0,3.0
+50,febby,Yogyakarta,"Hawker's Steak, JEC",214.0,3.0
+50,febby,Yogyakarta,"Sushi Tei, Komplek Colombo",158.0,5.0
+50,febby,Yogyakarta,"Pothz Burger, STM Pembangunan",234.0,3.0
+50,febby,Yogyakarta,"Gokana Ramen & Teppan, Pakuwon Mall Jogja",163.0,3.0
+50,febby,Yogyakarta,"Kalluna, Kotabaru",165.0,3.0
+50,febby,Yogyakarta,"Pepper Lunch, Hartono Mall",97.0,2.0
+50,febby,Yogyakarta,"Restoran Mahkota (Tiong San), Pajeksan",6.0,4.0
+50,febby,Yogyakarta,"Yamie Panda, Tamansiswa",197.0,3.0
+50,febby,Yogyakarta,"Tanamera Coffee Roastery, Yogyakarta",241.0,5.0
+50,febby,Yogyakarta,Soto Daging Sapi Lamongan Cak Lim,202.0,4.0
+50,febby,Yogyakarta,"Oase Cafe & Coffe, Mergangsan",243.0,3.0
+50,febby,Yogyakarta,"Zona Seafood, Kotabaru",90.0,3.0
+50,febby,Yogyakarta,"Ichiban Sushi, Plaza Malioboro",183.0,4.0
+50,febby,Yogyakarta,"My Kopi-O! Indonesian Bistro, Sagan",162.0,3.0
+50,febby,Yogyakarta,"Burgerax, Patangpuluhan",259.0,3.0
+50,febby,Yogyakarta,"Soto Sapi Winong, Ngeksigondo",218.0,4.0
+50,febby,Yogyakarta,"Sushi Factory, Gejayan",17.0,4.0
+50,febby,Yogyakarta,"Monalisa Burger Sisingamangaraja, seberang BDS syariah",192.0,3.0
+50,febby,Yogyakarta,"Tom Sushi, Hartono Mall Jogja",125.0,5.0
+50,febby,Yogyakarta,"Chikuro Pakuwon Mall Jogja, Pakuwon Mall Lantai LG",34.0,4.0
+50,febby,Yogyakarta,"Shigeru Sushi, Pakuwon Mall Yogyakarta",225.0,5.0
+50,febby,Yogyakarta,"Rice&Steak, Ngipik, Potorono, Banguntapan, Bantul",108.0,3.0
+50,febby,Yogyakarta,"Nasi Mangkok Uncle Dave, Depok/Caturtunggal/Seturan",188.0,3.0
+50,febby,Yogyakarta,"Pizza Aroma Italia 2, Gondokusuman",215.0,4.0
+51,luna,Yogyakarta,"Gokana Ramen & Teppan, Pakuwon Mall Jogja",163.0,4.0
+51,luna,Yogyakarta,"Mie Bandung Chinese Food, Ngampilan",0.0,4.0
+51,luna,Yogyakarta,"Picnic! Pata X Sausage Tamansiswa, Jl. Tamansiswa No.49 Yogya",130.0,3.0
+51,luna,Yogyakarta,"Tom Sushi, Hartono Mall Jogja",125.0,5.0
+51,luna,Yogyakarta,"Soto Sapi Winong, Ngeksigondo",218.0,4.0
+51,luna,Yogyakarta,"Pizza Aroma Italia 2, Gondokusuman",215.0,4.0
+51,luna,Yogyakarta,Silla Korean & Japanese Restaurant,206.0,4.0
+51,luna,Yogyakarta,"Bebek Peking dan Ayam Panggang Pak Gembul, Jl KH Ahmad Dahlan No 40",142.0,4.0
+51,luna,Yogyakarta,"Yamie Panda, Tamansiswa",197.0,5.0
+51,luna,Yogyakarta,"Mie Ayam & Bakso Idolaku Pak Tikno, Tamansiswa",177.0,4.0
+51,luna,Yogyakarta,"Hakata Ikkousha, Demangan Baru",86.0,4.0
+51,luna,Yogyakarta,"Petit Paris Boulangerie and Bistro, Kotabaru",221.0,4.0
+51,luna,Yogyakarta,"Sate Taichan Hitz, Gejayan",113.0,4.0
+51,luna,Yogyakarta,"Daruma Donburi, Mlati, Sinduadi",166.0,3.0
+51,luna,Yogyakarta,"Burgerax, Patangpuluhan",259.0,4.0
+51,luna,Yogyakarta,"Cak No Chinese Food, Jogoyudan",119.0,3.0
+51,luna,Yogyakarta,"Seafood 99, Wonocatur",48.0,4.0
+51,luna,Yogyakarta,"Ayam Geprek & Rice Bowl Tobiko Mentai, Karangkajen",144.0,4.0
+51,luna,Yogyakarta,"Madam Tan Indonesian Food, Gondokusuman",173.0,4.0
+51,luna,Yogyakarta,"Sushi Factory, Gejayan",17.0,3.0
+51,luna,Yogyakarta,"Restoran Mahkota (Tiong San), Pajeksan",6.0,3.0
+51,luna,Yogyakarta,"Marugame Udon, Hartono Mall Jogja",8.0,4.0
+51,luna,Yogyakarta,"Shaburi & Kintan Buffet, Ambarukmo Plaza Yogya",260.0,4.0
+51,luna,Yogyakarta,"Mediterranea Restaurant by Kamil, Matrijeron",14.0,4.0
+51,luna,Yogyakarta,"Rumah Makan Tio Asli Ciu Chinese Food & Sea Food, Jetis",131.0,4.0
+52,nafi,Yogyakarta,"Ayam Geprek & Rice Bowl Tobiko Mentai, Karangkajen",144.0,3.0
+52,nafi,Yogyakarta,"Nasi Mangkok Uncle Dave, Depok/Caturtunggal/Seturan",188.0,3.0
+52,nafi,Yogyakarta,"Pizza Hut, Adi Sucipto Jogja",128.0,4.0
+52,nafi,Yogyakarta,"Shigeru Sushi, Pakuwon Mall Yogyakarta",225.0,3.0
+52,nafi,Yogyakarta,"Legend Coffee, Yogyakarta",3.0,4.0
+52,nafi,Yogyakarta,Soto Daging Sapi Lamongan Cak Lim,202.0,3.0
+52,nafi,Yogyakarta,"Marugame Udon, Hartono Mall Jogja",8.0,3.0
+52,nafi,Yogyakarta,"Mediterranea Restaurant by Kamil, Matrijeron",14.0,4.0
+52,nafi,Yogyakarta,"Tom Sushi, Hartono Mall Jogja",125.0,3.0
+52,nafi,Yogyakarta,"Zona Seafood, Kotabaru",90.0,3.0
+52,nafi,Yogyakarta,"Picnic! Pata X Sausage Tamansiswa, Jl. Tamansiswa No.49 Yogya",130.0,3.0
+52,nafi,Yogyakarta,"Hokben Kitchen, Seturan Jogja",124.0,4.0
+52,nafi,Yogyakarta,"Mie Bandung Chinese Food, Ngampilan",0.0,3.0
+52,nafi,Yogyakarta,"Tanamera Coffee Roastery, Yogyakarta",241.0,4.0
+52,nafi,Yogyakarta,"Kedai Zu Pa ( Zuppa Soup & Pasta ) Kotabaru, Juadi",155.0,3.0
+52,nafi,Yogyakarta,"Sushi Tei, Komplek Colombo",158.0,4.0
+52,nafi,Yogyakarta,"Seblak Asgar, Lowanu",110.0,3.0
+52,nafi,Yogyakarta,"Pothz Burger, STM Pembangunan",234.0,3.0
+52,nafi,Yogyakarta,"Daruma Donburi, Mlati, Sinduadi",166.0,3.0
+52,nafi,Yogyakarta,"Pepper Lunch, Hartono Mall",97.0,3.0
+52,nafi,Yogyakarta,"Cak No Chinese Food, Jogoyudan",119.0,3.0
+52,nafi,Yogyakarta,"Yamie Panda, Tamansiswa",197.0,3.0
+52,nafi,Yogyakarta,"Por Aqui Resto & IRD, Prawirotaman",187.0,3.0
+53,nud,Yogyakarta,"Sate Taichan Hitz, Gejayan",113.0,1.0
+53,nud,Yogyakarta,"Madam Tan Indonesian Food, Gondokusuman",173.0,3.0
+53,nud,Yogyakarta,"Rumah Makan Tio Asli Ciu Chinese Food & Sea Food, Jetis",131.0,1.0
+53,nud,Yogyakarta,"Sushi Tei, Komplek Colombo",158.0,4.0
+53,nud,Yogyakarta,"Hakata Ikkousha, Demangan Baru",86.0,2.0
+53,nud,Yogyakarta,"Restoran Mahkota (Tiong San), Pajeksan",6.0,3.0
+53,nud,Yogyakarta,"Kalluna, Kotabaru",165.0,3.0
+53,nud,Yogyakarta,"Gokana Ramen & Teppan, Pakuwon Mall Jogja",163.0,2.0
+53,nud,Yogyakarta,"Mediterranea Restaurant by Kamil, Matrijeron",14.0,3.0
+53,nud,Yogyakarta,"Pizza Aroma Italia 2, Gondokusuman",215.0,2.0
+53,nud,Yogyakarta,"Rice&Steak, Ngipik, Potorono, Banguntapan, Bantul",108.0,1.0
+53,nud,Yogyakarta,"Shaburi & Kintan Buffet, Ambarukmo Plaza Yogya",260.0,5.0
+53,nud,Yogyakarta,"Oase Cafe & Coffe, Mergangsan",243.0,5.0
+53,nud,Yogyakarta,"Yamie Panda, Tamansiswa",197.0,4.0
+53,nud,Yogyakarta,"Zona Seafood, Kotabaru",90.0,1.0
+53,nud,Yogyakarta,"Por Aqui Resto & IRD, Prawirotaman",187.0,3.0
+53,nud,Yogyakarta,"Sushi Factory, Gejayan",17.0,4.0
+53,nud,Yogyakarta,"Picnic! Pata X Sausage Tamansiswa, Jl. Tamansiswa No.49 Yogya",130.0,3.0
+53,nud,Yogyakarta,"Pizza Hut, Adi Sucipto Jogja",128.0,2.0
+53,nud,Yogyakarta,"Hawker's Steak, JEC",214.0,2.0
+53,nud,Yogyakarta,"Seafood 99, Wonocatur",48.0,1.0
+53,nud,Yogyakarta,"Shigeru Sushi, Pakuwon Mall Yogyakarta",225.0,2.0
+53,nud,Yogyakarta,"Ayam Geprek & Rice Bowl Tobiko Mentai, Karangkajen",144.0,1.0
+53,nud,Yogyakarta,"Pothz Burger, STM Pembangunan",234.0,1.0
+53,nud,Yogyakarta,Soto Daging Sapi Lamongan Cak Lim,202.0,1.0
+53,nud,Yogyakarta,"Burgerax, Patangpuluhan",259.0,1.0
+53,nud,Yogyakarta,"Soto Sapi Winong, Ngeksigondo",218.0,1.0
+53,nud,Yogyakarta,"Tom Sushi, Hartono Mall Jogja",125.0,2.0
+53,nud,Yogyakarta,"Daruma Donburi, Mlati, Sinduadi",166.0,1.0
+53,nud,Yogyakarta,"Chikuro Pakuwon Mall Jogja, Pakuwon Mall Lantai LG",34.0,3.0
+53,nud,Yogyakarta,"Bebek Peking dan Ayam Panggang Pak Gembul, Jl KH Ahmad Dahlan No 40",142.0,1.0
+54,rina,Yogyakarta,"Pizza Hut, Adi Sucipto Jogja",128.0,3.0
+54,rina,Yogyakarta,"Yamie Panda, Tamansiswa",197.0,4.0
+54,rina,Yogyakarta,"Madam Tan Indonesian Food, Gondokusuman",173.0,4.0
+54,rina,Yogyakarta,"Ayam Geprek & Rice Bowl Tobiko Mentai, Karangkajen",144.0,4.0
+54,rina,Yogyakarta,"Marugame Udon, Hartono Mall Jogja",8.0,4.0
+54,rina,Yogyakarta,"Tanamera Coffee Roastery, Yogyakarta",241.0,4.0
+54,rina,Yogyakarta,"Hakata Ikkousha, Demangan Baru",86.0,4.0
+54,rina,Yogyakarta,"Kalluna, Kotabaru",165.0,4.0
+54,rina,Yogyakarta,"Sate Taichan Hitz, Gejayan",113.0,3.0
+54,rina,Yogyakarta,"Pothz Burger, STM Pembangunan",234.0,3.0
+54,rina,Yogyakarta,"Tom Sushi, Hartono Mall Jogja",125.0,3.0
+54,rina,Yogyakarta,"Ichiban Sushi, Plaza Malioboro",183.0,4.0
+54,rina,Yogyakarta,"Mie Ayam & Bakso Idolaku Pak Tikno, Tamansiswa",177.0,4.0
+54,rina,Yogyakarta,"Mie Bandung Chinese Food, Ngampilan",0.0,3.0
+54,rina,Yogyakarta,"Pizza Aroma Italia 2, Gondokusuman",215.0,3.0
+54,rina,Yogyakarta,"Chikuro Pakuwon Mall Jogja, Pakuwon Mall Lantai LG",34.0,3.0
+54,rina,Yogyakarta,"Petit Paris Boulangerie and Bistro, Kotabaru",221.0,4.0
+54,rina,Yogyakarta,"Shaburi & Kintan Buffet, Ambarukmo Plaza Yogya",260.0,4.0
+54,rina,Yogyakarta,"Rumah Makan Tio Asli Ciu Chinese Food & Sea Food, Jetis",131.0,4.0
+54,rina,Yogyakarta,Soto Daging Sapi Lamongan Cak Lim,202.0,4.0
+54,rina,Yogyakarta,"Pepper Lunch, Hartono Mall",97.0,3.0
+54,rina,Yogyakarta,"Oase Cafe & Coffe, Mergangsan",243.0,4.0
+54,rina,Yogyakarta,Silla Korean & Japanese Restaurant,206.0,3.0
+54,rina,Yogyakarta,"Sushi Tei, Komplek Colombo",158.0,3.0
+54,rina,Yogyakarta,"Soto Sapi Winong, Ngeksigondo",218.0,3.0
+55,yolanda ruth polina ,Yogyakarta,"Bebek Peking dan Ayam Panggang Pak Gembul, Jl KH Ahmad Dahlan No 40",142.0,4.0
+55,yolanda ruth polina ,Yogyakarta,"Ayam Geprek & Rice Bowl Tobiko Mentai, Karangkajen",144.0,4.0
+55,yolanda ruth polina ,Yogyakarta,"My Kopi-O! Indonesian Bistro, Sagan",162.0,4.0
+55,yolanda ruth polina ,Yogyakarta,"Sushi Factory, Gejayan",17.0,4.0
+55,yolanda ruth polina ,Yogyakarta,"Soto Sapi Winong, Ngeksigondo",218.0,4.0
+55,yolanda ruth polina ,Yogyakarta,"Sushi Tei, Komplek Colombo",158.0,4.0
+55,yolanda ruth polina ,Yogyakarta,"Legend Coffee, Yogyakarta",3.0,4.0
+55,yolanda ruth polina ,Yogyakarta,Soto Daging Sapi Lamongan Cak Lim,202.0,4.0
+55,yolanda ruth polina ,Yogyakarta,"Mediterranea Restaurant by Kamil, Matrijeron",14.0,4.0
+55,yolanda ruth polina ,Yogyakarta,"Mie Ayam & Bakso Idolaku Pak Tikno, Tamansiswa",177.0,4.0
+55,yolanda ruth polina ,Yogyakarta,"Por Aqui Resto & IRD, Prawirotaman",187.0,4.0
+55,yolanda ruth polina ,Yogyakarta,"Cak No Chinese Food, Jogoyudan",119.0,4.0
+55,yolanda ruth polina ,Yogyakarta,"A&M Co. Express, Jogja",222.0,4.0
+55,yolanda ruth polina ,Yogyakarta,"Pizza Hut, Adi Sucipto Jogja",128.0,3.0
+55,yolanda ruth polina ,Yogyakarta,"Seblak Asgar, Lowanu",110.0,3.0
+55,yolanda ruth polina ,Yogyakarta,"Hawker's Steak, JEC",214.0,4.0
+55,yolanda ruth polina ,Yogyakarta,"Marugame Udon, Hartono Mall Jogja",8.0,4.0
+55,yolanda ruth polina ,Yogyakarta,"Shaburi & Kintan Buffet, Ambarukmo Plaza Yogya",260.0,4.0
+55,yolanda ruth polina ,Yogyakarta,"Monalisa Burger Sisingamangaraja, seberang BDS syariah",192.0,4.0
+55,yolanda ruth polina ,Yogyakarta,"Nasi Mangkok Uncle Dave, Depok/Caturtunggal/Seturan",188.0,4.0
+55,yolanda ruth polina ,Yogyakarta,"Hokben Kitchen, Seturan Jogja",124.0,5.0
+55,yolanda ruth polina ,Yogyakarta,"Mie Bandung Chinese Food, Ngampilan",0.0,4.0
+55,yolanda ruth polina ,Yogyakarta,"Picnic! Pata X Sausage Tamansiswa, Jl. Tamansiswa No.49 Yogya",130.0,4.0
+55,yolanda ruth polina ,Yogyakarta,"Kedai Zu Pa ( Zuppa Soup & Pasta ) Kotabaru, Juadi",155.0,4.0
+55,yolanda ruth polina ,Yogyakarta,"Hakata Ikkousha, Demangan Baru",86.0,4.0
